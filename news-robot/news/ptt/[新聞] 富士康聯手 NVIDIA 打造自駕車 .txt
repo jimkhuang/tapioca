@@ -1,0 +1,111 @@
+作者yoche2000 (咯咯噠)看板Stock標題[新聞] 富士康聯手 NVIDIA 打造自駕車時間Mon Jan  9 14:19:24 2023
+原文標題：Foxconn Partners With NVIDIA to Build Automated Electric Vehicles
+
+原文連結：https://bit.ly/3ilEIiw
+
+發布時間：2023/1/3
+
+記者署名：Marie Labrie
+
+原文內容：
+
+Foxconn to Manufacture NVIDIA DRIVE Orin Computers for Global Automotive
+Market, Integrate NVIDIA DRIVE Hyperion Sensor Architecture for EV Fleets
+
+As part of the agreement, Foxconn will be a tier-one manufacturer, producing
+electronic control units (ECUs) based on NVIDIA DRIVE Orin™ for the global
+automotive market. Foxconn manufactured electric vehicles (EVs) will feature
+DRIVE Orin ECUs and DRIVE Hyperion™ sensors for highly automated driving
+capabilities.
+
+“This strategic cooperation with NVIDIA strengthens the intelligent driving
+solutions Foxconn will be able to provide. Together, we are enabling the
+industry to build energy-efficient, automated vehicles,” said Eric Yeh,
+senior director of the Software Development Center at Foxconn. “This is a
+well-considered partnership that leverages unique strengths on each side in
+the pursuit of innovative EV development and opportunities.”
+
+The partnership with Foxconn will allow NVIDIA to further scale its efforts
+and meet growing industry demand as more transportation leaders select DRIVE
+Orin for intelligent vehicles. In addition, by building EVs on the DRIVE
+Hyperion qualified sensor set, Foxconn will speed up its time-to-market and
+time-to- cost strategies.
+
+“Our partnership with Foxconn will provide OEMs developing intelligent
+driving solutions with a world-class supplier that can scale for volume
+manufacturing of the NVIDIA DRIVE Orin platform,” said Rishi Dhall, vice
+president of automotive at NVIDIA. “Foxconn’s decision to also use the
+DRIVE Hyperion sensor suite for its EVs will help accelerate their path to
+production without compromising safety, reliability or quality.”
+
+The automotive-grade NVIDIA DRIVE Orin system-on-a-chip achieves up to 254
+trillion operations per second and is designed to handle the large number of
+applications and deep neural networks that run simultaneously in autonomous
+vehicles. NVIDIA DRIVE Hyperion is a modular development platform and
+reference architecture for designing autonomous vehicles. Combined, they
+serve as the brain and central nervous system of the vehicle, processing
+massive amounts of sensor data in real time so autonomous vehicles can safely
+perceive, plan and act.
+
+
+心得/評論：
+
+富士康將負責 NVIDIA DRIVE Orin的電控系統同時加上 DRIVE Hyperion 的感測器。
+鴻海葉光釗表示有 NVIDIA 在智能自駕解決方案會對鴻海造車有莫大的幫助。
+鴻海車務副總 Rishi Dhal 表示 富士康引入輝達的方案將會加速他們造車的速度。
+
+推 godog       : 難怪今天大漲0.7元 01/09 14:23
+
+推 qa1122z     : 你特：你也懂自駕車？ 01/09 14:24
+
+推 thbygn98    : 99nvda 01/09 14:26
+
+推 shinyi444   : 要幾篇-.- 01/09 14:29
+
+噓 VincentZeda : 99公公 01/09 14:33
+
+→ fatb        : 公公說要有車 便有車 01/09 14:35
+
+→ venusvirus  : 上週的新聞還貼，雖然今天收跟1/3一樣的價格 01/09 14:36
+
+→ idernest    : 一篇5角 01/09 14:43
+
+推 Peterborough: 希望明天漲停 01/09 14:46
+
+推 knknkn      : 第一次看到簽名檔放CV的XD 01/09 14:47
+
+推 kevin31a2   : 還在放利多，跌停吧 01/09 14:50
+
+推 ezorttc     : 只剩我不會做車子了嗎 01/09 14:55
+
+推 c928        : 不做手機換做汽車了啦 01/09 15:04
+
+推 cool189     : 前幾天不就有了 根本沒用 躺在地上 01/09 15:06
+
+推 takuma      : 還好我買nvidia 01/09 15:06
+
+推 by19        : 根本什麼屁都還沒有 只有ppt 01/09 15:17
+
+→ patrickptt  : 還有哪間公司沒有 據傳 與 公公 合作的嗎 01/09 15:29
+
+推 jason90814  : nvidia很棒啊 但是主體還是納智捷... 01/09 15:33
+
+推 linbryan    : Tier 1提供零組件.那種電腦沒印刷電路板.提供印刷電 01/09 15:36
+
+→ linbryan    : 路板廠商算不算Tier 1 01/09 15:36
+
+推 scheduling  : 公公的車要在哪一國製造 01/09 15:37
+
+→ yolasiku    : 聯手組裝 01/09 15:44
+
+推 klwei       : 99公公 01/09 15:44
+
+推 ins716      : 沒營收就滾 不要炒新聞 01/09 15:48
+
+→ ab4daa      : 車子線沒插好會燒掉ㄇ 01/09 16:06
+
+推 ptta        : 簡單，不就插一片板子上去 01/09 16:20
+
+→ lordwill    : 可以當礦車了嗎 01/09 17:19
+
+推 foxher      : 大牛股 01/09 18:37

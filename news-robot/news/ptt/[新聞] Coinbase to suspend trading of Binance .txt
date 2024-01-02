@@ -1,0 +1,78 @@
+作者Severine (賽非茵)看板Stock標題[新聞] Coinbase to suspend trading of Binance時間Tue Feb 28 01:45:12 2023
+
+原文標題： Coinbase to suspend trading of Binance USD (BUSD)
+
+原文連結： https://bit.ly/3IYfwcn
+
+發布時間： Published 33 mins ago on February 27, 2023
+
+記者署名： Priya NV
+
+
+原文內容：
+
+-Coinbase will suspend trading services to Binance starting mid-March
+-The exchange stated that the decision comes after evaluating whether the
+ stablecoin meets their listing standards
+
+Coinbase, a leading U.S. crypto exchange, announced that it would suspend the
+trading of Binance USD (BUSD). The decision comes right when the U.S.
+Securities and Exchanges Commission (SEC) labeled the stablecoin as a
+security. Notably, Coinbase is the first major U.S.-based crypto exchange to
+put a distance between the stablecoin after regulatory action was brought to
+light.
+
+The crypto exchange stated that it would pause BUSD trading on March 13,
+2023.  This suspension would apply to Coinbase.com, Coinbase Pro, Coinbase
+Exchange, and Coinbase Prime. The American crypto exchange further stated
+that users would be able to withdraw their coins at any time. The exchange
+said,
+
+“We regularly monitor the assets on our exchange to ensure they meet our
+listing standards. Based on our most recent reviews, Coinbase will suspend
+trading for Binance USD (BUSD) on March 13, 2023, on or around 12pm ET.”
+
+Notably, the news has not had a significant impact on the stablecoin at press
+time. According to CoinMarketCap, BUSD still held the third position among
+the top stablecoins in the market, with the coin maintaining its dollar peg.
+
+Coinbase’s move a reaction to SEC action?
+
+On February 13, 2023, Paxos Trust Company- the company issuing BUSD –
+ confirmed that the firm had received a Wells notice from the SEC at the
+beginning of the month. The notice stated that staff at the commission was “
+considering recommending an action” claiming that the stablecoin was a
+security. And, as a result, the firm was required to register BUSD under
+federal securities laws.
+
+However, the BUSD issuer disagreed with SEC’s argument, claiming that the
+stablecoin was not a security. Paxos even stated that it would defend BUSD‘s
+status through litigation if required. As of February 18, 2023, the firm’s
+CEO – Charles Cascarilla – stated that was in “constructive discussions”
+ with the commission over the matter.
+
+Moreover, Paxos’ issue did not just end with the SEC’s regulatory action.
+The New York Department of Financial Services ordered the firm to stop
+minting Binance USD. This was because of “several unresolved issues related
+to Paxos’ oversight of its relationship with Binance in regard to
+Paxos-issued BUSD.” Paxos has since ended its relationship with Binance,
+citing changing market conditions as the reason.
+
+
+
+心得/評論：
+
+雖然有之前UST的事件發生,但似乎此次事件目前並沒有對市場造成多大影響.
+畢竟沒有之前那樣擠兌的事情發生.
+
+噓 DrGun       : 痲痹惹8 02/28 01:55
+
+→ allenchang0 : 因為要先讓大戶先跑 02/28 01:58
+
+推 ckuser      : 大哥 標題要打完啊… Binance USD 02/28 07:36
+
+噓 deepdish    : 假鬼假怪文一律餵食chatGPT 02/28 07:55
+
+噓 deepdish    : https://i.imgur.com/z8h5eUe.png 02/28 07:58
+
+推 ruokcnn     : SEC要查他 當然乖乖鎖 02/28 10:26

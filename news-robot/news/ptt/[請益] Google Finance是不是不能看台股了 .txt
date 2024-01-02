@@ -1,0 +1,89 @@
+作者cathyjordan (cathy)看板Stock標題[請益] Google Finance是不是不能看台股了時間Mon Feb  6 15:30:33 2023
+昨天開始google finance輸入台股四位數字代號，網頁會跳出「找不到這個股票」，有人知
+道發生什麼事嗎？
+
+0050/0056找得到，但個股找不到了？
+
+噓 pypy93264   : 爬文好嗎？好幾天了 02/06 15:31
+
+推 cuteSquirrel: 資料被開除了 02/06 15:34
+
+推 doasgloria  : 讓大家不要一直看盤 好好抄一下心經 02/06 15:36
+
+→ iamneptune  : 免費仔沒了 02/06 15:46
+
+推 jenchieh5   : 工程師去洗碗了 02/06 15:47
+
+推 mdkn35      : 爛耶== 02/06 15:47
+
+推 ttweixiao   : 到現在還沒好 02/06 15:48
+
+推 Armin       : 我的報表也是 02/06 15:52
+
+→ ab4daa      : 工程師被裁了 02/06 15:53
+
+推 darlost     : 快一個禮拜了 02/06 15:54
+
+推 springman   : 大部份都不見了，少數還留著，像tpe:1711，奇怪。 02/06 15:55
+
+推 abc0922001  : 對阿，股票很多的話，抓Yahoo都超慢的 02/06 15:58
+
+噓 final01     : 有點同李心好嗎？人家都要走了 02/06 15:58
+
+推 DellSale999 : 看大盤就好了 stock 加權指數 02/06 16:00
+
+推 robinsonXD  : 害我上班不能偷看盤了 02/06 16:02
+
+推 sirins      : 大魯閣可以XDD 02/06 16:10
+
+推 ca1123      : 有替代方案嗎 02/06 16:18
+
+→ saviora     : 可以改用yahoo Finance啊 02/06 16:27
+
+推 k862479k    : 搜5278終於不會導去股票了 02/06 16:29
+
+推 pypy93264   : 我搜5278通常都要下一頁才會看到尚凡...(遮臉 02/06 16:33
+
+推 Diver123    : ETF的還可以看 02/06 16:38
+
+推 k798976869  : 柴園滾滾 02/06 16:40
+
+→ vince02     : 我存在google finance的data  QQ 02/06 16:41
+
+推 caumu       : 或許是在指引你 不要買個股買ETF 02/06 16:52
+
+→ lyhorcish   : 台股的話，tw.yahoo 一次可以傳批量股號(逗號區隔) 02/06 17:00
+
+→ lyhorcish   : 印象中早前用finance .yahoo抓台股即時成交價會有( 02/06 17:37
+
+→ lyhorcish   : 一小時？)時間差，因即時損益跳動太大才發現問題 02/06 17:37
+
+推 cleanx      : 2330.TW ？ 02/06 18:30
+
+→ srarod      : 最近google sheet call currency:USDTWD　也變成不 02/06 18:45
+
+→ srarod      : 行 02/06 18:45
+
+→ srarod      : 要改currency:USD-TWD 看是不是有類似的變更？ 02/06 18:45
+
+推 Vladivostok : 工程師：不看也罷，我去美股了 02/06 19:07
+
+→ MacD89      : =GoogleFinance("CURRENCY:USDTWD") 我的正常但台股 02/06 20:58
+
+→ MacD89      : 的確是掛了 02/06 21:00
+
+推 A1pha       : 改用Excel抓外部資料啊～我都這樣抓資料。 02/06 21:27
+
+推 shtsao      : 這幾天研究了一下，剛剛試出來要打 TPE:空一格+股 02/06 21:58
+
+→ shtsao      : 號 02/06 21:58
+
+→ shtsao      : 但不是每一間都有 02/06 21:58
+
+推 nickmail    : 借題請教各位前輩， googlefinance的參數TPE.TAIEX 07/05 21:40
+
+→ nickmail    : ，大家是不是最近也無法使用了？而且發現google fi 07/05 21:40
+
+→ nickmail    : nance網站也找不到台灣加權指數了 07/05 21:40
+
+推 yuiop       : 改成GOOGLEFINANCE("TPE:IX0001")，就可以顯示囉 07/20 12:58

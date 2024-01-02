@@ -1,0 +1,79 @@
+作者astushi ()看板Stock標題Re: [新聞] 震撼！ 特斯拉減用碳化矽時間Sun Mar  5 19:54:50 2023
+※ 引述《fastenjoe (肥勝)》之銘言：
+: 內行人看門道，外行人看熱鬧，果然跟我們想的一樣，使用SiC MOSFET並聯IGBT的hybr
+id
+: https://technews.tw/2023/03/03/trench-sic-misfet-may-play-the-key-role-in-th
+e-
+: 推 s844012     : 講太專業，直接講對哪一家廠商有優勢 03/05 19:59
+
+→ astushi     : 我是不知道台廠有誰在做SiC SBD, 但做IGBT的不少， 03/05 20:03
+
+→ astushi     : 應該都有機會。不過這市場目前還很小，說因為Tesla 03/05 20:03
+
+→ astushi     : 的一個轉換會讓某些公司瞬間大賺我是覺得不至於， 03/05 20:03
+
+→ astushi     : 但要小心某些廠商一直都在佈局SiC的，未來可能不是 03/05 20:03
+
+→ astushi     : 那麼看好 03/05 20:03
+
+推 truelove356 : 那wolfspeed 不就gg 了？ 03/05 20:09
+
+→ astushi     : 我覺得不至於，inverter還是得用SiC MOSFET。Tesla 03/05 20:19
+
+→ astushi     : 說的這個應該只限於OBC, 廠商會少吃到一塊沒錯，但 03/05 20:19
+
+→ astushi     : 不至於崩盤。要投機的話，趕快查誰有做SiC SBD, 不 03/05 20:19
+
+→ astushi     : 過我猜那個利潤很低。是我我會查Tesla的這個solutio 03/05 20:19
+
+→ astushi     : n封裝找誰做的，因為SiC SBD跟IGBT並聯，勢必要解決 03/05 20:19
+
+→ astushi     : 散熱沒有全SiC好的問題，看起來Tesla是有解決這個 03/05 20:19
+
+→ astushi     : 問題才敢回去用 03/05 20:19
+
+→ astushi     : 自回，新聞寫的是要拿來用在inverter上，這還真是 03/05 20:29
+
+→ astushi     : 黑科技了。這封裝廠或封裝IP一定發大財 03/05 20:29
+
+推 MIT5566     : 封裝有限制就從外部散熱模組下手啊 power mos都馬要 03/05 20:33
+
+推 nangaluchen : 反正有個結論是肯定的 SiC的用量成長將低於預期 03/05 20:33
+
+→ nangaluchen : 受害最深的 肯定是二三線的台廠和中國廠 03/05 20:33
+
+→ MIT5566     : 靠外部散熱 03/05 20:33
+
+→ nangaluchen : 特別是台灣那幾家小的 夢直接沒了 03/05 20:34
+
+推 enemyli     : 台灣的本來就是炒個話題而已 哪有差 03/05 20:36
+
+→ FatFatQQ    :  https://i.imgur.com/Y5a8l2U.jpg 03/05 20:42
+
+噓 JessVeron   : 現在sic比重那麼低  對廠商哪有差  ～ 03/05 20:44
+
+→ astushi     : 就我所知台灣要做SiC因為沒磊晶技術，所以利潤硬是 03/05 20:49
+
+→ astushi     : 比國外低很多。那個磊晶太難了，不是買一樣的爐子就 03/05 20:49
+
+→ astushi     : 能做到，要改機。台灣要追上恐怕短時間內難 03/05 20:49
+
+→ astushi     : 回Jess大，我也是這樣覺得，在台灣這個領域市場才 03/05 20:50
+
+→ astushi     : 剛開始，很小。 03/05 20:50
+
+→ x5533007    : 危機就是股價的轉機 03/05 20:50
+
+推 Shepherd1987: IGBT頻率上不去, GaN + SiC摻在一起做撒尿牛丸才是 03/05 20:55
+
+→ Shepherd1987: 正解 03/05 20:55
+
+推 towe77      : 第一行不就寫ROHM了 不然去報虎門的那些課直接看 03/05 21:59
+
+→ astushi     : https://i.imgur.com/SfwxOCO.jpg 03/05 22:48
+
+→ astushi     : 沒啊。Tesla沒說他是怎麼做的，我是看到新聞內容提 03/05 22:50
+
+→ astushi     : 到hybrid, 想到ROHM的solution才又去翻ROHM的網頁 03/05 22:50
+
+→ astushi     : 來看。也很有可能Tesla的黑科技比這更厲害也說不定 03/05 22:50

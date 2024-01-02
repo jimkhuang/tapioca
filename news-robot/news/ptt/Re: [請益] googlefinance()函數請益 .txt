@@ -1,0 +1,106 @@
+作者Juniorgreen (寶寶加油)看板Stock標題Re: [請益] googlefinance()函數請益時間Mon Feb  6 16:36:26 2023
+野人獻曝將yahoo!股市資料匯入google spreadsheet的方法
+
+使用IMPORTXML(url,xpath_query) 公式
+參考網站https://blog.golayer.io/google-sheets/yahoo-finance-google-sheets
+
+如果是要查股價可copy以下
+=importxml("https://tw.stock.yahoo.com/quote/"&A2&".TW",
+  "/html/body/div[1]/div/div/div/div/div[5]/div[1]/div[1]/div/div[1]/
+    div/div[2]/div[1]/div/span[1]")
+!其中A2請以股票代號代替!
+
+如果平常用googlefinance，壞掉才用yahoo
+請copy以下
+=IFERROR(googlefinance("TPE:"&A2,"price"),
+         importxml("https://tw.stock.yahoo.com/quote/"&A2&".TW",
+                   "/html/body/div[1]/div/div/div/div/div[5]/div[1]/div[1]/
+                    div/div[1]/div/div[2]/div[1]/div/span[1]"))
+!同樣A2以股票代號代替!
+
+嘗試過用Yahoo Finance網站不知為何失敗
+用yahoo!股市網站就成功
+
+推 summerleaves: 未用先推 好人一生平安 02/06 16:40
+
+推 ca1123      : 推 02/06 16:42
+
+推 darlost     : 好人一世平安 02/06 16:44
+
+推 lumwhola    : 推 好人一生平安 02/06 16:45
+
+推 rwhung      : 幫推 02/06 16:53
+
+推 cccccc0125  : 感謝，嘗試第一個是成功的 02/06 16:53
+
+推 Siros       : 謝分享 02/06 16:56
+
+推 uegajde     : 謝謝分享 02/06 16:57
+
+推 cccccc0125  : 不過上櫃的股價抓不到 02/06 17:00
+
+推 stlinman    : 感謝，有幫到忙 02/06 17:01
+
+推 tst818      : 謝謝分享，上櫃要改成.TWO 02/06 17:04
+
+推 cccccc0125  : 感謝樓上，成功抓到上櫃的股價了 02/06 17:17
+
+推 fatb        : 好人一生平安 02/06 17:17
+
+推 cccccc0125  : 真的幫了大忙，感謝。 不過好奇問一下這個是盤中即 02/06 17:18
+
+→ cccccc0125  : 時報價嗎？ 穩定性如何，因為google finance真的常 02/06 17:18
+
+→ cccccc0125  : 常出問題 02/06 17:18
+
+推 agslee      : 有用有推 02/06 17:19
+
+噓 e2ne0       : 你有改xpath嗎 沒改要他用台雅的xpath是要爬蟲去撞 02/06 17:40
+
+→ e2ne0       : 牆喔 02/06 17:40
+
+→ lyhorcish   : tw yahoo即時成交價有慢一點點，穩定性還可以，不 02/06 17:41
+
+→ lyhorcish   : 過大家都跑來這裡抓後不知會不會做甚麼改變，哈 02/06 17:41
+
+推 allmetaphor : 先推….. 02/06 18:18
+
+推 lnonai      : 大家都去爬蟲伺服器就會擋吧 02/06 18:26
+
+噓 tr000064    : 低調 02/06 19:28
+
+推 wsad        : 真的太感謝了，祝福您一世平安 02/06 19:53
+
+推 laurakao    : 感謝原po 02/06 20:17
+
+推 BleuSaphir  : 原 po 好人 02/06 20:33
+
+推 damphaar    : 推 謝謝分享 02/06 20:50
+
+推 dayafttom   : 感謝~ 02/06 20:53
+
+推 sazabijiang : 推好人分享 02/06 21:08
+
+推 MicroPtt    : 有用有推 02/06 21:22
+
+推 ted90472    : 有用有推 02/06 22:02
+
+推 natyshow    : 謝好人 02/06 23:10
+
+推 clickjhan   : 推 02/06 23:34
+
+推 supersunday : 感謝你 02/07 00:07
+
+推 wei9898     : 網頁不同，標籤不同 02/07 07:19
+
+噓 GXIII       : 恢復了 工程師交接完成 02/07 09:16
+
+推 yuiop       : 請問IMPORTXML更新時間是多久，好像比googlefinance 02/07 09:51
+
+→ yuiop       : 慢一點？ 02/07 09:51
+
+推 MrShin      : 感謝大大..成功使用 02/07 09:59
+
+推 haklim      : 對，清單恢復了 02/07 12:10
+
+推 slighsity   : 推分享 02/08 19:58

@@ -1,0 +1,171 @@
+作者NCKUFatPork (成大肥宅悲歌)看板Stock標題Re: [標的] Google.US  鮑爾爺爺的隱憂時間Mon Feb 13 08:56:16 2023
+Google有很好的工程師文化, 在技術方面絕對不落人後
+軟體方面的基礎建設(搜尋, 分布式系統, AI, ...etc)幾乎從未落後
+在單一功能上, Google可以把東西做得很好 (譬如Pixel剛推出時的拍照演算法),
+但產品方面, 你很少聽到Google弄出什麼眼睛一亮的產品
+除了搜尋以外, Android Youtube都是靠收購搞來的
+多方嘗試是好的, 但這幾年來嘗試的大方向沒幾個賺錢的
+Cloud, Shopping, Chromebook, Nest, Pixel, Stadia, Waymo
+除了Cloud發展有漸入佳境的趨勢, 剩下其實離賺大錢非常遙遠
+
+這次發表會demo的題材也只是Google對商品化的嗅覺很差的一個縮影.
+當微軟花了一大部分時間展示GPT商業化的潛能, 像是
+- 旅遊規劃
+- 商品比較
+- 報告分析 (to B)
+Google把大部分的時間拿去介紹Google Lens還有一些不重要的東西.
+甚至對於Bard的整合僅止於單純的問答.
+有技術歸有技術, 我個人認為Google並不是做不出一樣的商品.
+但Google很少"第一個"展示出這樣跨時代的產品.
+就像Alpha Go是一個Google技術力的完美展示,
+但也證明Google即便有這樣的技術也沒在多年後發展出一個可盈利的模型.
+
+Satya和Pichai在商業化嗅覺這方面的落差就蠻大的.
+像是All in 雲端, 收購GitHub, Windows UX升級, Xbox Cloud Gaming
+以及Open.ai 還有GitHub copilot和Edge的copilot
+即便在矽谷微軟並不是一線人才的首選, 但在Satya的帶領下事業反而蒸蒸日上
+
+個人認為Google該好好思考怎麼整頓高層, 思考怎麼做好產品
+不然在矽谷的激烈競爭有可能會成為下一個Yahoo / Oracle也說不定
+
+推 leaveleft   : 認同...一堆人都想進Fanng，很少聽到第一目標是微 02/13 09:14
+
+→ leaveleft   : 軟的，但微軟真的是穩定的強... 02/13 09:14
+
+→ wondtty     : 早就開始像最後一行了 02/13 09:14
+
+→ abyssa1     : 可是微軟總部不在矽谷啊 02/13 09:15
+
+→ bitlife     : 這麼多篇沒什麼人講到企業初始文化,google一開始是 02/13 09:19
+
+→ bitlife     : server端起家的,微軟剛好相反,是客戶端起家的.工程 02/13 09:20
+
+→ bitlife     : 師本來就是專精單一領域和廣泛涉獵難以兩全,所以用 02/13 09:21
+
+→ bitlife     : 新團隊做新專案很正常,可能招募可能直接併購,但是重 02/13 09:21
+
+→ bitlife     : 點在公司文化,微軟手機是客戶端算後來沒有成功的,但 02/13 09:22
+
+→ bitlife     : 嚴格來講是被Windows包袱拖累的,它最初還是打敗了當 02/13 09:22
+
+→ bitlife     : 的領先者palm. 其他windows,xbox等客戶端都相當成功 02/13 09:23
+
+→ bitlife     : ,反而windows server是靠著windows幫助,不然它在伺 02/13 09:23
+
+→ bitlife     : 服器不像linux系列這麼受歡迎,所以當微軟文化稍微有 02/13 09:24
+
+→ bitlife     : 改之後,也推出了ubuntu subsystem,這在以前是難以想 02/13 09:24
+
+→ bitlife     : 像的. 綜合以上,google伺服器端起家,導致它在許多面 02/13 09:25
+
+→ bitlife     : 對消費者的商品很不成功,youtube這項例外剛好是因為 02/13 09:25
+
+→ bitlife     : youtube其實很吃伺服器(上傳儲存轉檔推播搜尋),反而 02/13 09:27
+
+→ bitlife     : 客戶端界面再慢慢改進就好 02/13 09:27
+
+推 donkilu     : 微軟的商業嗅覺一直都不差 也很敢燒錢 02/13 09:33
+
+→ donkilu     : G這幾年要燒不燒 整天砍project改roadmap 嗚呼哀哉 02/13 09:34
+
+推 ck326       : 微軟也有慘過的時期好ㄇ，只是菜雞不知道而已 02/13 09:36
+
+→ lightson    : M$慘好久了 只是穩 02/13 09:52
+
+推 egghan      : chromebook搶市占是成功的呀 尤其疫情 02/13 10:00
+
+→ egghan      : chroembobok是搶市占應用黏著度 不是要賣chrome boo 02/13 10:01
+
+→ egghan      : k 02/13 10:01
+
+→ bitlife     : 樓上忘了chromebook比youtube還吃伺服器,沒了伺服器 02/13 10:03
+
+推 juc         : ms很穩阿，而且 ai這個題材有望幫ms在雲端後再創一 02/13 10:03
+
+→ juc         : 波高峰 02/13 10:03
+
+→ bitlife     : 就只是個電子垃圾. 一般Notebook你還可以裝單機OS 02/13 10:04
+
+→ juc         : 每個office要ai功能就加價 這樣光想就可以賺錢了 02/13 10:04
+
+推 bitlife     : 更正一下,和youtube一樣吃伺服器,雖然youtube可以離 02/13 10:05
+
+→ bitlife     : 線觀看,但還是建立在連伺服器時先下載 02/13 10:06
+
+→ bitlife     : android會成功,也是因為android要大量使用google雲 02/13 10:07
+
+→ bitlife     : 端服務,當然有其他store或離線使用,不過都不是主流 02/13 10:08
+
+→ bitlife     : 使用模式. 總之搭google伺服器是兩面刃,android成功 02/13 10:09
+
+推 juc         : 至於google 搜尋本來就是免費 要怎麼結合ai創造更多 02/13 10:09
+
+→ juc         : 盈利？這是個問題 02/13 10:09
+
+→ bitlife     : 是因為蘋果不開放,蘋果外的唯一選擇是google,但手機 02/13 10:09
+
+→ bitlife     : 就不一定要選pixel,因為有多家廠商可以選 02/13 10:10
+
+→ bitlife     : 我的預感是先進技術的open source模式或許會受到打 02/13 10:11
+
+→ bitlife     : 擊,首先是中國威脅,封閉都來不及了,其次是AI演算法, 02/13 10:12
+
+→ bitlife     : 能掌握軟體的人有優勢,硬體就是拚燒錢. google之前 02/13 10:13
+
+→ bitlife     : android開源確實促成生態系發展,但也讓中國搞自家的 02/13 10:14
+
+→ bitlife     : market和鴻蒙,只是要拚全球市場時,多數人選google系 02/13 10:15
+
+→ bitlife     : 服務.但現在AI是自己美國一方的陣營要開始內戰,恐怕 02/13 10:16
+
+→ bitlife     : 微軟和google都不會希望對方知道自家核心演算法優點 02/13 10:16
+
+→ bitlife     : 被對方超車 02/13 10:16
+
+推 egghan      : 賣chrome book 給你便宜用教育版 就是讓你用習慣goo 02/13 10:31
+
+→ egghan      : gle服務再收你錢 02/13 10:31
+
+→ egghan      : 本來就是要收你雲端服務費了 有什問題嗎 02/13 10:32
+
+推 egghan      : bit你是chromebook重度使用者嗎 cb用伺服器資源跟你 02/13 10:37
+
+→ egghan      : 用其它pc差不多呀 02/13 10:37
+
+→ egghan      : 如果你都看yt 用win和用 chromwOs會有差嗎 xd 02/13 10:38
+
+→ cityport    : Chromebook美國學生都幹得半死..使用體驗差..畢業後 02/13 10:52
+
+→ cityport    : 你會想付費繼續使用嗎? 02/13 10:52
+
+推 egghan      : 如果說用yt  cb在cp值體驗等等 勝出 上班公司不是 02/13 10:55
+
+→ egghan      : 有提供win給你？ 02/13 10:55
+
+推 egghan      : 其實我不清楚 討論chromebook的是真的用過還都聽說 02/13 10:56
+
+→ egghan      :  有買過？ 02/13 10:56
+
+→ lise1017    : G就只是個軟體開發中心 並沒有能力盈利變現 02/13 11:21
+
+→ lise1017    : 反觀MS雖也好不到哪去 但有龐大的企業客戶支持 讓 02/13 11:22
+
+→ lise1017    : 他很多產品可以C端打不贏往B端發展 02/13 11:22
+
+推 zaiter      : 這些企業roadmap不知誰訂的 有些企業資深的不會寫找 02/13 11:44
+
+→ zaiter      : 資遣寫roadmap 根本搞笑 02/13 11:44
+
+推 donkilu     : Chromebook的問題是跟廉價 教育印象掛鉤 02/13 12:05
+
+→ donkilu     : 一般人吃飽太閒也不會去買chromebook 02/13 12:06
+
+推 flyingdeeck : 盈利模式的問題形容的很貼切，推推 02/13 12:31
+
+→ TheObServer : G一個Q淨賺一百多億美金被說沒有能力盈利 真的是張 02/13 13:53
+
+→ TheObServer : 嘴就來 02/13 13:53
+
+推 egghan      : 用os平台還在分一般人跟外星人嗎 查一下2020/21成 02/13 15:07
+
+→ egghan      : 長多少 不要在憑自己感覺了 02/13 15:07

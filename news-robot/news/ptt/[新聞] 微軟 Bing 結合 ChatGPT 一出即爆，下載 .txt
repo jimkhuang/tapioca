@@ -1,0 +1,113 @@
+作者golang (666NYCU666)看板Stock標題[新聞] 微軟 Bing 結合 ChatGPT 一出即爆，下載時間Mon Feb 13 20:59:15 2023
+原文標題：
+
+微軟 Bing 結合 ChatGPT 一出即爆，下載量僅次於 Gmail
+
+原文連結：https://s.id/1zjrd
+
+發布時間：2023/02/10
+
+記者署名：Ben
+
+原文內容：
+
+近期，人工智能領域可謂是備受關注，由美國「OpenAI」研發的 ChatGPT 更是火爆，他
+的出現過使得億用戶盛情追捧。這其中不缺 Microsoft、Meta 以及 Amazon AWS 等科技
+巨頭的加入，此外，Microsoft 已經將其 AI 工具整合在 Bing 搜尋引擎以及多項產品當
+中，並已經在桌面端進行了有限度預覽。
+
+另外，在 Microsoft 發布 ChatGPT 版搜尋引擎後，受此消息影響，Microsoft 一夜市值
+飆漲約 5450 億元，是近年來新高。通過 data.ai 的數據顯示，在 Microsoft 測試集
+成 ChatGPT 的 Bing 之後，還有在接下來的幾週期間推出移動版本，並且該應用已經在
+AppStore 的排名一路飆升。
+
+ChatGPT 到底有多猛？幾乎是一夜之間，Bing 的下載量猛增了10倍之多，並且上了
+AppStore 免費榜的第十名，這還只是一夜的成績，我們不敢想像日後的火熱，而
+ChatGPT 也成為了僅次於 Gmail 的第二大最受歡迎的免費生產力應用。
+
+與此同時，受益的還有同樣宣布將集成 ChatGPT 的 Edge 瀏覽器，改軟件在 AppStore
+的排名也出現了明顯提升。
+
+直至目前，從發布桌面端的測試來看，獲得人工智能加持的 Bing，除了傳統的搜尋外還
+有對話窗口，該窗口最多輸入 1000個字符。
+
+用戶通過這一窗口，可以向 Bing 提問，然後藉助 ChatGPT 來生成回答，比傳統的搜尋
+引擎更直觀。
+
+同時，Microsoft 還透露 Bing 下一個版本將升級到下一代的大型語言模型，要比
+ChatGPT 強大得多，專門設計用於增強搜尋引擎。
+
+另外，有消息透露，中國百度也將在 2023年3月推出和 ChatGPT 類似的人工智能聊天機
+器人服務。
+
+心得/評論：
+
+New Bing 的預約通道超賊
+
+https://i.imgur.com/cmDwx0b.png
+
+鼓勵用戶下載 Bing app / 在瀏覽器把 Bing 設成預設
+可以換取更前面的排隊優先權
+
+這篇新聞出稿的時候是10號 當時還是第10名
+
+https://i.imgur.com/SvS9EDc.png
+https://i.imgur.com/YD3KKi6.png
+
+現在在美國 AppStore 已經超越 Google Drive 跑到第 2 名了
+
+真是傑出的一手
+
+微軟用佔營收不到5%的Bing去槓Google金雞母怎麼樣都划算
+
+推 x221x221    : 叡揚不要怕！ 02/13 21:01
+
+推 sazabijiang : 終於不用改Edge的預設搜尋引擎了? 02/13 21:02
+
+推 pwseki206   : Google會怕了厚，再擺爛阿(笑 02/13 21:02
+
+推 suPerFlyK   : goog今天再不漲就下去了 02/13 21:06
+
+推 qk3380888   : Bing狗了這麼久終於起飛了 02/13 21:07
+
+→ a79111010   : 以前的BING就真的很爛(O 02/13 21:10
+
+推 Albert0912  : Bing三小朋友 02/13 21:10
+
+推 Shepherd1987: Edge 用起來體感比chrome/safari 順暢 02/13 21:30
+
+推 sazabijiang : 可是現在順暢的Edge，核心就是Chromium阿 02/13 21:53
+
+推 iamten      : 所以你知道GOOG在Chromium上加了多少垃圾吧 02/13 22:46
+
+推 tui74101    : 其實以前的edge更強 只是被搞 02/13 22:47
+
+推 azhu        : 比爾蓋茲電腦王 02/13 22:52
+
+推 semicoma    : nadella有夠強 02/14 00:13
+
+→ semicoma    : 然後chromium和chrome應該不能看成一件事吧? 02/14 00:13
+
+推 tbrs        : 提聽到消息我就馬上下載了 02/14 00:54
+
+→ laechan     : https://i.imgur.com/G5OYS2x.jpg 02/14 07:12
+
+推 kevin540    : 一窩蜂 02/14 08:09
+
+→ avmm9898    : 爆了 可惜 02/14 08:20
+
+→ appledick   : google在AI方面真沒啥突破性表現啊，只會吃老本 02/14 08:31
+
+推 k798976869  : 載起來 02/14 08:45
+
+→ k798976869  : 打倒萬惡谷歌 在搜尋結果第一個放詐騙廣告 02/14 08:46
+
+推 ppc         : Google擺爛的下場 02/14 09:04
+
+推 simpson083  : G家擺爛太久了 02/14 11:39
+
+→ laechan     : google還是有優勢啦,chatgpt就是偶爾玩一下的消遣 02/14 11:58
+
+→ billionaire : 猛 02/14 12:49
+
+推 vlee        : 真的有bing! 02/14 19:02

@@ -1,0 +1,35 @@
+作者a777starmy (呼力贏大師(大輸))看板Stock標題[請益] trading view 自動顯示停損停利訊號?時間Sat Feb  4 12:46:07 2023
+剛好看到一個不錯的東西，拉拉趨勢線，就能自動產生「停損、停利」訊號??
+
+https://prnt.sc/nZjZ9NQgGMsk  先上圖
+
+大概是這樣，把高低點拉出來，能自動產生停損停利訊號
+
+不知道有無大神，知道這種東西怎麼用，這界面是tradingview
+
+thx
+
+
+→ idernest    : https://youtu.be/ncQj5k42HhI 應該是這個  可以讓 02/04 13:01
+
+→ idernest    : 你下測試單 會依照你設定的位置止損止盈 02/04 13:01
+
+推 chineseDog  : 控制你要的損益報酬比例 02/04 13:07
+
+→ chineseDog  : https://i.imgur.com/PVHBNRP.jpg 02/04 13:07
+
+→ a777starmy  : 感覺好像滿好用的?? 02/04 13:23
+
+推 iamten      : 玩玩paper就好 你要用更他下實單會很慘 02/04 13:44
+
+推 sheng76314  : 唉 training view沒台指期 02/04 14:10
+
+→ sheng76314  : 請問3F那是什麼軟體？ 02/04 14:12
+
+→ idernest    : 沒台指期可以用富台指TWN1!代替 02/04 14:14
+
+噓 camoont     : 報價要另外買, 國內券商不支援串接 02/04 14:51
+
+推 chineseDog  : https://www.facebook.com/kc.trader.tw 02/04 17:46
+
+→ chineseDog  : shen 大大我上面的軟體 02/04 17:47
