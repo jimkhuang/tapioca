@@ -1,0 +1,19 @@
+日本石川強震 MLCC 等停工檢查 研調預估淡季影響可控
+2024/01/02 18:21:45
+
+日本石川強震引發關注，依據集邦科技（TrendForce）今（2）日出具最新調查指出，日本石川縣能登地區強震影響範圍，周邊包含MLCC廠TAIYO YUDEN、矽晶圓（Raw Wafer）廠信越化學（Shin-Etsu）、GlobalWafers、半導體廠Toshiba及Tower與Nuvoton共同營運之TPSCo等相關工廠皆位於震區。由於現階段半導體仍處下行週期，且時序已進入淡季，部分零組件仍有庫存，加上多數工廠落在震度4至5級，均在工廠耐震設計範圍內。目前TrendForce調查，多數工廠初步檢查機台並未受到嚴重災損，研判影響可控。
+
+矽晶圓廠方面，TrendForce分析，Shin-Etsu及GlobalWafers位於新潟廠房均停機檢查中，Raw Wafer製程當中以長晶（Crystal Growth）最為忌諱地震搖晃，但Shin-Etsu長晶廠區大多以福島地區為主，本次地震影響有限。SUMCO則未受影響。
+
+
+
+
+
+
+
+
+
+
+半導體廠方面，Toshiba加賀（Kaga）工廠位處石川縣西南部，當地擁六吋、八吋廠各一座，以及一座十二吋廠即將於2024上半年完工；以及Tower與Nuvoton（原Panasonic）合資之TPSCo三座工廠，分別位在魚津（Uozu）、礪波（Tonami）及新井（Arai），均停機檢查中。USJC（UMC於2019年併購三重富士通廠區）未受影響。
+
+MLCC方面，TrendForce分析，TAIYO YUDEN新潟廠區廠區為全新工廠可耐震達七級，目前設備未受影響。Murata（僅生產MLCC）、TDK的MLCC廠區震度皆在4級以下，未受明顯影響。但Murata在震度5+地區分別有小松（Komatsu）、金澤（Kanazawa）與富山（Toyama）三座工廠（非生產MLCC），由於適逢新年假期工廠停工，現有人員過去檢查受損狀況。 

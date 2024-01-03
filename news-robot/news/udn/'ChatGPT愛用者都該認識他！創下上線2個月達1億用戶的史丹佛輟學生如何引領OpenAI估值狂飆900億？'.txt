@@ -1,0 +1,37 @@
+ChatGPT 愛用者都該認識他！創下上線2個月達1億用戶的史丹佛輟學生 如何引領 OpenAI 估值狂飆900億？
+2023/10/04 13:34:03
+
+
+你或許不認識奧特曼（Sam Altman），但你可能是 ChatGPT 的億萬用戶使用者之一！奧特曼正是 OpenAI 的CEO、引領著ChatGPT發展，帶起數位AI的革命浪潮，而其像是一把雙面刃，先進超前、卻也充滿潛藏的致命危險，因此有人稱奧特曼為這個時代的——「奧本海默」。
+奧特曼正是 OpenAI 的CEO、引領著ChatGPT發展。 Photo：Chip Somodevilla/Getty Images
+奧特曼於25日參加由永齡基金會所舉辦的「AI大師論壇」，更與入選2023《Times》AI領域百大影響力人物的吳恩達（Dr. Andrew Ng）教授，以及工業大數據專家、馬里蘭大學講座教授暨工業人工智慧中心主任李傑（Dr. Jay Lee）一同展開爐邊談話。而 OpenAI 的 CEO 奧特曼是誰？他如何引導 Chat GPT 成為史上最強勢的運用生成式AI的軟體，掀起一波人工智慧浪潮，還創下在2個月達1億用戶的紀錄？本文帶你認識。
+像所有矽谷故事一樣 他是位天才神童
+OpenAI 執行長奧特曼從小就展現過人天賦。 Photo：Getty Images for TechCrunch
+奧特曼在美國中西部密蘇里州聖路易斯郊區長大，是家中四個兄弟姐妹中最年長的一個，他的崛起被稱為「科技神童世界中的一顆冉冉升起的新星。」奧特曼從 3 歲起就開始修理家裡的錄影機、8 歲生日時奧特曼收到一台麥金塔電腦，對他而言這宛如「生命中的這條分界線」，啟發了他對科技業的興趣。
+史丹佛大學輟學、創業「Loopt」
+OpenAI 執行長奧特曼大學就輟學創業。 Photo：Kevin Dietsch/Getty Images
+早在高中，奧特曼就公開出櫃，在當時尚屬風情民情保守的鎮上，學生公開反對學校關於同性議題的演講，讓奧特曼遂而直接向全社區公開自己的性向。2005 年，奧特曼進入史丹佛大學攻讀電腦科學學位，但一年就退學，與交往的男友 Nick Sivo 全職開始開發行動應用程式 Loopt。
+Loopt 是一款可供朋友間共享用戶的位置的程式，更是新創加速器 Y Combinator 首批八家公司之一，每家新創公司每位創辦人可以獲得 6,000 美元，Loopt 與 Reddit 屬於同一批次。而 Loopt 最終達到了 1.75 億美元的估值，奧特曼在 2012 年以 4,340 萬美元的價格將其出售給 Green Dot，Nick Sivo 和奧特曼也在約會後九年、出售公司同時分道揚鑣。
+曾擔任 Y Combinator 總裁
+OpenAI 執行長奧特曼曾擔任 Y Combinator 總裁。 Photo：Win McNamee/Getty Images
+在 Loopt 之後，奧特曼成立了一家名為 Hydrazine Capital 的風險基金，並籌集了 2,100 萬美元，將其中 75% 的資金投資於 Y Combinator，並主導了 Reddit 的 B 輪融資。2014 年，28 歲的奧特曼被 Y Combinator 創辦人 Paul Graham 選為接替他擔任總裁。
+奧特曼和馬斯克的糾葛：關於 OpenAI 的創立、非營利到「營利」的大轉變
+奧特曼和馬斯克是 OpenAI 早年共同創辦人。 Photo：Michael Kovac/Getty Images for Vanity Fair
+2015 年時，奧特曼與時任特斯拉 Tesla 和 SpaceX 執行長馬斯克共同創立了 OpenAI，在當時屬於非營利組織的 OpenAI，其創辦理念為「避免發生 AI 潛在風險和擔憂」，希望能夠預防 AI 人工智慧的災難性影響。
+而當時馬斯克與奧特曼等人，一起承諾向 OpenAI 提供 10 億美元等資金挹注，而 2018 年，馬斯克則宣布退出董事會，原因是「要專注於 Tesla 與 SpaceX」、「會與特斯拉產生利益衝突」等。可是至於真實原因？當然沒那麼簡單，據外媒報導，OpenAI 當時吸引了 Google Brain 的科學家加入，馬斯克憂心 Open AI 會落後 Google 提出想要掌管公司，卻遭到奧特曼等人的反對。
+引領 OpenAI 發表Chat GPT 吸引微軟投資100億！
+ChatGPT 的成功吸引了微軟大量資金投資。 Photo：Jakub Porzycki/NurPhoto via Getty Images
+奧特曼正式成為 OpenAI CEO。 Photo：Win McNamee/Getty Images
+奧特曼也於 2019 年辭去 Y Combinator 總裁身份，專心致力於 OpenAI，5 月正式成為 OpenAI 的首席執行長，OpenAI 也從一家非營利公司轉變為一家「營利」的公司、2019 年更獲得微軟 10 億美元投資，2023 年 1 月正式發表 Chat GPT 短短兩個月突破 1 億用戶，成為 AI 界的領頭羊，今年微軟加碼投資100億美元到 OpenAI，宣布將進行「為期數年、價值數十億美元」的投資，希望深化與這家新創公司的合作關係。
+OpenAI 估價高達 800 億至 900 億美元飆三倍！奧特曼未持有股票？
+In this photo illustration an OpenAI logo is displayed on a smartphone screen above a notebook next to glasses in Athens, Greece on March 26, 2023. Photo illustration by Nikolas Kokovlis/NurPhoto via Getty Images
+而儘管 OpenAI 可以因大筆資金繼續生存，但轉向盈利也讓奧特曼遭到抨擊，尤其是馬斯克，他更推文表示：「不解自己捐贈1億美元的非營利組織是如何變成估值300億美元的營利組織的？」
+而據最新消息，《華爾街日報》指出，OpenAI 正與投資人洽談潛在的股票出售案，公司估值可望高達 800 億至 900 億美元（約新台幣 2.58 兆至 2.9 兆），比起今年稍早預期的 300 億美元跳增約 3 倍。不過奧特曼曾一再向媒體表示，他早年職業生涯報酬已實現財富自由，他個人在 OpenAI 沒有任何股權，只有小部份經由以前他任職的 Y Combinator 公司持有的股份，等於他完全不能直接受惠於 OpenAI 狂飆的估值。
+儘管所有人都對 AI 的快速發展提出質疑，奧特曼則認為 ChatGPT 是「人類聰明才智和意志的擴大器」，而每一項新技術都會有問題，不是來自 OpenAI的 錯誤
+延伸閱讀
+成功的動機來自於小人刺激的功勞！知識型脫口秀創辦人羅振宇「5大重點」教你如何在逆境中也能跳脫框架，逆轉人生！
+精品財報強勢股價下半年投資看漲！法拉利推6440萬車款499台賣光、3 年後訂單已滿！Hermes成長 28%、Prada銷售增
+【張愛玲生忌】回顧文壇奇女子如小說般跌宕起伏又感傷的一生
+Apple不僅是科技先鋒也要當永續環保領頭羊！首批碳中和產品Apple Watch誕生：「我們專注低碳設計，率領對抗氣候變遷」
+精品財報強勢股價下半年投資看漲！法拉利推6440萬車款499台賣光、3 年後訂單已滿！Hermes成長 28%、Prada銷售增
+※本文由《Tatler Taiwan》授權刊載，未經同意禁止轉載。 
