@@ -1,0 +1,88 @@
+作者TureCooler (這三洨)看板Stock標題[新聞] 微軟更新DirectML支援NPU，以加速Windows時間Wed Dec 20 13:05:33 2023
+
+
+原文標題：
+
+微軟更新DirectML支援NPU，以加速Windows AI應用
+
+原文連結：
+
+https://www.ithome.com.tw/news/160365
+
+發布時間：
+
+2023-12-18
+
+記者署名：
+
+李建興
+
+原文內容：
+
+微軟預告明年將更新DirectML開始支援神經處理單元（NPU）。NPU是一種專為機器學習工作負載設計的處理單元，適合用於計算密集、不需要圖型介面互動的工作負載，目前英特爾新款Core Ultra處理器晶片已經內建NPU，而這也會是第一個可在Windows上使用DirectML技術的NPU。
+
+DirectML是一個低階且硬體抽象化的API，能夠直接存取GPU等各類加速器，執行機器學習計算。其屬於DirectX家族，DirectX主要用於Windows平臺上的圖形與遊戲開發，而DirectML則專注於機器學習工作負載。DirectML也能夠和其他機器學習框架和工具整合，像是跨平臺推理引擎ONNX Runtime和Windows機器學習模型最佳化工具Olive。
+
+Core Ultra的NPU加速器直接整合到SoC，能夠以相對較低的功耗執行人工智慧運算，釋放CPU和GPU運算資源。NPU獲得DirectML支援便能夠加入ONNX生態系，使用諸如ONNX Model Zoo的模型、英特爾Neural Compressor與ONNX Runtime等工具。
+
+DirectML新增對NPU的支援，讓開發者透過ONNX Runtime等API，將人工智慧模型轉移到英特爾的NPU上執行，提供在Windows上執行人工智慧工作負載另一種選擇。支援NPU的DirectML預計在2024年初，與最新的ONNX Runtime版本一起釋出。
+
+心得/評論：
+
+windows 12 + NPU 明年微軟要怎麼輸，最近是不是有個很紅的NPU概念股話題，新一代換機潮要出現了嗎？
+
+※必需填寫滿30正體中文字，無意義者板規處分
+
+推 jenchieh5   : aipc... 12/20 13:06
+
+→ Gipmydanger : aipc 12/20 13:14
+
+推 BBBroflovski: 沒有殺手級的應用很難有換機潮吧 大部分人不都是打 12/20 13:20
+
+→ BBBroflovski: 遊戲做文書 12/20 13:20
+
+→ Gipmydanger : 自製色圖 12/20 13:29
+
+推 w9103       : 打遊戲用家機手機，電腦文書多 12/20 13:33
+
+→ yukari8     : 所以那個有沒有NPU速度差多少的測試有出來了嗎 找到 12/20 13:39
+
+推 bala045     : 有NPU會算的比4090快嗎..? 12/20 13:39
+
+→ yukari8     : 的測試還是聚焦在遊戲或其他性能 推論到底差多少... 12/20 13:40
+
+推 GiPaPa      : 要跑地端模型為何不用cuda要用這個垃圾 12/20 13:46
+
+推 kagemusha   : 想當初glide也覺得direct3d是垃圾 12/20 13:50
+
+→ zo6596001   : 手機都用openGL跟Vulken ，directX 用途不夠廣泛。 12/20 14:32
+
+推 wei9898     : AiPC來了 12/20 14:49
+
+→ Alwen       : AIPC到底可以幹嘛，吹有一段時間惹，但我還是沒想 12/20 15:17
+
+→ Alwen       : 到用途 12/20 15:17
+
+推 jei01       : Wintel 又要重出江湖了 12/20 15:41
+
+→ yukari8     : 就看速度或效能有沒有比較好 沒有的話目前其實用顯 12/20 15:51
+
+→ yukari8     : 卡跑也一樣 所以我才想找實測的資料長怎樣 12/20 15:52
+
+推 baijee      : 出一個APP沒有NPU不能用就好了 需求是創造出來的 12/20 15:52
+
+→ Alwen       : 現在手機就符合條件惹，桌機也幹不贏顯卡 12/20 16:06
+
+→ Alwen       : 商人沒東西可以賣惹484，他們吹的那些也沒有到殺手 12/20 16:07
+
+→ Alwen       : 級應用 12/20 16:07
+
+推 mopa        : 終端AI的未來在手機，不在PC，PC不是每個人有覆蓋率 12/20 16:49
+
+→ mopa        : 太低。 12/20 16:49
+
+→ chrischiu   : 不要最後又是拿來玩game 12/20 17:13
+
+→ mysticz     : 當然要拿來玩game啊，AI NPC耶 12/21 08:05
+
+推 alphish     : AI搭配VR女友  人類就要毀滅惹 12/21 13:09

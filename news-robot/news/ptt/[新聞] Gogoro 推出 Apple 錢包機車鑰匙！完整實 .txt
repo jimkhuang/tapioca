@@ -1,0 +1,107 @@
+作者DDDDRR (DDDDRR)看板Stock標題[新聞] Gogoro 推出 Apple 錢包機車鑰匙！完整實時間Wed Nov  8 15:52:09 2023
+
+
+
+原文標題：Gogoro 推出 Apple 錢包機車鑰匙！完整實測分享
+
+※請勿刪減原文標題
+
+原文連結：https://cjay.cc/2023/11/gogoro-nfc/
+※網址超過一行過長請用縮網址工具
+
+發布時間：2023-11-08
+
+※請以原文網頁/報紙之發布時間為準
+
+記者署名：POSTED BY: C JAY
+
+※原文無記載者得留空
+
+原文內容：
+
+Gogoro 是全球第一個支援 Apple 錢包鑰匙的機車品牌，只要使用 iQ System 智慧鑰匙卡的 Gogoro 新舊車主，都可以免費升級，即使 iPhone 完全沒電關機的 5 小時內，Apple 錢包鑰匙仍然可以感應解鎖 Gogoro；但如果是使用圓形的智慧感應鑰匙 Gogoro 車主，就不能享受這個功能了。在更新車輛、iPhone 或 Apple Watch 的軟體後，用戶便可依照 Gogoro App 內的指示將機車鑰匙加入 Apple 錢包。如果家裡門鎖和 C Jay 之前開箱分享一樣有支援 iPhone 住家鑰匙 Home Key，那就可以達到出門只帶手機，不用帶實體鑰匙了。
+
+Apple 錢包機車鑰匙適用於 2019 年後生產、使用 NFC 智慧卡片鑰匙解鎖的車型：
+
+Gogoro S2 / S2 Cafe Racer / 2 Plus / 2 Deluxe / 2 Delight / 2 Rumbler / 2 GT / 2 Premium
+Gogoro S3 / 3 Plus / 3 Delight / 3 GT / 3 Premium
+Gogoro VIVA XL SuperFast / XL Belt / XL Keyless
+Gogoro VIVA MIX SuperFast ESC / MIX SuperFast / MIX Belt / MIX Keyless
+Gogoro SuperSport ACE / TCS / SBS
+Gogoro Premium
+Gogoro Delight
+Gogoro CrossOver S / CrossOver
+總共支援多達 72 種不同型式與年份的 Gogoro 車款，但不支援 2019 年後生產的 Gogoro 1 系列、Gogoro S1 和 Gogoro VIVA 車系；對於所有持有相容車款的車主，不論是一手或是二手用戶，Gogoro 都提供免費的功能升級，這也是車輛業界少見的廣泛向後相容性，預計受益的車主人數將多達 30 萬人。此功能需要適配 iQ System 6.8.2 以上的車輛韌體、Gogoro App 3.20 以上之 Gogoro 軟體，在軟體版本全數更新完畢後，請前往 GoStation 成功交換一次電池，即可開始使用 Apple 錢包機車鑰匙。
+
+Apple 錢包機車鑰匙僅儲存於車主的隨身裝置中，且受到 Apple 隱私與安全功能的嚴密保護，Apple 與 Gogoro 並不記載車主與其他使用分享鑰匙者的個人隱私。
+
+
+Apple 錢包機車鑰匙將預設啟用「快速模式」，無須喚醒或解鎖 iPhone 或 Apple Watch 設備，輕靠至車身感應處即可立即解鎖或鎖定愛車。即便遇到 iPhone 電力不足，短時間內仍可使用 Apple 錢包機車鑰匙啟閉車輛。此功能需要搭配 iQ System 6.8.2 以上的車輛韌體、Gogoro App 3.20 以上之 Gogoro 軟體，在軟體版本全數更新完畢後，請前往 GoStation 成功交換一次電池，即可開始使用 Apple 錢包機車鑰匙
+
+每一輛 Gogoro 的 Apple 錢包機車鑰匙支持同一 iCloud 帳戶下的 2 部 iPhone 和 1 隻 Apple Watch 進行配對。配發的 Apple 錢包機車鑰匙甚至可透過 iMessage、電子郵件、LINE、WhatsApp、WeChat 等通訊軟體分享給親友，最多可同時分享給 5 個不同的 iCloud 帳號，持有鑰匙的車主可隨時停止共享或刪除鑰匙。
+
+現在可以透過 Apple「尋找」App 輕鬆追蹤 Gogoro，適用於全新出廠且搭載 SS 智駕電控核心的 Gogoro 車款；如果是之前購買的 SS 智駕電控核心的車款，因為 Apple 政策的限制，將無法透過軟體升級支援此功能。此功能正式上線後所生產的車型：
+
+Gogoro SuperSport TCS
+Gogoro SuperSport SBS
+Gogoro Delight
+Gogoro Premium
+Gogoro CrossOver S
+都將支援 Apple「尋找」功能，車身上皆有「Locate with Find My」標示；搭配上新智慧功能，Gogoro 同步推出 Gogoro Delight 「電晶紫」、Gogoro SuperSport「電光銀」兩款新車色。
+
+可以使用 iPhone 將愛車與 Apple ID 配對。即便機車本身並沒有即時的網路連線，用戶仍然可以在 iPhone「尋找」App 或是 Apple Watch 的「尋找物品」App 中，定位 Gogoro 車輛近期的位置，即使 Gogoro 車輛電力耗盡或電池被取出，Apple「尋找」功能將可使用車輛備用電池的電力，並持續運作一段時間。
+
+
+其實就是 Gogoro 內建 AirTag 的意思，運用和 AirTag 相同的 UWB 超寬頻技術原理，並非透過 GPS 定位，所以說不論已啟動 Apple「尋找」功能的 Gogoro 車輛停放位置與用戶距離有多遠，全球超過上億部 iPhone、iPad 與 Mac 等 Apple 裝置將形成一個龐大的訊號網路，協助尋找並定位車輛。Gogoro 車輛會發出安全的藍牙訊號，當在 Apple「尋找」網路中且處於附近的 Apple 裝置偵測到訊號後，將位置傳送到 iCloud，用戶就能打開「尋找」App 查看定位，整個過程完全匿名，並經過加密，保護用戶隱私。
+
+
+心得/評論：
+GGR今天釋出大利多
+結合蘋果錢包感應功能
+甚至手機沒電五小時內都還能感應
+可惜我剛換曼巴4個月而已
+
+※必需填寫滿30正體中文字，無意義者板規處分
+推 Ken52039    : 剛找APP半天不會用 11/08 15:54
+
+推 Ken52039    : 還是要配對啊！那我還感應AP幹嘛，直接靠近車子不就 11/08 15:57
+
+→ Ken52039    : 好了，重點在一車不能兩隻以上手機綁定超難用，學學 11/08 15:57
+
+→ Ken52039    : TESLA好嗎 11/08 15:57
+
+推 chanel1259  : 到美國上市後結束階段性任務 11/08 15:58
+
+噓 crazyqq     : S1沒人權？ 11/08 16:07
+
+推 cat654231   : 終於有這功能 原本applewatch的超爛 11/08 16:30
+
+推 kcman       : 還有人花7-8萬買蜂鳥，我也是笑笑 11/08 16:30
+
+→ frank01     : 最近新竹滿電電池里程都只有之前7折,爛 11/08 16:33
+
+推 deony       : 電池交換沒更新只會越來越爛 11/08 16:35
+
+→ neowfish    : 沒未來了 11/08 16:54
+
+推 obrag       : 實用的功能 ！！ 11/08 16:56
+
+→ davidhsu    : 宏佳騰會跟上嗎？但是宏佳騰好像沒有智慧卡片的功 11/08 19:42
+
+→ davidhsu    : 能… 11/08 19:42
+
+→ pornsp      : 囧..重點是消費者會因爲這些新功能買你的車？？不 11/08 20:00
+
+→ pornsp      : 會的話不過是浪費錢吧 11/08 20:00
+
+推 kof70380    : 股價在歷史低點附近 可悲 11/08 20:26
+
+推 fasco       : 有出汽車再來說 11/08 21:45
+
+推 acemoglu    : 反觀uu 卡 11/09 00:03
+
+噓 sola01078272: 良率 後勤 電池先搞好吧… 11/09 02:17
+
+推 q840813     : 好功能但老車主不能用啊QQ 還說車子越騎越新 11/09 23:34
+
+推 white381520 : 試用了一下真的是蠻方便的，以後出門帶手機就好 11/11 15:54

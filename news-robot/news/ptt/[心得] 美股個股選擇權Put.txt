@@ -1,0 +1,161 @@
+作者zmcx16 (zmcx16)看板Stock標題[心得] 美股個股選擇權Put-Call Ratio整理網站時間Sat Sep 30 20:25:54 2023
+Blog完整文章:
+https://blog.zmcx16.moe/2023/09/put-call-ratio-norn-stockscreener.html
+
+最近做了一個整理美股個股Put-Call Ratio (PCR)資料的網站, 來簡易評估市場是偏多還
+是偏空。 分別計算以下兩種PCR:
+
+1. Puts Open Interest / Calls Open Interest (未平倉量)
+
+2. Puts Volume / Calls Volume (成交量)
+
+
+至於這兩種PCR分別適用在什麼情境, 可以聽聽ChatGPT怎麼說XD
+
+https://i.imgur.com/WZfTFgE.png
+
+
+個人覺得蠻有道理的, 未平倉合約量代表還沒行權, 所以還未行權的合約數作為到期前市
+場偏向看多/看空是蠻合理的; 而交易量只有當天有效, 所以只能反應短期的市場走向也
+合理。當然問歸問也不能全信(畢竟是生成式AI, 有時候會騙人XD), 還是要自行驗證才行
+。
+
+
+之後研究了下怎麼拿到PCR這個數據, 如果是大盤指數的話, 是有不少網站提供, 可是我
+基本上不買大盤只投資股票, 只看大盤指數PCR對我的幫助也不大, 之後想了想沒轍, 還
+是只能靠自己算了, 就決定寫個爬蟲上Yahoo財經抓所有個股的選擇權資料, 在自己計算
+PCR, 做好的成果如下:
+
+做好的網頁如下:
+https://norn-stockscreener.zmcx16.moe/options-pcr/
+
+
+Github:
+https://github.com/zmcx16/Norn-StockScreener
+https://i.imgur.com/th0joQf.png
+
+
+資料範圍是抓未來一年的所有合約的選擇權未平倉&成交量, 除了上面提到的PCR (OI) &
+PCR (Vol) 以及所有未平倉&成交量以外, 我特別想知道歷史的變化, 可是YAHOO財經能抓
+到的只有當下的資料, 所以我沒辦法去比較今天的PCR跟過去的PCR的變化程度, 為了解決
+這個問題, 就決定開始每天抓新的PCR資料前就把舊的備份下來, 靠著每天的data
+snapshot, 我就有辦法漸漸累積自己的資料庫, 也就能計算過去PCR的變化了。
+
+目前表格上的PCR變化有week & month, 不過其實我資料目前只累積了一個多禮拜, 所以
+那個month還是不準的, 要再等三個禮拜才是真的month data XD
+
+這個變化主要是 (Latest PCR - N days ago PCR) / (N days ago PCR), 所以數值最高
+可能幾百幾千% (代表PCR爆增, 偏空指數大幅上升), 最低則是-100% (代表最新的PCR =
+0, 與其說偏多指數大幅增加, 不如說根本Put沒量了, 一般應該是成交量低的小型股比較
+有可能)。
+
+
+在來開始找幾檔個股看看資料吧, 首先如果我們想挑成交量大的公司的話, 可以挑Calls
+OI排序, 這樣就會依Call未平倉量大小來排序, 可以看到Tslas是第一名(不愧是人氣公司
+), 而我想關注的只有PCR差異過大的個股, 目前網站是設定成小於0.7為綠色, 大於1.0為
+紅色, 0.7 - 1.0則為黑色, 用顏色簡單辨識多空, 因為PCR有OI也有Vol算法, 所以我只
+想看兩個都是小於0.7的個股, 先看前三個有INTC, BABA, PLTR。
+
+https://i.imgur.com/OTMGDbu.png
+
+https://i.imgur.com/1W95sFF.png
+
+https://i.imgur.com/H3sVK3j.png
+
+
+看起來目前INTC & PLTR成多頭走勢, BABA則是看起來像在盤整。
+
+再來看看PCR OI & Vol都是大於1.0的, 有NVDA, VALE, PBR:
+
+https://i.imgur.com/j4l9X19.png
+
+https://i.imgur.com/oI0pJtu.png
+
+https://i.imgur.com/VcaN95a.png
+
+NVDA因為AI題材大漲後現在像盤整階段, VALE則是目前處在相對低檔盤整, PBR則是持續
+上漲中, 看起來押注大漲後回檔 & 持續看空下跌的都有, 可是這三檔PCR OI只介於
+1.0~1.2不是很顯著, 在看一檔PCR OI極高的AAL (2.7):
+
+https://i.imgur.com/0xyKsK1.png
+
+看起來最近下跌得超厲害, 從PCR OI極高的比率看起來蠻合理的, 而且因為是未平倉量,
+代表即使是目前跌成這樣, 還是有不少人持續看空AAL。
+
+
+最後在分享圖表的功能, 因為我有針對每個交易日做snapshot備份資料, 所以也可以畫歷
+史線圖, 以AAPL為例:
+
+https://i.imgur.com/sPUJ9Zh.png
+
+因為目前資料只有一個多禮拜, 所以參考價值不大, 等未來資料豐富以後應該能作為更進
+一步的投資分析用。
+
+這次分享就差不多到這邊, 其實我對PCR這指標還不是很有想法, 還沒有想到一個系統化
+使用這個指標的方式, 這部分就慢慢學習慢慢研究了, 共勉之!
+
+推 EHacker     : 推 09/30 20:36
+
+推 allenchen821: 推 讚讚讚 09/30 20:36
+
+推 mystage     : 推 09/30 20:48
+
+推 mystage     : 可以關注的是P/C ratio 跟走勢的相關性。且不同市 09/30 20:56
+
+→ mystage     : 場有沒有不同 09/30 20:56
+
+推 leoying     : 推一個 09/30 21:24
+
+推 aasai       : 什麼是選擇權@@？看不懂捏>____< 09/30 21:49
+
+推 aasai       : 逼自己看一下好了@@ 09/30 21:51
+
+推 chopinmozart: 怎麼還在用react16 09/30 21:55
+
+推 ideo        : Tesla 09/30 22:11
+
+推 horseorange : 純推 09/30 22:33
+
+推 viking0518  : 可以想看看 為什麼下跌莊家還敢賣put 09/30 23:00
+
+→ Severine    : leaps call 無腦買 09/30 23:09
+
+推 mamorui     : react16沒關係啦，資料計算統計、也不是要複雜的UI 09/30 23:11
+
+→ mamorui     :   囧 09/30 23:11
+
+推 kunyi       : 推 辛苦了 09/30 23:16
+
+推 tim1025     : 美股的數據整理網站還蠻多的 像是unusual whale, ch 09/30 23:25
+
+→ tim1025     : eddarflow, tradytics 不知道原po有沒有用過 09/30 23:25
+
+→ tim1025     : 這些網站還有一些關係Twitter 帳號給跟單仔殺進殺出 09/30 23:26
+
+→ tim1025     :  有時候還蠻準的 09/30 23:26
+
+推 cwts        : 推 10/01 00:05
+
+推 IanLi       : 推收集資料與分析 10/01 07:17
+
+推 iori305     : 高手推 10/01 07:24
+
+推 odom0413    : 推認真 10/01 07:47
+
+推 GinginDenSha: 推 股板需要這種文章 10/01 09:40
+
+推 Gipmydanger : 厲害 10/01 10:40
+
+推 Freedom0301 : 推 10/01 10:47
+
+推 WorkForFree : 推 10/01 12:57
+
+推 hcwang1126  : 推 這個也是我想作的事 10/01 14:02
+
+推 tony5421    : 推 10/01 17:16
+
+推 sonyc503    : https://thetagang.com/ 我都直接看高勝率者都玩啥 10/01 19:24
+
+→ sonyc503    : 市場多空較勁時最累 直接投遠期leaps call最快 10/01 19:26
+
+推 Petrovsky   : 推推推 股板怪傑之一 哈 10/02 22:57

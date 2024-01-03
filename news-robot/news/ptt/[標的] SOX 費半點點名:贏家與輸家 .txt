@@ -1,0 +1,197 @@
+作者Severine (賽非茵)看板Stock標題[標的] SOX 費半點點名:贏家與輸家時間Sat May 27 01:43:54 2023
+
+1. 標的：SOX.US
+2. 分類：討論
+3. 分析/正文：
+
+整理點數據.看看經歷了半年的衝浪.誰走在風口浪尖,誰又在海中沉潛
+
+(上色只是標記大家比較熟悉的公司 沒特別意義)
+
+本周表現       本月表現       年初至今        一年表現       三年表現
+MRVL  40.19% | MRVL  64.98% | NVDA  164.99% | NVDA 105.87% | NVDA  354.26%
+NVDA  23.87% | ENTG  44.65% | AMD    93.05% | LSCC  57.33% | LSCC  228.98%
+MPWR  20.68% | AMD   43.00% | MRVL   72.06% | ALGM  54.32% | AVGO  173.26%
+COHR  19.03% | NVDA  42.24% | ENTG   61.96% | ON    40.79% | KLAC  157.03%
+AMD   18.16% | AVGO  27.08% | LRCX   48.42% | AVGO  34.73% | MPWR  148.55%
+AVGO  15.19% | TSM   23.27% | MU     47.44% | NOVT  31.52% | AMAT 139.31%
+WOLF  14.65% | ON    23.01% | MPWR   47.44% | ASML 25.32% | AMD   137.09%
+TSM   11.41% | AMAT 20.85% | AVGO   40.55% | KLAC  22.35% | ASML 129.53%
+ENTG   9.76% | LRCX  20.22% | AMAT 38.60% | AMD   22.28% | LRCX  125.93%
+MU     8.10% | MU    19.05% | TSM    38.46% | LRCX  17.48% | MRVL  107.59%
+KLAC   7.23% | KLAC  18.10% | ON     38.02% | MPWR  14.37% | TSM    99.34%
+AMAT 6.32% | MPWR  16.22% | ASML 33.81% | AMAT 12.96% | ENTG   78.66%
+LRCX   5.94% | ASML 16.19% | ALGM   31.35% | IPGP  11.11% | NXPI   72.40%
+TER    5.55% | TER   13.41% | LSCC   27.02% | TSM    9.99% | MCHP   60.14%
+GFS    5.37% | NXPI  11.65% | NOVT   21.69% | MCHP   6.43% | NOVT   58.30%
+ASML 5.35% | ALGM  10.88% | KLAC   20.48% | MRVL   4.78% | ADI    53.01%
+QRVO   4.09% | WOLF   9.74% | IPGP   20.30% | ADI    4.73% | TER    51.63%
+TXN    3.03% | QRVO   9.52% | TER    17.33% | MU     0.50% | MU     49.02%
+NXPI   2.86% | COHR   9.11% | SWKS   14.22% | GFS   -0.12% | TXN    48.75%
+SYNA   2.72% | MCHP   7.90% | NXPI   13.88% | TXN   -1.52% | QCOM   37.08%
+QCOM   2.67% | NOVT   6.86% | GFS    11.39% | SWKS  -4.25% | SYNA   31.30%
+SWKS   2.39% | TXN    6.04% | MCHP   10.28% | ENTG  -5.87% | QRVO   -6.39%
+ON     2.04% | LSCC   3.90% | QRVO    9.15% | TER   -6.32% | WOLF   -9.78%
+IPGP   1.41% | GFS    3.48% | INTC    7.64% | NXPI  -8.15% | SWKS  -12.55%
+ALGM   1.21% | IPGP   2.79% | ADI     6.97% | QRVO -11.82% | COHR  -20.33%
+MCHP  -0.51% | SWKS   0.17% | TXN     6.08% | QCOM -22.23% | IPGP  -26.24%
+NOVT  -0.62% | ADI   -1.21% | COHR    4.07% | WOLF -33.52% | INTC  -55.24%
+LSCC  -1.15% | QCOM  -4.59% | QCOM   -1.14% | INTC -36.14% |
+INTC  -4.94% | INTC  -4.72% | SYNA  -11.44% | COHR -41.16% |
+ADI   -7.90% | SYNA  -5.09% | WOLF  -26.88% | SYNA -43.19% |
+
+
+各大指數表現
+
+本周表現       本月表現       年初至今      一年表現      三年表現
+SOX    9.77% | SOX  19.55%  | BTC  61.47% | SOX  12.88% | BTC  190.28%
+IGV    3.50% | IGV  9.62%   | SOX  38.88% | NDX  12.54% | SOX   90.36%
+NDX    3.39% | NDX  8.45%   | NDX  30.46% | IGV  11.03% | NDX   51.15%
+IXIC   2.36% | IXIC  6.71%  | IGV  26.57% | IXIC  6.81% | SPX   38.28%
+SPX    0.15% | SPX  1.52%   | IXIC 23.80% | SPX   0.97% | IXIC  37.66%
+2000  -0.38% | 2000  0.70%  | SPX   9.35% | DJI  -0.54% | DJI   29.30%
+BTC   -0.67% | DJI  -2.34%  | 2000  0.09% | 2000 -6.01% | IGV   25.29%
+DJI   -1.17% | BTC  -9.41%  | DJI  -0.34% | BTC  -6.64% | 2000  23.40%
+
+
+代號對照表
+
+BTC     Bitcoin
+SOX     PHLX Semiconductor
+NDX     Nasdaq 100
+SPX     S&P 500
+IXIC    Nasdaq
+DJI     Dow Jones
+IGV     iShares Expanded Tech-Software
+2000    Russell 2000 Futures (為了排版方便 以2000代稱)
+
+
+ON      ON Semiconductor
+NVDA    NVIDIA
+LSCC    Lattice
+AVGO    Broadcom
+KLAC    KLA Corp
+MPWR    Monolithic
+AMAT    Applied Materials
+AMD     AMD
+ASML    ASML ADR
+LRCX    Lam Research
+MRVL    Marvell
+TSM     Taiwan Semiconductor
+ENTG    Entegris
+NXPI    NXP
+MCHP    Microchip
+NOVT    Novanta
+ADI     Analog Devices
+TER     Teradyne
+MU      Micron
+TXN     Texas Instruments
+QCOM    Qualcomm
+SYNA    Synaptics
+ALGM    Allegro
+GFS     Globalfoundries
+QRVO    Qorvo Inc
+WOLF    Wolfspeed
+SWKS    Skyworks
+COHR    Coherent
+IPGP    IPG Photonics
+INTC    Intel
+
+
+
+4. 進退場機制：(非長期投資者，必須有停損機制。討論、心得類免填)
+
+
+推 la8day      : 推分享 05/27 01:55
+
+推 Dimitre     : 皮衣怪客大獲全勝 05/27 01:55
+
+噓 a000000000  : 牙膏好苦  G叔沒有輸 05/27 01:56
+
+→ Severine    : 牙膏今年漲了7%! 05/27 01:56
+
+→ a000000000  : 4說不囉康應該是avgo 05/27 01:57
+
+→ a000000000  : 不囉康應該算很有名的公司惹 05/27 01:57
+
+→ a000000000  : 起碼念ee的大概從小聽到大 05/27 01:57
+
+→ a000000000  : mtk的主要對手Q康也算大家都知道的惹 05/27 01:58
+
+→ WYchuang    : MTK傳說要跟NVDA合作了 05/27 02:02
+
+→ taruru      : 原來SMCI沒進費半 05/27 02:03
+
+→ WYchuang    : 英特爾應該很難追回來 封裝 製程 都得搞定 05/27 02:03
+
+推 w60904max   : 皮衣刀客與他的快樂夥伴 05/27 02:04
+
+推 stlinman    : 英特爾的外星人不是江郎才盡? 05/27 02:07
+
+推 a26893997   : 整理推!!!! 05/27 02:21
+
+推 stocktonty  : 比特空還是大勝w 05/27 02:22
+
+推 twerk       : G叔ㄘㄢˇ不忍睹 05/27 02:24
+
+推 bj45566     : @WYchuang：MTK 發緊急聲明說對那傳聞不予置評了喔 05/27 02:32
+
+→ bj45566     : ！ 05/27 02:32
+
+→ bj45566     : 感謝整理 05/27 02:33
+
+推 leon1757tw  : 又是你 你最爛 05/27 02:36
+
+推 NCCUexpert  : 下周AVGO財報可以賭一下 05/27 02:37
+
+噓 phylen      : https://i.imgur.com/PHeSVVH.jpg 05/27 02:39
+
+→ phylen      : reddit看到der 05/27 02:39
+
+→ phylen      : https://i.imgur.com/Wumui8s.jpg 05/27 02:40
+
+推 bj45566     : 看圖笑死 XDDDDDDDD 05/27 02:48
+
+推 aegis43210  : ??博通有什麼利多嗎? 05/27 02:49
+
+→ Severine    : 圖好好笑XD 05/27 02:51
+
+推 aegis43210  : 還以為新合約已經發酵完了，而且才多數十億鎂營收 05/27 02:53
+
+→ aegis43210  : 難不成有未知的利多? 05/27 02:53
+
+推 bj45566     : 博通是 NIC & DPU 大廠啊 05/27 02:54
+
+推 aegis43210  : 好吧，又是想像力題材，感謝資訊 05/27 02:55
+
+→ Severine    : 這波跟2020很像 當時跟WFH扯得上邊的就漲漲漲到爆 05/27 03:00
+
+推 bj45566     : 博通本業就很賺了，smartNIC 只是將錦上添花 05/27 03:02
+
+推 aegis43210  : 如果蘇嬤、老黃、i皇、歐盟不反對，Vmware收購成功 05/27 03:02
+
+→ aegis43210  : … 05/27 03:02
+
+推 minazukimaya: 美光年初到現在居然有漲到47%...?? 05/27 03:39
+
+→ minazukimaya: 應該都是這兩週趕進度 不然我手上的MU感覺都不漲QQ 05/27 03:40
+
+推 aegis43210  : m大不是喊美光80元，要抱緊了 05/27 04:05
+
+推 leoying     : 博通就是伺服器交換器晶片的龍頭，等下週財報，不過 05/27 04:32
+
+→ leoying     : 已經噴了一大段了。 05/27 04:32
+
+推 facio124    : 整理推！！ 05/27 04:44
+
+推 Seikan      : 樓上圖 美國鄉民真粗暴QwQ 05/27 06:59
+
+推 jerrychuang : AMD後勁十足阿 05/27 07:08
+
+推 redbeanbread: 牙膏笑死 05/27 08:18
+
+推 Anyotw      : 4000變3000！哭 05/27 08:21
+
+推 joygo       : 我最近才抓avgo昨天就噴爆傻眼，上禮拜在研究 05/27 09:44
+
+推 BarryDale   : 謝謝整理 05/27 11:55

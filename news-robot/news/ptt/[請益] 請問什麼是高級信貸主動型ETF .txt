@@ -1,0 +1,53 @@
+作者crystalvue (問就是中華電信)看板Stock標題[請益] 請問什麼是高級信貸主動型ETF時間Tue Aug  8 21:28:02 2023
+能請問一下SPDR-Blackstone高級信貸主動型ETF [SRLN]，查資料有94%持有銀行貸款債卷
+，什麼是銀行貸款債卷，買這類型的ETF代表我間接放貸的意思嗎？國外的ETF真的很多
+
+推 pocoyo      : 看來像是CDS和CDO另類行銷術語，搞不懂的商品就別 08/08 21:44
+
+→ pocoyo      : 碰吧! 08/08 21:44
+
+推 stocktonty  : 令人懷念的CDO又回來啦！ 08/08 21:52
+
+推 tomdavis    : 2008次貸(? 銀行不想負擔貸款壞帳風險 08/08 21:55
+
+→ tomdavis    : 貸款打包賣給你 利息你賺 風險你擔 銀行收手續費 08/08 21:56
+
+推 tomdavis    : https://i.imgur.com/3Mi7Dh1.jpg 08/08 21:59
+
+推 tomdavis    : https://i.imgur.com/xfoiNS9.jpg 08/08 22:02
+
+→ tomdavis    : https://reurl.cc/eD2l3M 08/08 22:03
+
+→ tomdavis    : 高級貸款 是指第一留置權優先擔保浮動利率銀行貸款 08/08 22:04
+
+→ tomdavis    : 很好 整句都是中文卻看不懂 XD 08/08 22:04
+
+→ Kobe5210    : 複雜的衍生性金融商品不要碰 08/08 22:16
+
+→ lahugh      : 每個字都看得懂 合成句子看不懂 這就是複雜 08/08 22:17
+
+推 phoenixtwo  : 投資還是單純的好 08/08 22:23
+
+推 icexfox     : 師爺可以翻譯翻譯一下什麼嗎？ 08/08 22:24
+
+→ Qunnine     : @@怎麼那麼多伸手牌 08/08 22:31
+
+推 watertip    : Senior loan 大致可以理解為公司拿資產去擔保 銀行 08/08 22:32
+
+→ watertip    : 團有優先受償權的貸款，例如友達把廠房機器設備拿 08/08 22:32
+
+→ watertip    : 去抵押借到的聯貸。 相對的是junior loan, 就是受 08/08 22:32
+
+→ watertip    : 償順位次於senior loan 的貸款，可能是二順位抵押 08/08 22:32
+
+→ watertip    : 或甚至無擔保的。基本上senior loan 不會太差，但 08/08 22:32
+
+→ watertip    : 也不是說senior loan 就不會倒債，只是風險相對其 08/08 22:32
+
+→ watertip    : 他一般債權可能好一點 08/08 22:32
+
+→ laechan     : CDS 08/08 23:27
+
+推 RedLover1009: 名字越長的ETF就越可能是假ETF真基金 08/08 23:55
+
+噓 Sugimoto5566: 買就知道了 08/09 19:03

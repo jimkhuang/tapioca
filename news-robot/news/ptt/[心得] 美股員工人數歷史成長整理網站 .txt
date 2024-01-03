@@ -1,0 +1,89 @@
+作者zmcx16 (zmcx16)看板Stock標題[心得] 美股員工人數歷史成長整理網站時間Sun Jul 30 16:03:46 2023
+Blog完整文章:
+https://blog.zmcx16.moe/2023/07/norn-stockscreener_30.html
+
+上週有分享一篇:
+[心得] 美股股息冠軍歷史資料整理網站
+https://www.ptt.cc/bbs/Stock/M.1689985687.A.AB4.html
+
+這次靈感一樣是來自: "找到冷鑽股，美股獲利穩穩賺" 這本書
+https://www.bookwalker.com.tw/product/159608
+
+書中介紹了Macrotrends這個網站:
+https://www.macrotrends.net/
+
+這個網站的個股資訊可以看到該公司的員工人數歷史變化, 透過公司員工人數成長來尋找
+持續成長可以投資的公司, 如果是一間員工人數長期正成長的公司, 可以預期至少經營團
+隊對公司未來成長是有信心的, 也就才會持續聘僱新員工(雖然也有組織重整優化經營效
+率的情況, 不過這種情況通常只會經濟不好時偶爾為之, 不影響長期的成長趨勢)。
+
+
+而我這次想做的跟之前相同, 我想要有個排行&過濾頁面讓我能快速找到成長最快速&持續
+成長的公司, 做好的網頁如下:
+https://norn-stockscreener.zmcx16.moe/ranking/
+https://i.imgur.com/zTZRthn.png
+
+Github:
+https://github.com/zmcx16/Norn-StockScreener
+
+
+
+目前我的資料庫有3537個個股資料, 來看看員工人數有持續正成長的公司分別有多少間:
+
+持續正成長(All):     684間符合
+持續正成長(近三年):  803間符合
+持續正成長(近五年):  419間符合
+持續正成長(近十年):  121間符合
+
+
+除了上列持續正成長tags, 還有員工人數大於100, 500, 1000, 5000, 10000以上tags,
+以及員工人數近一年成長>平均的tag, 可以依據需求使用對應的tags過濾公司。
+
+
+e.g. 持續正成長(All) & 持續正成長(近十年) & 員工人數 >= 10000:
+
+https://i.imgur.com/Lm3m0oo.png
+
+可以看到上面有不少耳熟能詳的大公司, 像是Morningstar、Master Card、Meta
+(Facebook), 除了JD & GILD今年表現不好, 其他都還不錯。
+
+
+MorningStar
+https://www.macrotrends.net/stocks/charts/MORN/morningstar/number-of-employees
+https://i.imgur.com/u6yDD8j.png
+
+
+Master Card
+https://www.macrotrends.net/stocks/charts/MA/mastercard/number-of-employees
+https://i.imgur.com/sBydC44.png
+
+
+最後提醒一下, 投資一間公司不能看單一因素就做決定, 尤其這世上不乏一堆擴張過快導
+致周轉不靈破產的公司, 在用員工人數成長作為評估投資因素時, 也得特別注意該公司是
+不是有可能過度擴張, 要是大環境一改變導致周轉不靈就悲劇了...。
+
+
+這次分享就差不多到這邊, 目前把手邊的點子也用完了, 最近應該會多花點時間讀書, 在
+看之後有沒有新的好點子可以做～。
+
+推 stlinman    : AI發展下去，看員工數策略可能會失效?! 07/30 16:14
+
+→ stlinman    : 而且這兩年科技公司月裁員股價越噴，加上這幾年美股 07/30 16:16
+
+→ stlinman    : 靠回購張不少，我覺得研究EPS可能是個可以持續的策 07/30 16:17
+
+→ stlinman    : 略。 07/30 16:17
+
+→ jayppt      : 看不出員工數字有什麼關聯 微軟幾千人經營十年以上 07/30 16:22
+
+→ jayppt      : 被OpenAI300人的小團隊打敗 07/30 16:22
+
+→ jayppt      : twitter大幅裁員 斷手腳裁員 現在網站還活得好好的 07/30 16:23
+
+噓 minikai     : Opneai打敗微軟?樓上你知道你在工三小嗎？兩個主要 07/30 16:50
+
+→ minikai     : 業務是不一樣的東西，而且你真以為openai只有300人 07/30 16:50
+
+→ minikai     : 在做喔，它們光資料標註就不知道外包給幾千人做了 07/30 16:50
+
+→ wuwaiter    : 二樓一看就科技外行，不用理 07/30 23:35

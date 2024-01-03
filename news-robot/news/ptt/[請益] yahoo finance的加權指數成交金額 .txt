@@ -1,0 +1,19 @@
+作者tootsie (布丁豆花)看板Stock標題[請益] yahoo finance的加權指數成交金額時間Tue Jun 13 15:38:25 2023
+因需要爬yahoo finance加權指數每日資料,
+發現加權指數成交量與現況不同.
+
+已經google過了,找不到答案.
+以6/12為例,pc home技術分析中的成量303089(百萬)
+
+https://imgur.com/gbtmd73
+
+yahoo finance顯示373萬,
+請問這個數字所指的是什麼呢?
+
+推 sky22485816 : 你去對證交所的資料比較快 06/13 16:05
+
+→ kurapica1106: 爬資料還是以證交所為主比較好 06/13 16:12
+
+推 f496328mm   : 這部分可以參考 FinMind 06/13 16:16
+
+→ f496328mm   : https://i.imgur.com/ZedGR8x.png 06/13 16:17

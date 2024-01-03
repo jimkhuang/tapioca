@@ -1,0 +1,42 @@
+作者a777starmy (呼力贏大師(大輸))看板Stock標題[請益] 怎麼抓取yahoo股票當日成交價成交量??時間Sun Jul 16 04:03:49 2023
+https://tw.stock.yahoo.com/quote/2610.TW/time-sales
+https://prnt.sc/EGRoHgghELrD
+
+主要想研究看最大套牢量在哪
+
+以2610 華航為例
+24.9有將近1萬張買單 https://prnt.sc/HyW_r1HPUozG
+
+當日原本在25.1想做空，但發現灌壓不下去，最後股價走了一個N字型向上
+
+以波量理論來說，剛好走了一個a  b  c  波(屬於回檔4)
+
+c波速度最快，C波剛好連續來了2根很多人被嚇出去!?
+https://prnt.sc/8S-s95s-scFS
+目前剛好走了回測第4波
+https://prnt.sc/UAW90RxW82G3
+之前的跳空缺口有主力拉上來，但最後1盤有守住
+https://prnt.sc/R0GSKWyl2z75  <==缺口有守
+https://prnt.sc/HyW_r1HPUozG  <==最後一盤量很多，但殺不太下去
+外資上星期又把之前賣出的又回補回來
+https://prnt.sc/8d3lgJ29-9YA
+如果接下來幾天最高價有出現26.7 ，即將走第5波機率高，目前電腦計算下降壓力線在
+26.7
+
+不知道哪裡可以抓價量成交量分佈圖??
+
+推 O10lOl01O   : https://0rz.tw/qEv1T 你說這個? 07/16 11:18
+
+推 dodobaho    : 傻了才用YAHOO 07/16 12:07
+
+→ dodobaho    : 直接抓證交所的 07/16 12:08
+
+推 carefri     : https://reurl.cc/zYXZWV 07/16 13:24
+
+→ uranus99    : 權證小哥研究很透，但他軟體要花錢的，考慮清楚 07/17 02:59
+
+→ uranus99    : 我自己是traingview K線圖自己畫一畫線就行 07/17 02:59
+
+→ uranus99    : 你是要長時間的 K線圖其實100%夠用了 07/17 03:00
+
+→ uranus99    : 不然就要學小哥連哪個分點買賣的都要研究清楚 07/17 03:01

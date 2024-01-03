@@ -1,0 +1,189 @@
+作者UBC (UBC)看板Stock標題[情報] Fitch Downgrades the United States' Lo時間Wed Aug  2 06:09:00 2023
+
+1. 標題：
+
+Fitch Downgrades the United States' Long-Term Ratings to 'AA+' from 'AAA';
+Outlook Stable
+
+惠譽將美國長期評級從“AAA”下調至“AA+”；展望穩定
+
+2. 來源：惠譽官方網站
+
+
+3. 網址：https://tinyurl.com/2b9a2hff
+
+4. 內文：
+
+
+Fitch Downgrades the United States' Long-Term Ratings to 'AA+' from 'AAA';
+Outlook Stable
+Tue 01 Aug, 2023 - 下午5:13 ET
+
+Fitch Ratings - London - 01 Aug 2023: Fitch Ratings has downgraded the United
+States of America's Long-Term Foreign-Currency Issuer Default Rating (IDR) to
+'AA+' from 'AAA'. The Rating Watch Negative was removed and a Stable Outlook
+assigned. The Country Ceiling has been affirmed at 'AAA'.
+
+A full list of rating actions is at the end of this rating action commentary.
+
+
+KEY RATING DRIVERS
+Ratings Downgrade: The rating downgrade of the United States reflects the
+expected fiscal deterioration over the next three years, a high and growing
+general government debt burden, and the erosion of governance relative to
+'AA' and 'AAA' rated peers over the last two decades that has manifested in
+repeated debt limit standoffs and last-minute resolutions.
+
+Erosion of Governance: In Fitch's view, there has been a steady deterioration
+in standards of governance over the last 20 years, including on fiscal and
+debt matters, notwithstanding the June bipartisan agreement to suspend the
+debt limit until January 2025. The repeated debt-limit political standoffs
+and last-minute resolutions have eroded confidence in fiscal management. In
+addition, the government lacks a medium-term fiscal framework, unlike most
+peers, and has a complex budgeting process. These factors, along with several
+economic shocks as well as tax cuts and new spending initiatives, have
+contributed to successive debt increases over the last decade. Additionally,
+there has been only limited progress in tackling medium-term challenges
+related to rising social security and Medicare costs due to an aging
+population.
+
+Rising General Government Deficits: We expect the general government (GG)
+deficit to rise to 6.3% of GDP in 2023, from 3.7% in 2022, reflecting
+cyclically weaker federal revenues, new spending initiatives and a higher
+interest burden. Additionally, state and local governments are expected to
+run an overall deficit of 0.6% of GDP this year after running a small surplus
+of 0.2% of GDP in 2022. Cuts to non-defense discretionary spending (15% of
+total federal spending) as agreed in the Fiscal Responsibility Act offer only
+a modest improvement to the medium-term fiscal outlook, with cumulative
+savings of USD1.5 trillion (3.9% of GDP) by 2033 according to the
+Congressional Budget Office. The near-term impact of the Act is estimated at
+USD70 billion (0.3% of GDP) in 2024 and USD112 billion (0.4% of GDP) in 2025.
+Fitch does not expect any further substantive fiscal consolidation measures
+ahead of the November 2024 elections.
+
+Fitch forecasts a GG deficit of 6.6% of GDP in 2024 and a further widening to
+6.9% of GDP in 2025. The larger deficits will be driven by weak 2024 GDP
+growth, a higher interest burden and wider state and local government
+deficits of 1.2% of GDP in 2024-2025 (in line with the historical 20-year
+average). The interest-to-revenue ratio is expected to reach 10% by 2025
+(compared to 2.8% for the 'AA' median and 1% for the 'AAA' median) due to the
+higher debt level as well as sustained higher interest rates compared with
+pre-pandemic levels.
+
+General Government Debt to Rise: Lower deficits and high nominal GDP growth
+reduced the debt-to-GDP ratio over the last two years from the pandemic high
+of 122.3% in 2020; however, at 112.9% this year it is still well above the
+pre-pandemic 2019 level of 100.1%. The GG debt-to-GDP ratio is projected to
+rise over the forecast period, reaching 118.4% by 2025. The debt ratio is
+over two-and-a-half times higher than the 'AAA' median of 39.3% of GDP and
+'AA' median of 44.7% of GDP. Fitch's longer-term projections forecast
+additional debt/GDP rises, increasing the vulnerability of the U.S. fiscal
+position to future economic shocks.
+
+Medium-term Fiscal Challenges Unaddressed: Over the next decade, higher
+interest rates and the rising debt stock will increase the interest service
+burden, while an aging population and rising healthcare costs will raise
+spending on the elderly absent fiscal policy reforms. The CBO projects that
+interest costs will double by 2033 to 3.6% of GDP. The CBO also estimates a
+rise in mandatory spending on Medicare and social security by 1.5% of GDP
+over the same period. The CBO projects that the Social Security fund will be
+depleted by 2033 and the Hospital Insurance Trust Fund (used to pay for
+benefits under Medicare Part A) will be depleted by 2035 under current laws,
+posing additional challenges for the fiscal trajectory unless timely
+corrective measures are implemented. Additionally, the 2017 tax cuts are set
+to expire in 2025, but there is likely to be political pressure to make these
+permanent as has been the case in the past, resulting in higher deficit
+projections.
+
+Exceptional Strengths Support Ratings: Several structural strengths underpin
+the United States' ratings. These include its large, advanced,
+well-diversified and high-income economy, supported by a dynamic business
+environment. Critically, the U.S. dollar is the world's preeminent reserve
+currency, which gives the government extraordinary financing flexibility.
+
+Economy to Slip into Recession: Tighter credit conditions, weakening business
+investment, and a slowdown in consumption will push the U.S. economy into a
+mild recession in 4Q23 and 1Q24, according to Fitch projections. The agency
+sees U.S. annual real GDP growth slowing to 1.2% this year from 2.1% in 2022
+and overall growth of just 0.5% in 2024. Job vacancies remain higher and the
+labor participation rate is still lower (by 1 pp) than pre-pandemic levels,
+which could negatively affect medium-term potential growth.
+
+Fed Tightening: The Fed raised interest rates by 25bp in March, May and July
+2023. Fitch expects one further hike to 5.5% to 5.75% by September. The
+resilience of the economy and the labor market are complicating the Fed's
+goal of bringing inflation towards its 2% target. While headline inflation
+fell to 3% in June, core PCE inflation, the Fed's key price index, remained
+stubbornly high at 4.1% yoy. This will likely preclude cuts in the Federal
+Funds Rate until March 2024. Additionally, the Fed is continuing to reduce
+its holdings of mortgage backed-securities and U.S. Treasuries, which is
+further tightening financial conditions. Since January, these assets on the
+Fed balance sheet have fallen by over USD500 billion as of end-July 2023.
+
+
+ESG - Governance: The U.S. has an ESG Relevance Score (RS) of '5' for
+Political Stability and Rights and '5[+]' for the Rule of Law, Institutional
+and Regulatory Quality and Control of Corruption. Theses scores reflect the
+high weight that the World Bank Governance Indicators (WBGI) have in Fitch's
+proprietary Sovereign Rating Model. The U.S. has a high WBGI ranking at 79,
+reflecting its well-established rights for participation in the political
+process, strong institutional capacity, effective rule of law and a low level
+of corruption.
+
+
+RATING SENSITIVITIES
+Factors that Could, Individually or Collectively, Lead to Negative Rating
+Action/Downgrade
+噓 ck326       : 有時候懷疑這些機構是不是故意的啊？一到8月就搞 08/02 06:10
+
+噓 pru5566     : 以美國人的信用還是太高了 08/02 06:11
+
+推 reason825   : 搞笑利空 08/02 06:16
+
+推 pg2000      : 美債竟然是利多反應 why 08/02 06:18
+
+推 gso1987     : 當歸啦 08/02 06:24
+
+→ shinyi444   : 靠腰喔！！！ 08/02 06:48
+
+→ shinyi444   : 還搞笑利空，一堆機構都看這個進出大資金，自己小 08/02 06:49
+
+→ shinyi444   : 心吧 08/02 06:49
+
+→ pwseki206   : 覺得債市接下來又要腥風血雨了。當央行機構急著開 08/02 06:55
+
+→ pwseki206   : 始拋售手上持有的美債的時候，那畫面太美不敢想像 08/02 06:55
+
+→ pwseki206   : 啊 08/02 06:55
+
+推 brian10207  : AA+的評等還要狂拋？有那麼爛？ 08/02 06:58
+
+推 pwseki206   : 不過老美也怨不得人，因為的確他們的財務紀律爛的 08/02 06:59
+
+→ b9513227    : tmf8元那時小賠幾趴出場對了 08/02 06:59
+
+→ pwseki206   : 可以：拼命印鈔、不想減赤、入不敷出，降評指控也 08/02 06:59
+
+→ pwseki206   : 的確是有其本 08/02 06:59
+
+推 dosiris     : 總體經濟分析沒預料到美債降評? 08/02 06:59
+
+→ Alwen       : 看過大賣空後，這些信評機構也是主力圈的一份子R 08/02 07:06
+
+推 guppys2005  : 我要看血流成河啊 08/02 07:07
+
+推 carmanX     : 降息啊，借新還舊債務就改善了 08/02 07:11
+
+推 poisonB     : 葉倫要發1000億長債之前出這種消息 華爾街懂玩 08/02 07:12
+
+→ xephon      : https://i.imgur.com/NHHP5o5.jpg 08/02 07:21
+
+→ ethan0419   : 無限發債本來就很奇怪 08/02 07:24
+
+推 xephon      : 說個笑話：美國人會還錢 08/02 07:41
+
+→ idernest    : https://i.imgur.com/LN8t9FW.jpg 08/02 07:44
+
+→ Lowpapa     : 晚上美國會大崩 08/02 08:51
+
+推 miyazakisun2: 開崩 出事 降息 可以這樣期待嗎 08/02 10:19

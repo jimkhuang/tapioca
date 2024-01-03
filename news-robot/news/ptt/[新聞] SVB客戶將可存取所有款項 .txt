@@ -1,0 +1,526 @@
+作者peter98 (PyTorch AI套件爛死惹)看板Stock標題[新聞] SVB客戶將可存取所有款項時間Mon Mar 13 07:25:52 2023
+原文標題：
+
+Regulators unveil plan to assure depositors will get money after SVB collapse
+
+監管單位揭露計畫，保證SVB存戶可以領錢
+
+註: 我看了其他文章  似乎不是只能領25萬保額內的錢  而是ALL money
+
+原文連結：
+
+CNBC https://tinyurl.com/bdec67ep
+
+發布時間：
+
+SUN, MAR 12 20236:16 PM EDT
+
+記者署名：
+
+Jeff Cox
+
+原文內容：
+
+Banking regulators devised a plan Sunday to backstop depositors and protect
+financial institutions with money at Silicon Valley Bank, a critical step in
+stemming a feared panic over the collapsed tech-focused institution.
+
+銀行監管機構周日提出計畫協助存戶及保護金融機構存於SVB的錢，在以科技公司為主要客
+戶的SVB倒下後，該計畫是關鍵的一步，可阻止恐慌仔四竄。
+
+In an anxiously awaited announcement from the Federal Reserve, the central
+bank said it is creating a new Bank Term Funding Program aimed at
+safeguarding institutions impacted by the SVB failure.
+
+美聯儲終於發布一則眾人早已望眼欲穿的公告，美聯儲說他會建立一NTFP方案以保護被SVB
+倒閉所影響的機構
+
+In addition, regulators said depositors at both SVB and Signature Bank in New
+York, which also has been closed, will have full access to their deposits.
+
+還有，監管機構也說SVB及坐落在紐約、已倒閉了的Signature銀行，兩間銀行的存戶將可
+完全存取它們的資金
+
+A joint statement also said there would be no bailouts and no taxpayer costs
+associated with any of the new plans.
+
+一個聯合聲明也說，該計畫不會與紓困計畫有關，亦不會跟納稅人的成本有關
+
+“Today we are taking decisive actions to protect the U.S. economy by
+strengthening public confidence in our banking system,” said a joint
+statement from Fed Chair Jerome Powell, Treasury Secretary Janet Yellen and
+FDIC Chair Martin Gruenberg.
+
+韭在今天，我們做出決定性的行動，藉由加強大眾對銀行系統的信心，來保護大美利堅合
+眾國的經濟。這是臭鮑、葉倫和格盧柏格(FDIC主席)說的
+
+The Fed facility will offer loans of up to one year to banks, saving
+associations, credit unions and other institutions. Those taking advantage of
+the facility will be asked to pledge high-quality collateral such as
+Treasurys, agency debt and mortgage-backed securities.
+
+美聯儲機關會提供一年的貸款給銀行、儲蓄互助協會、信用合作社及其他單
+位。取得這些貸款的單位需要提供擔保，最頂的那種，比如國債、政府機構債券或MBS
+
+(MBS? 哪泥? 雖然第一手且正常的MBS是很安全啦  但是還是會怕怕的)
+
+“This action will bolster the capacity of the banking system to safeguard
+deposits and ensure the ongoing provision of money and credit to the economy,
+” the Fed said in a statement. “The Federal Reserve is prepared to address
+any liquidity pressures that may arise.”
+
+美聯儲說這樣可以提高銀行系統的資金水位以保證可能會有的流動性或信用危機，我們準
+備好了!我們對於未來任何流動性的壓力嚴陣以待
+
+The Treasury Department is providing up to $25 billion from its Exchange
+Stabilization Fund as a backstop for the funding program.
+
+財政部提供250億美元，錢從外匯平準基金來的
+
+Along with the facility, the Fed said it will ease conditions at its discount
+window, which will use the same conditions as the BTFP.
+
+除了撒250億元外，美聯儲還說  幹  我聽不懂  反正就是提供寬鬆的條件，折價撒錢
+
+Markets reacted positively to the developments, with futures tied to the Dow
+Jones Industrial Average leaping more than 250 points in early trading.
+
+市場已正向反應，到瓊期貨漲了250點喔！
+
+The news came after Treasury Secretary Janet Yellen said Sunday morning that
+there would be no SVB bailout.
+
+葉倫阿姨早上才說不會給SVB紓困，下午就跟著Fed一起發表這個聲明
+
+“We’re not going to do that again. But we are concerned about depositors
+and are focused on trying to meet their needs,” Yellen said on CBS’ “Face
+the Nation.”
+
+葉倫說我們真的不想搞紓困，然而同時我們也是很照顧存戶的。
+
+The SVB failure was the nation’s largest collapse of a financial institution
+since Washington Mutual went under in 2008.
+
+SVB是冠軍！我是說它是自08年Washington Mutual倒閉以來，眾多倒閉銀行中的第一名。
+
+The dramatic moves come just days after SVB, a key financing hub for tech
+companies, reported that it was struggling, triggering a run on the bank’s
+deposits.
+
+過去幾天真是太戲劇性了。
+
+Authorities had spent the weekend looking for a larger institution to buy
+SVB, but came up short. PNC was one interested buyer but backed out, a source
+told CNBC’s Sara Eisen.
+
+主管機關周末加班，尋找大一點的金融機構把SVB吃下，一個消息來源偷偷跟CNBC的人講的
+
+，PNC原是一個潛在的買家但後來又縮回去惹。
+
+The scenario harkened back to the Sept. 15, 2008 of investment banking giant
+Lehman Brothers, which also found itself insolvent and in search of a buyer.
+The government also was unsuccessful in that case following a weekend of
+wrangling, triggering the worst of the crisis.
+
+這事件真的讓人想起08年的九月十五號雷曼兄弟事件，政府想救但最後放棄，然後成為壓
+
+垮經濟的最後一根稻草。
+
+
+心得/評論：
+
+好了，大家不用擔心了，不管是個人戶還是公司戶，週一都可以拿錢了
+
+錢從外匯平準基金來的。該存錢的存錢去，該領錢的領錢去。
+
+我是覺得Fed這次動作很快，可能是擔心這次新創公司受到影響，會引起不在預期之內的
+
+股票大跌，本小魯其實也很好奇：流動性危機跟通膨危機，到底先該管哪個?
+
+→ P*To*ch: 我citations早就破百 就是推薦人找不齊 辦不了08/23 21:57
+
+推 ohsexygirl  : 流動性風險重視大於通膨 03/13 07:27
+
+推 Siika       : 畢竟還要選舉 搞到跟08一樣就難看惹 03/13 07:28
+
+推 shawshien   : 公司付不起薪水 問題很大條 03/13 07:28
+
+推 HenryLin123 : 其實可以給金融機構借錢，但是利率還是一樣高。 03/13 07:28
+
+推 poisonB     : 流動性是急診 通膨是慢性病 03/13 07:28
+
+推 epicurious  : 早就講啦，一堆人還在農會 03/13 07:29
+
+→ poisonB     : 短期不吃慢性病的藥 但是動脈出血一定要馬上止血 03/13 07:29
+
+→ epicurious  : 說這個沒通膨嚴重的真的沒有sense 03/13 07:30
+
+推 will7582    : 之前看到有人說停止升息美元地位或美國金融霸權就 03/13 07:30
+
+→ dosiris     : 危機解除 開Party囉！！ 03/13 07:31
+
+推 xephon      : https://i.imgur.com/CaQ08cu.jpg 03/13 07:31
+
+→ will7582    : 結束 不甚理解此論點的理由 但此措施下去不知對美 03/13 07:31
+
+推 uller       : 笑死 這次超快 噴噴 03/13 07:32
+
+推 pititiiii   : 猜中了，就是提供國債、MBS貸款解決流動性 03/13 07:32
+
+→ will7582    : 元未來的影響是好是壞 03/13 07:32
+
+→ HenryLin123 : 碼農農會沒問題吧？很符合啊。 03/13 07:32
+
+推 pwseki206   : 至少先止血，其他後遺症之後再從長計議 03/13 07:32
+
+→ HenryLin123 : 也不是降息講得自己料事如神。 03/13 07:33
+
+推 Phineas2635 : 沒有甚麼事是印鈔機救不了的 03/13 07:34
+
+推 TSMCfabXX   : 急性心肌梗塞 跟 慢性糖尿病, 當然先處理心肌梗塞 03/13 07:34
+
+推 horseorange : 花25B收第十六大的爛攤子 怎麼感覺蠻便宜的? 03/13 07:34
+
+推 pwseki206   : 這比較像短期救急吧，銀行方還是要慢慢處分低流動 03/13 07:34
+
+→ pwseki206   : 性資產 03/13 07:34
+
+推 egghan      : 笑死 存戶 還“全額”拿回 昨天在high 什麼 03/13 07:36
+
+推 Paulsic     : 這邊的漏水堵住了破另外一邊壓力沒釋放 03/13 07:36
+
+→ breacal     : 事後諸葛啦，這兩天多蛙被空蛙嚇到漏尿 03/13 07:37
+
+→ jerrychuang : QQ,空軍 03/13 07:37
+
+→ dosiris     : 空軍：乾 至少讓我賺一個上午不行逆 03/13 07:39
+
+→ dslite      : 什麼意思 拿債券抵押借錢？那最重一毛錢都沒賺？ 03/13 07:39
+
+推 caity       : 那下次應該生一碼還是二碼? 03/13 07:40
+
+推 getx105     : 換空蛙緊張了 03/13 07:41
+
+推 kis28519    : 大家可以回家睡覺了 03/13 07:41
+
+推 BIOS        : 空蛙哭暈廁所 03/13 07:41
+
+→ tamama000   : 太好了 那還不領爆 03/13 07:42
+
+推 w60904max   : 趕在台股開盤前 空蛙QQ 03/13 07:42
+
+推 mdkn35      : 2008一堆人跳樓…不管怎樣還是得救一下吧 03/13 07:43
+
+推 boycountry00: 害我早上水煎包少吃一個，現在回去買來吃 03/13 07:44
+
+推 littenVenus : 推動脈出血+1 比喻很傳神 03/13 07:45
+
+推 kkchen      : 美股今晚有機會再漲1200點了。 03/13 07:46
+
+推 Tenging     : 銀行端狗屎般的操作 03/13 07:47
+
+→ littenVenus : 不這樣那些新創怎麼發薪水 很多美國民眾是月光族 03/13 07:47
+
+推 howhower    : 解決方法怎麼看起來就是QE在做的事，不是QE更甚QE 03/13 07:47
+
+推 miyazakisun2: 華爾街本來想可以降息 現在不確定了 03/13 07:47
+
+→ littenVenus : 直接吃土 03/13 07:48
+
+→ tinybunny   : 歡迎加入正龜軍,正龜軍的幸運色是綠色 韭菜口味雞 03/13 07:48
+
+→ tinybunny   : 本麵 03/13 07:48
+
+→ freeclouds  : 短期QE 250億 存戶錢領出來 直接買股票算了 美股up 03/13 07:48
+
+推 dpew        : 今天一堆分析師又要轉方向了 03/13 07:48
+
+推 demo800909  : 韭在今天 03/13 07:48
+
+推 ter2788     : MBS很安全阿 有房產抵押 主要是美國目前是利率太高 03/13 07:48
+
+→ w60904max   : 華爾街本然想製造恐慌逼降息或停升的 現在啪 沒了 03/13 07:48
+
+→ ter2788     : 導致房價下跌 問題是美國房屋庫存其實很少只要利率 03/13 07:48
+
+→ ter2788     : 一降房價肯定飆升 03/13 07:48
+
+→ IBIZA       : 不是250億而已  是財政部出250億 03/13 07:49
+
+→ IBIZA       : FED出面成立基金的情況下, 財政部這250億就只是宣示 03/13 07:50
+
+推 cloud7515   : 以前看到放手不救的結果 這次可以看到出手救的結果 03/13 07:50
+
+→ IBIZA       : 意義而已, 我也有參加 03/13 07:50
+
+→ freeclouds  : 看來2碼還是板上丁丁 03/13 07:51
+
+→ FA88124     : 跳空尬盤 比手速 03/13 07:53
+
+→ brain9453   : 嘖 還以為可以修理華爾街了 03/13 07:53
+
+推 clinment    : 現在是整個金融體系的問題，銀行跟政府借一年的錢， 03/13 07:53
+
+→ clinment    : 然後散戶把錢通通領光光，然後認為借錢的銀行就不會 03/13 07:53
+
+→ clinment    : 倒？或是天真的認為一年後銀行還的出錢？整個結構 03/13 07:53
+
+→ clinment    : 性問題還是要回到升息高利率這件事情…. 03/13 07:53
+
+推 WeGoYuSheng : 會怕齁 03/13 07:53
+
+推 diabolica   : 我的超人 03/13 07:54
+
+→ AustinRivers: 沒戲了 03/13 07:55
+
+推 orze04      : 一年後再說，先解決眼前的恐慌擴散 03/13 07:55
+
+推 NovaShin    :  https://i.imgur.com/pp3C4zS.jpg 03/13 07:55
+
+→ NovaShin    :  https://i.imgur.com/pLhxrkV.jpg 03/13 07:56
+
+推 cloud7515   : FED怎麼做都不對 升息小銀行撐不住 不升息就通膨 03/13 07:56
+
+推 pwseki206   : 這真的沒辦法，永恆的兩難式啊... 03/13 07:57
+
+推 xephon      : 所以3月有可能停止升息了 03/13 07:57
+
+推 CKRO        : 好了 大家可以回家了 03/13 07:57
+
+推 frozenmoon  : 葉倫只怕美國舉債上限被國會卡 03/13 07:57
+
+→ xephon      : 華爾街已經在預期停止升息 03/13 07:57
+
+推 rwhung      : 緩步升息通膨會更難救 03/13 07:57
+
+→ avigale     : 可以把跌價的債券用面值跟聯準會抵押好棒喔。 03/13 07:57
+
+→ cloud7515   : 一邊升息一邊幫小銀行紓困 簡直就是左右手在拔河 03/13 07:57
+
+推 cct1121     : 要選舉了 一年後的事情 還有一年啊 選輸就沒了 03/13 07:58
+
+→ pwseki206   : 現在大概也只能跟斑馬一樣緩步升息吧，要不升很難 03/13 07:58
+
+→ Leo4891     : 趁只有一家爆炸時把問題搞定  總比造成恐慌擠兌連 03/13 07:58
+
+→ Leo4891     : 環爆炸好 03/13 07:58
+
+→ xephon      : 真的好屌，買美國國債永不怕下跌 03/13 07:58
+
+推 Neo123      : 這次事件說不定是讓FED鷹轉鴿的契機 03/13 07:59
+
+推 freeclouds  : 等其他國家的美債可沒這種機制阿XDDD 03/13 07:59
+
+→ KFC007      : 不能讓美債有讓人覺得不能買的風險，FED一方面增加 03/13 07:59
+
+→ pwseki206   : 通膨在政治發展上是死罪，會出事的那種 03/13 07:59
+
+→ KFC007      : 美債流動性，一方面繼續升息，反正死的是全世界其他 03/13 07:59
+
+→ KFC007      : 面額貨幣跟債卷 03/13 07:59
+
+推 poeoe       : 買美債就是爽啊XDDD 03/13 08:00
+
+推 JOKIC       : 傻傻的債券價值取決於核彈數量 03/13 08:00
+
+推 rwhung      : 鷹轉鴿... FEF沒轉鴿的本錢 03/13 08:00
+
+→ Leo4891     : Fed 有可能不激進升息 但會拉長時間去達成目標 03/13 08:01
+
+推 F5566       : 類QE 03/13 08:01
+
+→ rwhung      : 不激進升息就很難打到通膨啊，經濟數字一直很亮眼 03/13 08:01
+
+→ KFC007      : 美元美債早就不是金融屬性了，變成戰略屬性了 03/13 08:01
+
+噓 WWIII       : 美帝就是屌 03/13 08:01
+
+推 kevin31a2   : 還不穩定，先收手觀望88 03/13 08:02
+
+推 littenVenus : 所以說鮑鮑葉倫罵心裡苦 無法說～ 03/13 08:02
+
+推 boy1031     : 美國全世界第一的武力，不爽美元的去買歐元日圓人 03/13 08:03
+
+→ boy1031     : 民幣或盧布試試看啊，真的打起來直接變成壁紙都有 03/13 08:03
+
+→ leo6315     : 經濟數據亮眼在哪 師爺你詳細說說 03/13 08:03
+
+→ leo6315     : 拆解出來好好說阿 03/13 08:03
+
+推 webb        : 不是要打通膨？放給他倒，很快通膨就下來了！ 03/13 08:03
+
+→ zephyr105   : 我看 垃圾的投資大概會快速贖回吧 03/13 08:03
+
+→ BruceChen227: 今天萬六見 03/13 08:03
+
+噓 Hao0630     : 笑死 錢從哪來 之前升息是在搞笑 03/13 08:04
+
+推 source0209  : 放任指標性銀行不能領錢，那美國可以收一收了！ 03/13 08:04
+
+→ laechan     : 這種保證沒屁用，錢照領然後轉別的銀行 03/13 08:04
+
+推 evaq        : https://i.imgur.com/anUD0Ms.jpg 03/13 08:04
+
+推 mecca       : 真怪  有遊戲規則  然後又打破遊戲規則 03/13 08:05
+
+推 etop        : 崩崩 03/13 08:06
+
+推 cityport    : 債券到期SVB淨值就轉正，其實就不用動到納稅錢 03/13 08:06
+
+→ sniper777   : 就製造恐慌斷點啊 合理好嗎 03/13 08:06
+
+→ sniper777   : 本就是農會 跟市場恐慌是兩回事 03/13 08:06
+
+推 IKnowWhy    : 真的是左手換手 03/13 08:06
+
+→ laechan     : 不說別的假設是鬼島農會出問題，政府星期日保證存戶 03/13 08:06
+
+→ laechan     : 都領得到錢，我媽星期一早上七點就會衝去排隊領出所 03/13 08:07
+
+→ laechan     : 有的錢轉進郵局，沒為什麼，保險起見啊 03/13 08:07
+
+→ IKnowWhy    : 債券到期？他買10年期 到期墳上都生草了 03/13 08:07
+
+推 wald5566    : 開趴囉 03/13 08:07
+
+→ laechan     : 然後現在存款利息高放款不理想，又一堆存戶存錢進來 03/13 08:08
+
+推 idletime    : 一個半夜 空蛙變啞巴 今天可以看到空蛙逃命拼手速嗎 03/13 08:08
+
+→ idletime    : ？ 03/13 08:08
+
+→ IBIZA       : 2008年就發生過財政部保證銀行存戶無上限 03/13 08:08
+
+推 kmark1120   : 撐到降息之後 手上的債券不就盈利？ 政府只要跟FED 03/13 08:08
+
+→ kmark1120   : 談好不要太激烈不就撐過去了 幹嘛這麼緊張 03/13 08:08
+
+→ IBIZA       : 沒有銀行被擠兌 03/13 08:08
+
+推 pwseki206   : 台灣不可能啦，金管會會叫官股當救火隊擺十八鈔票 03/13 08:09
+
+→ pwseki206   : 陣 03/13 08:09
+
+→ laechan     : https://i.imgur.com/TiIab1z.jpg 03/13 08:09
+
+→ soulXdancer : 大灑b 03/13 08:09
+
+→ KFC007      : 另外現在開通一管道，流向全球的資金開始流回美國買 03/13 08:09
+
+→ KFC007      : 舊長債換取現金 03/13 08:09
+
+→ IBIZA       : https://www.wantgoo.com/global/m1es& 03/13 08:09
+
+推 pipi2       : 這是類紓困，鬼島走在世界前面 03/13 08:09
+
+推 amysun91    : 我們政府很有錢 03/13 08:10
+
+推 poeoe       : 滿手TLT 可以期待漲一波了嗎XDDD 03/13 08:10
+
+推 joygo       : 現在當務之急是要把所有這種銀行抓出來吧，不然每 03/13 08:10
+
+→ joygo       : 個銀行都覺得政府救，都跑去歐硬債券不就爆光 03/13 08:10
+
+推 WTF55665566 : 台灣以前就玩過類似的手段了吧 03/13 08:10
+
+推 hduek153    : 要噴爛了 03/13 08:10
+
+→ WTF55665566 : 應該說央行正常的話本來就該這樣幹 不然乾脆辭職回 03/13 08:11
+
+→ WTF55665566 : 家睡大覺 03/13 08:11
+
+推 a052612565  : 開救摟 03/13 08:11
+
+推 fishyki     : 跟國安基金一樣的 出來解套 不要還傻傻不跑 03/13 08:11
+
+推 gibbs1286   : 你跑去歐印債券財政部才開心，流動性不用擔心 03/13 08:13
+
+推 orze04      : 然後升息力度更大 03/13 08:14
+
+推 psynanako   : 太好了 不讓恐慌蔓延 03/13 08:14
+
+→ twistfist   : 政府有印鈔機擔保對很多人還是可信 03/13 08:15
+
+推 yiersan     : 報復性噴噴 03/13 08:16
+
+→ dosiris     : 歐in債券是支持美國財政 沒啥好不鼓勵的吧 03/13 08:17
+
+→ dosiris     : 恰恰就是因為歐in債券 Fed這次師出有名全救援 03/13 08:18
+
+→ IanLi       : 翻譯很好，但不要亂加負面言辭 03/13 08:18
+
+推 k862479k    : 反正通膨是長期的  這個火先救再說 03/13 08:18
+
+推 redbeanbread: 會怕就好 03/13 08:19
+
+推 simo520     : 存戶提款立刻分散轉到大銀行去 03/13 08:20
+
+推 andytwtp2002: 噴 03/13 08:25
+
+推 didihouse   : 安啦 03/13 08:29
+
+推 kevin31a2   : 第一個洞補了，再來？ 03/13 08:31
+
+推 Aixtron     : 其實我從政府投資債務，覺得FED還有一個想法，現在 03/13 08:32
+
+→ Aixtron     : 通膨這麽高，產生的債務一下就稀釋掉了，實質上類似 03/13 08:32
+
+→ Aixtron     : 沒有用到納稅人的錢！ 03/13 08:32
+
+推 qk3380888   : 大家可以回家啦 03/13 08:34
+
+推 adwn        : 銀行高層真爽，出包結果政府買單 03/13 08:34
+
+推 becool996   : 2碼穩了，還是得跌。 03/13 08:38
+
+推 fisher6879  : 時間到惹就沒通膨惹，流動性直接炸開，怎麼看都知道 03/13 08:59
+
+→ fisher6879  : 哪個吧 03/13 08:59
+
+推 slayptter   : 穩了 03/13 09:03
+
+推 kklighter   : 不過的鈔票先印起來啊 03/13 09:19
+
+推 twelvethflor: 沒事了，大家可以回去了 03/13 09:19
+
+→ wr          : 銀行倒光光 大家都沒錢 通膨自然就解決啦 03/13 09:27
+
+→ zong780405  : 臺灣大倒不能倒銀行可以借鏡 03/13 09:28
+
+推 DeapBlue    : SVB還有之前被點名的那幾家銀行，如果你是存戶 03/13 10:06
+
+→ DeapBlue    : 你會怎麼做？要是我，會不會趁機轉移到大到不能倒 03/13 10:07
+
+→ DeapBlue    : 的銀行，或是將資產轉移到其他部位，這次有人救 03/13 10:08
+
+→ DeapBlue    : 你就會安心地繼續放在這裡了？況且可能還是你的身家 03/13 10:09
+
+→ DeapBlue    : 喔？ 03/13 10:09
+
+→ DareJ       : 台股是... 03/13 10:19
+
+→ IBIZA       : 重點是，只要這些銀行能用面額拿到資金，絕大部分都 03/13 10:48
+
+→ IBIZA       : 不會倒 03/13 10:48
+
+→ IBIZA       : FEB沒有不讓你領或轉  只是支持銀行不會因為這樣倒 03/13 10:50
+
+→ IBIZA       : 閉 03/13 10:50
+
+→ henryyeh0731: 這規模跟08那次完全沒的比，只有腦弱粉紅會高潮吧 03/13 11:08
+
+推 Mimmature   : 翻譯：我已經給你們時間跑了 03/13 11:26
+
+推 guanting886 : 有誰還記得前幾個月跟幾年前發生什麼事 事情發生可 03/13 12:17
+
+→ guanting886 : 能過幾個月沒人記得ㄌ 03/13 12:17
+
+推 inoce       : 空蛙崩潰 03/13 12:36
+
+→ deepbluer   : SVG CEO 是最大贏家了吧？ 03/13 12:52
+
+→ deepbluer   : SVB 03/13 12:53
+
+→ bndan       : 畢竟多數資產只是在債券上..= = 先補充流動資金後面 03/13 20:26
+
+→ bndan       : 再處份資產 這個保證不會虧... 03/13 20:26

@@ -1,0 +1,196 @@
+作者zmcx16 (zmcx16)看板Stock標題[心得] 美股投資檢查清單網站+Q1績效分享時間Fri Apr 28 21:25:52 2023
+blog完整文章:
+https://blog.zmcx16.moe/2023/04/norn-stockscreener.html
+
+
+最近重新檢視投資檢查清單的重要性, 以我個人想法來說, 投資檢查清單可以分成兩類:
+
+1. 可量化類型: 各大財經網站或財報有揭露&統一格式的資料, 像是本益比、股價淨值比
+、ROE、盈餘成長等等, 可以系統化的方式歸類整理。
+
+2. 不可量化類型: 需要對資料進一步思考探討, 例如公司市場是否有前景、公司管理階
+層是否優秀&誠實、公司的競爭力、品牌或研發或不可取代性之類的隱含價值等等, 較難
+系統化分析檢查評比。
+
+
+基本上不可量化類型的部分只能靠自己人工分析, 而可量化類型的部分是有機會用程式自
+動整理, 節省人工整理資料的時間, 就決定來做一個可客製化的美股投資檢查清單網頁。
+
+
+做好的網站如下:
+https://norn-stockscreener.zmcx16.moe/checklist/
+
+
+Github:
+https://github.com/zmcx16/Norn-StockScreener
+https://i.imgur.com/L2R4PhK.png
+
+https://i.imgur.com/CN464XZ.png
+
+
+支援美股市值5000萬鎂以上的上市公司, 每個檢查項目可以讓使用者參數化, 支援的檢查
+項目如下:
+["Market Cap", "P/E", "Forward P/E", "P/B", "P/C", "P/S", "PEG", "ROE",
+"ROA", "ROI", "EPS this Y", "EPS next Y_%", "EPS Q/Q", "Sales Q/Q",
+"Debt/Eq", "LT Debt/Eq", "Quick Ratio", "Current Ratio", "Dividend %", "Gross
+Margin", "Oper. Margin", "Profit Margin", "Insider Trans", "Inst Trans",
+"Short Float", "Beneish Model", "ESG_TotalEsg", "Recommendation Rating", "EPS
+Growth (Analysis)", "EPS Growth (Financial Statements)", "52W High", "52W
+Low", "Perf Week", "Perf Month", "Perf Quarter", "Perf Half Y", "Perf Year",
+"Perf YTD", "SMA20", "SMA50", "SMA200"]
+
+
+左邊的Score會顯示所有checkpoints的Pass(%)以及tooltip顯示Pass / Total, 另外除了
+基本的Add / Edit / Reorder / Delete以外, 也支援多組投資檢查清單, 匯入匯出, 以
+及儲存local storage功能。
+
+
+另外之前也有做一個Yahoo財經盈餘成長排行頁面, 會把EPS盈餘成長&近四季EPS正收益的
+個股排序整理成表, 有興趣的人也可以看看:
+
+https://blog.zmcx16.moe/2023/04/yahoo-norn-stockscreener.html
+https://norn-stockscreener.zmcx16.moe/ranking/
+https://i.imgur.com/XUHYDKI.png
+
+
+
+
+再來是今年Q1投資績效的部分, Q1的投資績效為+13.46%, 上沖下洗波動劇烈...
+
+https://i.imgur.com/xNmvSSx.jpg
+
+年初剛開始時投資績效持續往上衝, 主要上漲的原因是去年底把自己手邊不少價值股換成
+科技股, 享受到今年初科技股大漲的波段, 資產報酬一度破40%。 然後再來發生銀行危
+機, 當時手邊賣出了不少銀行股賣權, 導致我被行權了一堆銀行股, 如果是大型銀行股倒
+是還好, 還可能有機會凹得回來(C, WFC, BAC), 可是區域銀行股就慘了(ZION, CMA), 其
+中更是有交易SBNY的賣權, SBNY被FDIC破產監管導致股票停止交易, 不過即使停止交易,
+賣權還是可以被行權的, 最後還是接到了股票...。
+
+
+而過了快一個月, 重新開放OTC場外交易後, 股價瞬間從70->0.15, 所以上圖的第二波績效
+大跌就是SBNY重新交易後幾乎變壁紙的瞬間, 瞬間少了總體10%的資產部位...。
+
+https://i.imgur.com/YKAPqqR.jpg
+
+
+經過這次銀行危機的洗禮, 目前已經縮減自己選擇權的交易量到1/5, 風險控管真的很重
+要..., 另外幸好自己一直都有分散投資, SBNY變壁紙雖然很痛, 可是至少沒有畢業, 分
+散投資真的是投資界的免費午餐, 能活下來才是最重要的...。
+
+
+最後附上持續回饋社會證明, 近幾年每個月會捐10%的薪水認養家扶兒童, 另外今年土耳
+其大地震時也有額外捐10W到政府賑災專戶, 期許未來的自己有能力可以做更多!
+
+https://i.imgur.com/a6feP8U.png
+
+https://i.imgur.com/bqpN2rc.png
+
+https://i.imgur.com/i5ZOOQR.jpg
+
+推 rayccccc    : 推 04/28 21:28
+
+推 hirorei     : 推 04/28 21:32
+
+推 crazydj     : 好人一生平安~ 04/28 21:32
+
+推 Eyrie       : 推 04/28 21:33
+
+推 xzonisy     : 推好人 04/28 21:34
+
+推 cateyes     : 哇 我的開戶郵局 好懷念 XD 04/28 21:34
+
+推 adearlover  : 好人一生安康炭大吉 04/28 21:34
+
+推 tn1331      : 推用心跟愛心 04/28 21:35
+
+推 Gestaltzerfa: 推 04/28 21:38
+
+推 snowish     : 推好心 04/28 21:57
+
+推 tamynumber1 : 推 04/28 22:11
+
+推 a881        : 社會有你真好 04/28 22:13
+
+推 hihi29      : 推 04/28 22:21
+
+推 qdto        : 好人推 04/28 22:24
+
+推 jecint1707  : 好人一生平安~ 04/28 22:25
+
+推 beagle2001  : 推 04/28 22:27
+
+推 blue7896    : 推 04/28 22:29
+
+推 jack52014   : 推 你是值得我佩服！ 04/28 22:47
+
+推 LV3000      : 推，謝謝你 04/28 23:00
+
+推 zagato      : 好人一生平安 04/28 23:02
+
+推 h2894675    : 推 04/28 23:02
+
+推 nina5758    : 好心 04/28 23:03
+
+推 lightwang   : 厲害 04/28 23:26
+
+推 WeiRaymond  : 超讚 好人 04/28 23:38
+
+推 nicewindow  : 推 04/29 00:11
+
+推 tonsofdamage: 大大的策略回撤的有點多 04/29 00:12
+
+推 hipeter0206 : 版主，我的超人 04/29 00:23
+
+推 Nady1688    : 推有心 04/29 00:28
+
+推 evan2014    : 推善心 04/29 00:45
+
+推 SRmoisTEH   : 好人推 04/29 00:47
+
+推 Watanabe    : 善心推 04/29 01:14
+
+推 peter6666712: 推 04/29 03:37
+
+推 jason7881788: 好人推 04/29 07:15
+
+推 sasasasasa  : 好人，崇拜 04/29 07:17
+
+推 mike8469    : 再推一次 04/29 08:05
+
+推 smallpotates: 推… 04/29 08:22
+
+推 coolrao     : 好人ㄧ生平安 04/29 09:59
+
+推 nba941422   : 好人一生平安 04/29 10:31
+
+推 Jacky18182  : 推 04/29 11:09
+
+推 cytia       : 好人一生平安 04/29 12:31
+
+推 wssw123     : 大大 我的超人 04/29 12:46
+
+推 david3033   : 推 好人一生平安 04/29 12:56
+
+推 Petrovsky   : 推 厲害又認真的大大 04/29 13:34
+
+→ k8787713    : 推 讚讚讚讚 04/29 13:49
+
+推 haganin     : 好人，推 04/29 13:53
+
+推 qscNERO     : 推好人 04/29 14:45
+
+推 Capufish    : 好人一生平安 04/29 18:12
+
+推 sinaton     : 推好人一生平安 04/29 19:26
+
+推 shawncarter : 推 04/29 21:21
+
+推 aikobz      : 推 04/29 21:59
+
+推 TeddyisaBear: 推捐款～祝您一生錢賺不完 04/30 10:02
+
+推 jeffery631  : 推推 05/01 18:09
+
+推 cherryiami  : 推 05/02 12:27
+
+推 totqoq      : 感謝大大 07/20 07:26

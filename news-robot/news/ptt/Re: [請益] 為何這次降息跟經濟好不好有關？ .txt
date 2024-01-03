@@ -1,0 +1,187 @@
+作者wen17 (祭祀風的人類)看板Stock標題Re: [請益] 為何這次降息跟經濟好不好有關？時間Thu Dec 21 08:10:48 2023
+全世界的央行都有規章說明自己的目標是什麼啦
+
+Federal的:
+
+‧conducts the nation’s monetary policy to promote maximum employment and
+stable prices in the U.S. economy;
+
+以貨幣政策最大化美國的就業率與穩定物價(控制通貨膨脹)
+
+註: 其實這是兩者權衡 因為兩者多少會需要取捨 所以很多時候要權衡(trade off)
+
+‧ promotes the stability of the financial system and seeks to minimize and
+contain systemic risks through active monitoring and engagement in the U.S. and abroad;
+
+維持金融系統穩定 降低系統性風險 (註:通常是對金融的規範還有最後借貸者)
+
+‧ promotes the safety and soundness of individual financial institutions and
+monitors their impact on the financial system as a whole;
+
+這條不清楚 但與大家關心的升降息沒什麼關係
+
+‧ fosters payment and settlement system safety and efficiency through
+services to the banking industry and the U.S. government that facilitate U.S.-dollar transactions and
+payments
+
+維持穩定與安全的美元結算系統 這也與升降息沒什麼關係
+
+‧ promotes consumer protection and community development through
+consumer-focused supervision and examination, research and analysis of emerging consumer
+issues and trends, community economic development activities, and the administration of consumer
+laws and regulations.
+
+講一下如何研究監督與法規保障消費者的事情 也與升降息沒什麼關係
+
+那回應你的文章
+
+升降息主要牽涉的有3點
+
+1. 如果其他條件不變 升息可以壓低通貨膨脹 降息反之
+
+2. 如果其他條件不變 升息有可能會使失業率上升 至少短期內會 降息反之
+
+3. 如果發生某些意外 需要降息來增加流動性維持金融市場穩定
+
+所以你問經濟好不好有沒有關係?
+
+當然有啊 這就是1與2的權衡
+
+當1或者2單獨一個問題很嚴重 當然優先處理其中一個 另外一個等之後再來搞定吧
+
+升息的時候就是通膨超級嚴重都10%了 就業率看起來問題不大 就先不管
+
+最近就是可能判斷通膨已經降低到一個可接受 雖然還不夠好的目標
+
+但預估維持高利率可能明年/後年就業率出問題 所以權衡一下
+
+至於你問1與2都一起爆炸的時候怎麼辦 (停滯性通膨)
+
+我要是答得出SOP來我就明年諾貝爾經濟學獎了
+
+只能說央行專家case by case 按照當時狀況評估
+
+至於扯選舉就算了 Federal獨立性還是有你的 你以為全世界都中國央行膩
+
+另外順手談一下最近被拋出來的台灣央行議題
+
+台灣央行的目標是這
+
+一、促進金融穩定。
+二、健全銀行業務。
+三、維護對內及對外幣值之穩定。
+四、於上列目標範圍內，協助經濟之發展。
+
+匯率與利率都是替上述目標服務
+
+匯率政策或許值得討論 但利率政策就...
+
+123央行達成得很好 注意四是有順序性的
+
+是建立在123都OK的情況下 如果可以再處理4
+
+所以你說央行屯了一堆外匯是為了每年上交國庫10%歲入其實沒什麼道理
+
+當然這特殊現象是值得討論為什麼
+
+但真看不出來央行有為了賺錢去扭曲自己的目標
+
+舉個理工人懂得例子好了尤其醫生要學生物應該懂吧
+
+植物光合作用產生一堆氧氣 但氧氣並不是植物光合作用的目標啊
+
+光合作用有合成葡萄糖就好了
+
+你管他有沒有生產O2
+
+
+
+※ 引述《ericgary (艾瑞克蓋瑞)》之銘言：
+: 聯準會之所以升息
+: 不就是因為要打通膨
+: 讓cpi回落到2% 所以升息
+: 現在差不多要回落2%了
+: 所以才會說明年將要降息 恢復之前的利率
+: 跟經濟好不好哪有關係？
+: 為何一堆人在那邊扯
+: 說是因為明年經濟可能不好 所以才要降息
+: 還有人說 明年可能不會降息 因為經濟很好
+: 可是聯準會當初升息也不是因為經濟太好所以升息
+: 而是通膨的關係吧？
+: 那麼明年降息就是通膨回落到他們的目標
+: 僅此而已吧
+: 若真的經濟不好 除了降息
+: QE才是主要手段吧？
+: 所以聯準會明年說要降息 是因為通膨回落
+: 跟經濟好不好無關吧？
+: 還有人說是因為拜登要選舉故意降息
+: 很多說法 搞得好亂呀
+: 推 WolFDragoN  : 半夜還從英國發文，辛苦了 12/21 08:14
+
+→ wen17       : 才0015 等我看開盤再睡(? 12/21 08:15
+
+推 sora0115    : 1、2點看起來就菲利普曲線 12/21 08:17
+
+→ wen17       : 長期刻意的低息會改變預期心理(改變其他條件) 12/21 08:18
+
+→ wen17       : 如果這之後撞到供給面負面衝擊 就爆炸 12/21 08:19
+
+→ wen17       : 用tyler equation說比較好 12/21 08:21
+
+推 naloer      : 最後說到重點 台灣央行以賺錢為目的 失去原本作用 1 12/21 08:34
+
+→ naloer      : 1 /1的今周刊也以專欄在討論這件事 很值得一看 12/21 08:34
+
+推 fmp1234     : 植物有規章說明自己的目標是什麼嗎 12/21 08:34
+
+→ fmp1234     : 植物也需要使用氧氣啊 12/21 08:34
+
+→ fmp1234     : 我來鬧的XD 12/21 08:34
+
+→ wen17       : 植物是沒規章 不過國中生物課本這樣教的 主產物 12/21 08:37
+
+推 sharmans    : 會一句自己google就好了 12/21 09:01
+
+→ sharmans    : 回那麼多字他一定也沒看 12/21 09:02
+
+→ no2muta     : 央行要維持低利率才能扛這10%…= = 12/21 09:29
+
+推 ellsburywu  : 單純就一個疑問使用史上最大毒藥印鈔不用付出代價？ 12/21 09:32
+
+→ ellsburywu  : 不要說通膨，一般人股票已經賺爛這個通膨根本不算 12/21 09:32
+
+→ ellsburywu  : 什麼 12/21 09:32
+
+→ labiron     : 股票賺爛其實少數人 大家都認定降息最大毒藥是 12/21 09:37
+
+→ labiron     : 貧富差距 12/21 09:38
+
+→ labiron     : 這種差距包含社會結構 還有國與國之間的 12/21 09:38
+
+推 piliwu      : 那獲利主要是美債利息收入不是台幣利匯率的關係 12/21 09:39
+
+推 piliwu      : 利息收入每年大概都占總收入九成 12/21 09:41
+
+→ rbelldandy  : 印很多錢以後要怎麼還真的很其怪,利息來的急嗎? 12/21 10:15
+
+→ rbelldandy  : 這幾年十資訊發展快,炒金融的人來越多,其實問題也多 12/21 10:16
+
+→ rbelldandy  : 融膨脹到一種程度一定會反噗 12/21 10:17
+
+噓 lise1017    : 扯貧富差距真的很好笑 12/21 10:58
+
+→ lise1017    : 貧富差距在絕大多數時候=個人智商能力態度與運氣的 12/21 10:58
+
+→ lise1017    : 差異 12/21 10:58
+
+→ lise1017    : 阿 對了 還有一個更重要且近幾年才頻繁出現的但單 12/21 11:00
+
+→ lise1017    : 詞「自律」 12/21 11:00
+
+→ lise1017    : 這些才是導致你個人與其他人貧富差距的主因 12/21 11:00
+
+→ lise1017    : 而不是扯一堆外在的怨天尤人 整天哀嚎 loser喊破還 12/21 11:01
+
+→ lise1017    : 是loser 12/21 11:01
+
+→ rbelldandy  : 錢是控制世界的利器 12/21 11:26

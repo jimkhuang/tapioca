@@ -1,0 +1,98 @@
+作者zmcx16 (zmcx16)看板Stock標題[心得] 美股個股空頭歷史資料整理網站時間Thu May 11 23:41:43 2023
+blog完整文章:
+https://blog.zmcx16.moe/2023/05/norn-stockscreener.html
+
+
+一般像Yahoo財經, Finviz等投資網站都有個股的空頭資訊(Short Float, Short
+Ratio), 可是卻沒有提供這些指標的歷史變化, 所以看不出來目前該公司的空頭比例是正
+在增加還是減少, 也不知道變化有多劇烈, 就決定寫個網頁來整理這塊資訊。
+
+資料來源部分, 美國金融業監管局(FINRA)有規定各個交易所, 每個月中&月末都必須提
+交空頭資料, 然後也開放讓大眾在FINRA網站上查詢空頭歷史資料:
+https://www.finra.org/finra-data/browse-catalog/equity-short-interest/data
+
+
+查詢頁面提供的資料有short interest, avg daily volume, days to cover (short
+ratio), etc... 可惜的是沒有提供個股流通量(share float)所以沒辦法算short
+float, 不過share float我以前寫的爬蟲程式就有抓了, 所以也算得出來, 最後做好的網
+站如下:
+https://norn-stockscreener.zmcx16.moe/short-stocks-summary/
+
+
+Github:
+https://github.com/zmcx16/Norn-StockScreener
+https://i.imgur.com/heNeg6Y.png
+
+
+上圖表格上除了有Short Float & Short Ratio這兩個常用的空頭指標以外, 還有
+SF-15d, SF-30d, SF-45d, SR-15d, SR-30d, SR-45d, 代表的是最近一次報告跟前15天,
+30天, 45天的變化 (short interest latest - short interest history / short
+interest history), 表示Short Float & Short Ratio這段時間的變化(另外還有6mo &
+1yr的資料, 因為時間太遠就預設隱藏, 有需要也可以自行打開), 有了這些欄位資料, 我
+就可以知道這些個股是空單持續增加 or 維持不變 or 開始減少, 輔助使用者做進一步交
+易判斷。
+
+
+另外除了統整的表格資料, 也提供近一年的歷史圖表做視覺化, 上圖為股價&交易量線
+圖; 中圖為空頭股數&平均交易量線圖; 下圖為Short Float & Short Ratio的歷史線圖,
+可以直接看這個圖表了解這一年股價跟空單交易的趨勢走向。
+
+https://i.imgur.com/LAPWs4p.png
+
+
+
+最後來看看最近倒閉的FRC空頭歷史資料:
+
+https://i.imgur.com/kGW16Oq.png
+
+可以看見FRC在區域銀行危機之前, 交易量 & Short Interest & Short Float都很小, 然
+後爆發區域銀行危機後, 3/15空單數量激增, Short Float也從2.75% -> 4.94%, 這算是
+一個小警訊(Short Ratio反而下降是因為相對於增加的空單量, 股票交易量暴增的更是龐
+大), 而3/31更是誇張, Short Float從4.94% -> 30.04%, 這暴增量就是一個警訊了, 而
+再下一次空頭回報日一樣維持在高放空率, 再再下一次就被監管破產了, 所以也就沒資料
+了。
+
+
+最後補充一下個人想法, 大多時候空頭指標跟股價實際相關程度並不大, 除了非常劇烈的
+變化才會有正相關性, 所以建議空頭指標最好只拿來當交易前的警示判斷參考標準, 千萬
+不要只用這個指標作為交易的準則甚至去做放空的交易...。
+
+推 Petrovsky   : 推一下 學到很多 05/12 00:07
+
+推 Jacky18182  : 強 05/12 00:07
+
+推 EHacker     : 推 05/12 00:08
+
+推 jasonpop    : 推，謝謝持續在版上分享 05/12 00:09
+
+推 andylu1207  : 全力做空 ！ 05/12 00:21
+
+推 listener0806: 推 05/12 00:35
+
+推 brain9453   : 推 有料 05/12 00:38
+
+推 tamynumber1 : 推 05/12 00:49
+
+推 zonapha1988 : 推 05/12 01:07
+
+→ allgood123  : 跌就買 那麼簡單還恐慌？ 05/12 01:32
+
+推 dickygto    : 有點猛啊 05/12 03:50
+
+推 sqt         : 認同大跌，且急跌，就可以短線買被錯殺的，短沖 05/12 06:59
+
+推 mike8469    : 推 05/12 07:20
+
+推 fdkevin     : 推推 05/12 07:36
+
+→ manamerj    : 讚讚 謝謝分享~ 05/12 08:09
+
+推 hectorbibby : 讚啦，長期做多就對了，人類科技就是進步而已 05/12 08:24
+
+推 k798976869  : 推 05/12 09:58
+
+推 fandy5566   : 推 05/12 12:23
+
+推 eknbz       : 推個 05/12 13:58
+
+推 cchen       : 推 05/12 20:05

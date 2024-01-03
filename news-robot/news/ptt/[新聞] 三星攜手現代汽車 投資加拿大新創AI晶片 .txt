@@ -1,0 +1,59 @@
+作者madeinheaven ()看板Stock標題[新聞] 三星攜手現代汽車 投資加拿大新創AI晶片時間Sun Aug  6 20:39:37 2023
+
+原文標題：
+
+三星攜手現代汽車 投資加拿大新創AI晶片公司
+
+原文連結：
+
+https://ctee.com.tw/livenews/gj/ctee/a98641002023080309002237
+
+發布時間：
+
+2023.08.03
+
+記者署名：
+
+陳穎芃
+
+原文內容：
+
+韓國兩大集團三星電子及現代汽車為了搶攻AI商機，近日加入加拿大新創AI晶片公司
+Tenstorrent最新一輪募資。Tenstorrent這回一共募得1億美元資金，參與的投資者還包
+括Fidelity Ventures、Eclipse Ventures及Epiq Capital等創投公司。
+
+總部設在多倫多的Tenstorrent創立於2016年，專門針對AI應用市場研發處理器晶片，並
+將晶片技術授權給客戶使用。該公司執行長凱勒（Jim Keller）表示，最新一輪募資所得
+將用來加速產品研發。
+
+由於AI運算需要更強大的晶片且運算成本快速飆漲，因此近來包括超微及英特爾等晶片大
+廠都開始研發能將多片晶片堆疊以強化運算能力的小晶片（chiplet），而Tenstorrent也
+不例外，將投入更多資金研究小晶片設計。
+
+
+心得/評論：
+
+Jim Keller創立Tenstorrent獲得三星和現代汽車投資
+
+其中現代汽車3000萬美元 起亞汽車2000萬美元
+
+剩下5000萬美元是來自三星旗下Catalyst Fund基金和Fidelity Ventures
+、Eclipse Ventures、Epiq Capital和Maverick Capital等其他投資者。
+
+未來現代汽車集團應該會採用Tenstorrent的AI晶片
+
+另外Tenstorrent之前還跟LG電子合作開發RISC-V 晶片
+
+推 cuteSquirrel: 公主很正 08/06 20:40
+
+推 Epimenides  : 5007史創敗 08/06 20:41
+
+推 pmes9866    : 樓下中野0 NINE 08/06 20:48
+
+→ Altair      : Jim Keller 光這名字要募錢太容易了 08/06 21:00
+
+→ zzj11       : 之前就說三星百大供應鏈可以關注XD 08/06 21:58
+
+噓 pf775       : 三星不是快倒閉了嗎 08/06 23:58
+
+推 cuteSquirrel: 三星～南韓命運共同體 大到不允許倒 08/07 00:20

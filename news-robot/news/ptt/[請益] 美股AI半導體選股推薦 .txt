@@ -1,0 +1,139 @@
+作者askaleroux (Falcon)看板Stock標題[請益] 美股AI半導體選股推薦時間Fri Aug 18 18:55:01 2023
+───────────────────────────────────────
+
+如題
+
+小弟最近在完整AI半導體產業鏈倉位
+
+主要買了幾隻股票
+
+
+持股多寡依序
+
+
+NVDA AI顯卡一哥
+
+AMD  AI顯卡第二位
+
+MSFT OpenAI爸爸
+
+SNPS  新思 豬屎EDA Design首席
+
+CDNS 益華 EDA第二名
+
+AAPL 蘋果 雖然不知道AI在哪
+
+
+但總覺應該快有
+
+想知道還有哪一些股是沒有選到的？
+
+Meta的羊駝感覺很猛
+
+但是收益好像暫時都跟他的AI發展無關
+
+
+Arista Network是做SDN交換器的
+
+好像也是AI基礎建設
+
+
+有想過買AI 資安相關的
+
+例如Cloudflare防LLM爬蟲但好像
+
+還沒那麼快時間點
+
+不知道大大還有什麼
+
+美股AI半導體概念推薦
+
+→ andy87115   : On?? 08/18 18:57
+
+推 airforce1101: 美國更應該買軟體服務 08/18 18:58
+
+推 rayccccc    : 分類 [標的] 08/18 19:01
+
+推 pmes9866    : 直接買費半不就好 08/18 19:02
+
+→ la8day      : 緯創 08/18 19:03
+
+推 rondox      : intc?smci? 08/18 19:03
+
+推 obi963      : Supermicro 08/18 19:07
+
+推 cowbeyo     : 最近覺得soxl真的不宜長期持有 08/18 19:09
+
+推 mystage     : 我全壓谷哥啊，歡迎加入 08/18 19:11
+
+推 peter6666712: SOXL TQQQ 都要賭博了當然玩大的 08/18 19:14
+
+推 diabolica   : SOXL 一起high 08/18 19:15
+
+噓 zombiepigman: ai要死了.. 08/18 19:16
+
+推 Lamigirls48 : 問就是CCL 年底上看30 08/18 19:19
+
+推 BlueBlueLuu : soxl 每天5% 5%跌到你懷疑人生 08/18 19:21
+
+推 ajkofqq     : 你這個組合應該只佔資產的10%沒錯吧 :) 08/18 19:25
+
+→ q09701023   : Qqq 08/18 19:33
+
+推 work2dog    : Cisco Marvel AVGO 08/18 19:36
+
+推 xm3u4vmp6   : 博通 Juniper 思科 交換機 08/18 19:38
+
+→ xm3u4vmp6   : Arteris 片上網路ip股 08/18 19:40
+
+推 EHacker     : CSCO 你終究是要用網路ㄉ 08/18 19:40
+
+推 xm3u4vmp6   : Intel 願意下跪台積電的話 可以投資 08/18 19:44
+
+推 sean25341812: Intel啊 雲端伺服器大部x86 只有切割代工 intel 馬 08/18 19:47
+
+→ sean25341812: 上飛天 08/18 19:47
+
+推 xm3u4vmp6   : 雖然我買7950x但只要Intel 用台積電 08/18 19:54
+
+→ xm3u4vmp6   : 馬上買爆 08/18 19:54
+
+推 DUFTON      : NVDA  真心不騙 08/18 19:58
+
+→ a79111010   : 你是不是看不起特哥 08/18 20:00
+
+→ qwerasdft   : U ? 08/18 20:17
+
+推 F2012       : soxl allin 08/18 20:17
+
+推 Nolic       : SMCI 08/18 20:31
+
+推 qwe50321    : PLTR 08/18 21:17
+
+→ qwe50321    : TSLA 08/18 21:17
+
+→ lobenny0811 : 可口可樂 08/18 21:19
+
+推 kirayue     : 不可能漏掉google吧 08/18 21:51
+
+推 lineak      : Asml adr, Amat 08/18 22:04
+
+推 Haruna1998  : SOXL 08/18 22:08
+
+→ Haruna1998  : NVDL 1.5倍NVDA 08/18 22:09
+
+推 ken2508g    : NVDS 08/18 22:21
+
+推 fancyrex    : SMH 直接包了 08/18 22:59
+
+推 Swave       : SOXL分批，越低越買，明年你會感謝我 08/19 00:10
+
+推 Neap        : GOOG 08/19 01:35
+
+推 dennis1026  : ON 08/19 05:06
+
+推 jadefly     : NVDA 開始降息時轉SOXL 08/19 11:33
+
+推 deolinwind  : AAPL的AI點在於它是房東啊，有經過appstore就抽三成 08/19 18:20
+
+推 maypcc      : 網通也通通都是房東 沒網路連AI都用不了 08/19 19:38

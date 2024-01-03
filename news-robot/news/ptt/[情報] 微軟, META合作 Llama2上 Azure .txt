@@ -1,0 +1,73 @@
+作者derekhsu (浪人47之華麗的天下無雙)看板Stock標題[情報] 微軟, META合作 Llama2上 Azure時間Wed Jul 19 09:38:31 2023
+
+
+
+1. 標題：
+微軟與META擴大他們的AI合作關係，讓Llama 2上Azure以及 windows
+
+2. 來源：
+微軟公司
+
+3. 網址：
+https://bit.ly/3NQdaxm
+
+4. 內文：
+
+在近幾個月，AI創新的重大進展引發了一波變革性的可能性，以重塑產業和我們的工方式的承諾，吸引了我們集體的想像力。今天，在Microsoft Inspire上作Meta和Microsoft宣布在Azure和Windows上支援Llama 2系列的大型語言模型（LLMs）。Llama 2旨在使開發人員和組織能夠構建由生成AI驅動的工具和體驗。Meta和Microsoft都致力於將AI及其好處普及化，我們很高興Meta對Llama 2採取開放的方式。我們為開發人員提供在他們構建的模型類型上的選擇，支援開放和前沿模型，並很高興成為Meta在他們首次向商業客戶發布Llama 2的新版本時的首選合作夥伴。
+
+現在，Azure客戶可以更輕鬆、更安全地在Azure上微調和部署7B、13B和70B參數的Llama 2模型，這是最廣泛採用的前沿和開放模型的平台。此外，Llama將優化為在Windows上本地運行。Windows開發人員將能夠通過針對ONNX Runtime的DirectML執行提供者來使用Llama，允許他們在將生成AI體驗帶入他們的應用程序時實現無縫的工作流程。
+
+我們與Meta的合作關係不斷增長，Meta和Microsoft一直是AI的長期合作夥伴，從與PyTorch合作將ONNX Runtime集成到Azure上，創建了一個對於PyTorch在Azure上的開發人員體驗，以及Meta選擇Azure作為戰略雲提供商。今天的公告建立在我們的合作夥伴關係上，以加速在AI時代的創新，並進一步擴展Microsoft的開放模型生態系統和作為全球AI超級計算平台的地位。
+
+Azure的專為AI超級計算設計的平台從設施、硬體和軟體上都獨一無二地設計，以支援世界領先的AI組織構建、訓練和部署一些最具挑戰性的AI工作負載。Llama 2模型與Azure AI的可用性使開發人員能夠利用Azure AI的強大工具進行模型訓練、微調、推理，特別是支援AI安全的功能。
+
+將Llama 2模型包含在Windows中有助於推動Windows成為開發人員構建為他們的客戶需求量身定制的AI體驗的最佳場所，並解鎖他們使用世界一流工具如Windows Subsystem for Linux (WSL)、Windows終端、Microsoft Visual Studio和VS Code的能力。
+
+Llama 2是我們不斷增長的Azure AI模型目錄的最新添加。該模型目錄，目前在公開預覽中，作為基礎模型的中心，使開發人員和機器學習（ML）專業人員能夠輕鬆發現、評估、自定義和部署預先構建的大型AI模型。
+
+該目錄消除了用戶在操作化Llama 2時需要管理所有基礎設施依賴性的需要。它為模型微調和評估提供了即插即用的支援，包括強大的優化技術，如DeepSpeed和ONNX Runtime，這些技術可以顯著提高模型微調的速度。
+
+Windows開發人員將能夠輕鬆地使用Llama 2構建新的體驗，可以通過GitHub Repo訪問。有了Windows Subsystem for Linux和高性能的GPU，開發人員可以在他們的Windows PC上微調LLM以滿足他們的特定需求。
+
+在Azure上負責任地建立，負責任的AI是Microsoft對AI的方法和我們如何合作的核心。多年來，我們一直在使Azure成為負責任的、尖端的AI創新的地方投入大量資源，無論客戶是建立自己的模型還是使用來自Microsoft、Meta、OpenAI和開源生態系統的預先構建和可自定義的模型。
+
+在Microsoft，我們通過包括實驗和測量在內的迭代、分層的方法來減輕大型語言模型使用可能帶來的風險。Azure AI的客戶可以使用他們自己的樣本數據來測試Llama 2，看看它如何適應他們的特定用例。
+
+心得：
+
+強強聯合了！Llama2公布不到24小時 Azure上馬上就可以用，而且支援1鍵部署。
+
+要知道Llama一代是不給商用的，第二代直接就秒上 Azure
+
+微軟這下開源跟閉源的模型都有了，且 Llama2在不少方面已實現追上 GPT 3.5
+
+
+推 hlkevin81925: 看不懂 07/19 09:41
+
+→ TIouChen    : 翻譯: AI應用合作.看起來也沒調升支出. 07/19 09:43
+
+噓 polypress   : 你要機翻也潤稿一下好嗎 07/19 09:44
+
+推 horseorange : 先不管AI 微軟的 DCG繼續飛 07/19 09:46
+
+→ derekhsu    : 他的翻譯沒有有問題的地方 07/19 09:46
+
+→ derekhsu    : 要潤什麼的搞 07/19 09:47
+
+推 kkchen      : 現在任何行業只要可以觸及AI.股價翻倍沒問題吧? 07/19 09:48
+
+推 wts4832     : 有Ai 就是噴 07/19 09:50
+
+→ idernest    : https://i.imgur.com/2dCq7P7.jpg 不要小看有六塊 07/19 09:50
+
+→ idernest    : 肌的男人 07/19 09:50
+
+推 strlen      : 反正就想像成你有辦法搞到設備也可以自己弄ChatGPT 07/19 09:59
+
+→ derekhsu    : 最小的模型你用3060就可以跑了 07/19 10:02
+
+推 miyazakisun2: 總之可以在zure 用就對了 07/19 10:14
+
+→ miyazakisun2: Azure 07/19 10:15
+
+推 jose777     : AI嚇屬人,營收笑屬人 07/19 10:35

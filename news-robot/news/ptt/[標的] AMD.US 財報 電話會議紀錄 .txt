@@ -1,0 +1,435 @@
+作者Severine (賽非茵)看板Stock標題[標的] AMD.US 財報 電話會議紀錄時間Wed May  3 23:39:07 2023
+
+1. 標的：AMD.US       (例 2330.TW 台積電)
+
+2. 分類：討論
+
+3. 分析/正文：
+
+
+以下是電話會議文字稿,非常長(1500+),附有中英對照.
+其中[]內為提問/回答者姓名,只有Lisa的部分改稱蘇媽.
+
+我這份是整理來自己看得,想想順便分享出來.
+如果英文有錯的話基本上是不會特別去改,請見諒
+
+[Ruth Cotter]——全球營銷、人力資源和投資者關係高級副總裁
+
+Before we begin today's call, we would like to note that Jean Hu will
+attend the JPM Annual Technology, Media and Communications Conference on
+Tuesday, May 23rd; Dan McNamara, senior vice president and general manager,
+server business unit, will attend the Bank of America Global Technology
+Conference on Tuesday, June 6th. And our second quarter 2023 quiet time is
+expected to begin at the close of business on Friday, June 16th. Today's
+discussion contains forward-looking statements based on current beliefs,
+assumptions, and expectations, speak only as of today and as such, involve
+risks and uncertainties that could cause actual results to differ materially
+from our current expectations. Please refer to the cautionary statement in
+our press release for more information on factors that could cause actual
+results to differ materially.
+Now with that, I'll hand the call over to Lisa. Lisa?
+
+在我們開始今天的電話會議之前，我們想指出，
+Jean Hu 將於 5 月 23 日星期二參加 JPM 年度技術、媒體和通信會議；
+伺服器業務部高級副總裁兼總經理 Dan McNamara 將於 6 月 6 日星期二出席美國銀行
+全球技術大會。
+
+我們的 2023 年第二季度靜默期預計將於 6 月 16 日星期五營業結束時開始。
+今天的討論包含基於當前信念、假設和預期的前瞻性陳述，僅針對今天的情況發表，
+因此涉及可能導致實際結果與我們當前預期存在重大差異的風險和不確定性。請參閱我們
+新聞稿中的警告聲明，了解有關可能導致實際結果出現重大差異的因素的更多信息。
+現在，我將把電話交給麗莎。麗莎？
+
+[蘇媽]——總裁兼首席執行官
+
+Thank you, Ruth, and good afternoon to all those listening in today. We
+executed very well in the first quarter as we delivered better-than-expected
+revenue and earnings in a mixed demand environment, launched multiple
+leadership products across our businesses and made significant progress
+accelerating our AI road map and customer engagements across our portfolio.
+First-quarter revenue was $5.4 billion, a decrease of 9% year over year.
+Sales of our data center and embedded products contributed more than 50% of
+overall revenue in the quarter as cloud and embedded revenue grew
+significantly year over year.
+
+謝謝你，Ruth，下午好所有聽眾。我們在第一季度的表現非常出色，因為我們在混合需求
+環境中實現了好於預期的收入和收益，在我們的業務中推出了多個領先產品，並在加速我
+們的 AI 路線圖和我們產品組合中的客戶參與方面取得了重大進展。第一季度收入為 54
+億美元，同比下降 9%。由於雲計算和嵌入式產品收入同比大幅增長，我們數據中心和嵌
+入式產品的銷售額佔本季度總收入的 50% 以上。
+
+Looking at the first-quarter business results. Data Center segment revenue of
+$1.3 billion was flat year over year with higher cloud sales, offset by lower
+enterprise sales. In cloud, the quarter played out largely as we expected.
+EPYC CPU sales grew by a strong double-digit percentage year over year but
+declined sequentially as elevated inventory levels with some MDC customers
+resulted in a lower sell-in TAM for the quarter.
+
+查看第一季度的業務結果。數據中心部門收入 13 億美元，同比持平，雲銷售額增加，被
+企業銷售額下降所抵消。在雲端，本季度的表現基本符合我們的預期。 EPYC（霄龍）
+CPU 銷售額同比實現強勁的兩位數百分比增長，但由於一些 MDC 客戶的庫存水平升高導
+致本季度銷量 TAM 下降，因此環比下降。
+
+Against this backdrop, we were pleased the largest cloud providers further
+expanded their AMD deployments in the quarter to power a larger portion of
+their internal workloads and public instances. 28 new AMD instances launched
+in the first quarter, including multiple confidential computing offerings
+from Microsoft Azure, Google Cloud and Oracle Cloud that take advantage of
+the unique security features of our EPYC processors. In total, we now have
+more than 640 AMD-powered public instances available. Enterprise sales
+declined year over year and sequentially as end customer demand softened due
+to near-term macroeconomic uncertainty.
+
+在此背景下，我們很高興最大的雲提供商在本季度進一步擴展了他們的 AMD 部署，以支
+持他們更大一部分的內部工作負載和公共實例。第一季度推出了 28 個新的 AMD 實例，
+包括來自 Microsoft Azure、Google Cloud 和 Oracle Cloud 的多個機密計算產品，它
+們利用了我們 EPYC（霄龍）處理器的獨特安全特性。我們現在總共有 640 多個 AMD 支
+持的公共實例可用。由於近期宏觀經濟的不確定性導致終端客戶需求疲軟，企業銷售額同
+比和環比下降。
+
+We continued growing our enterprise pipeline and closed multiple wins with
+Fortune 500 automotive, technology, and financial companies in the quarter.
+We made strong progress in the quarter, ramping our Zen 4 EPYC CPU portfolio.
+All of our large cloud customers have generally running in their data centers
+and are on track to begin broad deployments to power their internal workloads
+and public instances in the second quarter. For the enterprise, Dell, HPE,
+Lenovo, Super Micro and other leading providers entered production on new
+general server platforms that complement their existing third-gen EPYC
+platforms.
+
+我們繼續擴大我們的企業管道，並在本季度與財富 500 強的汽車、技術和金融等領域的
+公司達成多項合作。我們在本季度取得了長足進步，擴大了我們的 Zen 4 EPYC CPU 產品
+組合。我們所有的大型雲客戶通常都在他們的數據中心運行，並有望在第二季度開始廣泛
+部署以支持他們的內部工作負載和公共實例。對於企業，戴爾、HPE、聯想、超微和其他
+領先供應商開始生產新的通用服務器平台，以補充其現有的第三代 EPYC（霄龍）平台。
+
+We are on track to launch Bergamo, our first cloud-native server CPU and
+Genoa, our fourth Gen EPYC processor with 3D chiplets for leadership in
+technical computing workloads later this quarter. Although we expect server
+demand to remain mixed in the second quarter, we are well-positioned to grow
+our cloud and enterprise footprint in the second half of the year based on
+the strong customer response to the performance and TCO advantages of Genoa,
+Bergamo, and GenX. Now looking at our broader data center business. In
+networking, Microsoft Azure launched their first instance powered by our
+Pensando DPU and software stack that can significantly increase application
+performance for networking intensive workloads by enabling 10 times more
+connections per second compared to non-accelerated instances.
+
+我們有望在本季度晚些時候推出我們的第一個雲原生服務器 CPU Bergamo 和我們的第四
+代 EPYC 處理器 Genoa，它具有 3D 小晶片，在技術計算工作負載方面處於領先地位。儘
+管我們預計服務器需求在第二季度仍將喜憂參半，但基於客戶對熱那亞、貝加莫和
+ Bergamo 的性能和 TCO 優勢的強烈反響，我們有能力在下半年擴大我們的雲和企業足跡
+。 X世代。現在看看我們更廣泛的數據中心業務。在網絡方面，Microsoft Azure 推出了
+他們的第一個實例，該實例由我們的 Pensando DPU 和軟件堆棧提供支持，與非加速實例
+相比，每秒連接數增加 10 倍，可顯著提高網絡密集型工作負載的應用程序性能。
+
+We expanded our data center product portfolio with the launch of our first
+ASIC-based Alveo data center media accelerator that supports four times the
+number of simultaneous video streams compared to our prior generation. In
+supercomputing, the MAX Plug Society announced plans to build the first
+supercomputer in the EU, powered by fourth-gen EPYC CPUs and instinct MI-300
+accelerators that is expected to deliver a three times increase in
+application performance and significant TCO improvements compared to their
+current system. Our AI activities increased significantly in the first
+quarter, driven by expanded engagements with a broad set of data center and
+embedded customers. We expanded the software ecosystem support for our
+instinct GPUs in the first quarter, highlighted by the launch of the widely
+used Pie Torch 2.0 framework, which now offers native support for our
+software.
+
+我們推出了首款基於 ASIC 的 Alveo 數據中心媒體加速器，擴展了我們的數據中心產品
+組合，該加速器支持的同步視頻流數量是上一代產品的四倍。在超級計算方面，MAX
+Plug Society 宣布計劃在歐盟建造第一台超級計算機，由第四代 EPYC CPU 和
+ instinct MI-300 加速器提供支持，與他們相比，預計應用程序性能提高三倍，TCO 顯
+著改善當前系統。我們的 AI 活動在第一季度顯著增加，這得益於與廣泛的數據中心和嵌
+入式客戶的廣泛合作。我們在第一季度擴展了對本能 GPU 的軟件生態系統支持，突出體
+現在廣泛使用的 Pie Torch 2.0 框架的發布，該框架現在為我們的軟件提供本地支持。
+
+In early April, researchers announced they used the LUMI supercomputer
+powered by third-gen EPYC CPUs and instinct MI250 accelerators to train the
+largest finished language model to date. Customer interest has increased
+significantly for our next-generation instinct MI300 GPUs for both AI
+training and inference of large language models. We made excellent progress
+achieving key MI300 silicon and software readiness milestones in the quarter,
+and we're on track to launch MI300 later this year to support the El Capitan
+exascale supercomputer win at Lawrence Livermore National Laboratory and
+large cloud AI customers. To execute our broad AI strategy and significantly
+accelerate this key part of our business, we brought together multiple AI
+teams from across the company into a single organization under Victor Peng.
+
+4 月初，研究人員宣布他們使用由第三代 EPYC CPU 和本能 MI250 加速器驅動的 LUMI
+超級計算機來訓練迄今為止最大的成品語言模型。客戶對我們用於 AI 訓練和大型語言模
+型推理的下一代 instinct MI300 GPU 的興趣顯著增加。我們在本季度取得了關鍵的
+ MI300 晶片和軟件就緒里程碑的出色進展，我們有望在今年晚些時候推出 MI300，以支
+持 El Capitan 百億億級超級計算機在勞倫斯利弗莫爾國家實驗室和大型雲 AI 客戶中獲
+勝。為了執行我們廣泛的 AI 戰略並顯著加速我們業務的這一關鍵部分，我們將來自整個
+公司的多個 AI 團隊整合到一個由 Victor Peng 領導的組織中。
+
+The new AI group has responsibility for owning our end-to-end AI hardware
+strategy and driving development of a complete software ecosystem, including
+optimized libraries, models, and framework expanding our full product
+portfolio. Now turning to our client segment. Revenue declined 65% year over
+year to $739 million as we shipped significantly below consumption to reduce
+downstream inventory. As we stated on our last earnings call, we believe the
+first quarter was the bottom for our client processor business.
+
+新的 AI 團隊負責擁有我們的端到端 AI 硬件戰略，並推動完整軟件生態系統的開發，包
+括優化的庫、模型和擴展我們完整產品組合的框架。現在轉向我們的客戶群。收入同比下
+降 65% 至 7.39 億美元，因為我們的出貨量大大低於消耗量以減少下游庫存。正如我們
+在上次財報電話會議上所說，我們認為第一季度是我們客戶端處理器業務的底部。
+
+We expanded our leadership desktop and notebook processor portfolio
+significantly in the quarter. In desktops, we launched the industry's fastest
+gaming processors with our Ryzen 7000 X3D series CPUs that combine our Zen 4
+core with industry-leading 3D chiplet packaging technology. In mobile, the
+first notebooks powered by our Dragon range CPUs launched a strong demand,
+with multiple third-party reviews highlighting how our 16-core Ryzen 9 7945HS
+CPU is now the fastest mobile processor available. We also ramped production
+of our Zen 4-based Phoenix Ryzen 7040 series CPUs in the first quarter for
+ultrathin and gaming notebooks to support the more than 250 ultrathin gaming
+and commercial notebook design wins on track to launch this year from Acer,
+Asus, Dell, HP, and Lenovo.
+
+我們在本季度顯著擴展了領先的PC和NB處理器產品組合。
+在PC方面，我們推出了業界最快的遊戲處理器，配備 Ryzen 7000 X3D 系列 CPU，結合
+了我們的 Zen 4 內核和業界領先的 3D 小晶片封裝技術。
+
+在移動領域，第一批採用我們的 Dragon 系列 CPU 的筆記本電腦引發了強烈的需求，
+多個第三方評論強調了我們的 16 核銳龍 9 7945HS CPU 現在是可用的最快的移動處理器
+。
+
+我們還在第一季度提高了基於 Zen 4 的 Phoenix Ryzen 7040 系列 CPU 的產量，用於
+超薄和遊戲筆記本電腦，以支持今年從宏碁、華碩、戴爾、惠普和聯想。
+
+Looking at the year, we continue to expect the PC TAM to be down
+approximately 10% for 2023 to approximately 260 million units. Based on the
+strength of our product portfolio, we expect our client CPU sales to grow in
+the second quarter and in the seasonally stronger second half of the year.
+Now turning to our Gaming segment. Revenue declined 6% year over year to $1.8
+billion as higher semi-custom revenue was offset by lower gaming graphics
+sales.
+
+展望這一年，我們繼續預計 PC TAM 到 2023 年將下降約 10% 至約 2.6 億台。
+基於我們產品組合的實力，我們預計我們的客戶 CPU 銷售額將在第二季度和季節性強勁的下半年
+增長。現在轉向我們的遊戲部門。由於較高的半定制收入被較低的遊戲圖形銷售額所抵消
+，收入同比下降 6% 至 18 億美元。
+
+Semi-custom SoC revenue grew year over year as demand for premium consoles
+remain strong following the holiday cycle. In gaming graphics, channel
+sell-through of our Radeon 6000 and Radeon 7000 series GPUs increased
+sequentially. We saw strong sales of our high-end Radeon 7900 XTX GPUs in the
+first quarter, and we're on track to expand our RDNA 3 GPU portfolio with the
+launch of new mainstream Radeon 7000 series GPUs this quarter. Looking at our
+Embedded segment.
+
+半定制 SoC 收入同比增長，因為在假期週期之後對高端遊戲機的需求依然強勁。
+在遊戲圖形方面，我們的 Radeon 6000 和 Radeon 7000 系列 GPU 的銷量環比增長。
+第一季度，我們的高端 Radeon 7900 XTX GPU 銷量強勁，我們有望在本季度推出新的主流
+ Radeon 7000 系列 GPU，從而擴展我們的 RDNA 3 GPU 產品組合。看看我們的嵌入式部
+分。
+
+Revenue increased significantly year over year to a record $1.6 billion. We
+saw strength across the majority of our embedded markets, led by increased
+demand from industrial, vision and healthcare, test and emulation,
+communications, aerospace and defense, and automotive customers. Demand for
+our adaptive computing solutions continues to grow as industrial vision and
+healthcare customers actively work to add more advanced compute capabilities
+across their product lines. We also released new Vitis AI software libraries
+to enable advanced visualization and AI capabilities for our medical
+customers and launched our next-generation platform that provides a turnkey
+solution to deploy our leadership adaptive computing capabilities for smart
+camera, industrial, and machine vision applications.
+
+收入同比大幅增長，達到創紀錄的 16 億美元。在工業、視覺和醫療保健、測試和仿真、
+通信、航空航天和國防以及汽車客戶不斷增長的需求的帶動下，我們看到了大多數嵌入式
+市場的實力。隨著工業視覺和醫療保健客戶積極致力於在其產品線中添加更先進的計算功
+能，對我們的自適應計算解決方案的需求持續增長。我們還發布了新的 Vitis AI 軟件庫
+，為我們的醫療客戶提供高級可視化和 AI 功能，並推出了我們的下一代平台，該平台提
+供了一個交鑰匙解決方案，可以為智能相機、工業和機器視覺應用部署我們領先的自適應
+計算功能。
+
+In communications, we saw strength with wired customers as new infrastructure
+design wins ramped into production. We also launched Zinc RF SoC products to
+accelerate 4G and 5G radio deployments in cost-sensitive markets and formed
+our first telco solutions lab to validate end-to-end solutions based on AMD
+CPU, adaptive SoCs, FPGAs, DPUs, and software. In automotive, deployments of
+our adaptive silicon solutions for high-end ADAS and AI features grew in the
+quarter, highlighted by Subaru rolling out its AMD-based iSIGHT four platform
+across their full range of vehicles. In addition, we expanded our embedded
+processor portfolio with the launches of Ryzen 5000 and EPYC 9000 embedded
+series processors with leadership performance and efficiency as we focus on
+growing share in the security, storage edge server, and networking markets.
+
+在通信方面，隨著新的基礎設施設計成功投入生產，我們看到了有線客戶的優勢。我們還
+推出了 Zinc RF SoC 產品，以加速成本敏感型市場中的 4G 和 5G 無線電部署，並成立
+了我們的第一個電信解決方案實驗室，以驗證基於 AMD CPU、自適應 SoC、FPGA、DPU 和
+軟件的端到端解決方案。在汽車領域，我們用於高端 ADAS 和 AI 功能的自適應矽解決方
+案的部署在本季度有所增長，突出表現是斯巴魯在其全系列車輛中推出了基於 AMD 的
+ iSIGHT 4 平台。此外，隨著我們專注於增加安全、存儲邊緣服務器和網絡市場的份額，
+我們通過推出具有領先性能和效率的銳龍 5000 和 EPYC 9000 嵌入式系列處理器擴展了
+我們的嵌入式處理器產品組合。
+
+Looking more broadly across our embedded business, we are making great
+progress in bringing together our expanded portfolio and scale to drive
+deeper engagements with our largest embedded customers. In summary, I'm
+pleased with our operational and financial performance in the first quarter.
+In the near term, we continue to see a mixed demand environment based on the
+uncertainties in the macro environment. Based on customer demand signals, we
+expect second-quarter revenue will be flattish sequentially with growth in
+our client and data center segments, offset by modest declines in our Gaming
+and Embedded segments.
+
+從更廣泛的角度來看我們的嵌入式業務，我們在整合我們擴展的產品組合和規模以推動與
+我們最大的嵌入式客戶更深入的合作方面取得了巨大進展。總而言之，我對我們第一季度
+的運營和財務業績感到滿意。短期內，我們繼續看到基於宏觀環境不確定性的混合需求環
+境。根據客戶需求信號，我們預計第二季度收入將與我們的客戶端和數據中心部門的增長
+持平，但被我們的遊戲和嵌入式部門的適度下滑所抵消。
+
+We remain confident in our ability to grow in the second half of the year,
+driven by adoption of our Zen 4 product portfolio, improving demand trends in
+our client business and the early ramp of our instinct MI300 accelerators for
+HPC and AI. Looking longer term, we have significant growth opportunities
+ahead based on successfully delivering our road maps and executing our
+strategic data center and embedded property priorities, led by accelerating
+adoption of our AI products. We are in the very early stages of the AI
+computing era, and the rate of adoption and growth is faster than any other
+technology in recent history. And as the recent interest in generative AI
+highlights, bringing the benefits of large language models and other AI
+capabilities to cloud, edge, and endpoints require significant increases in
+compute performance.
+
+在採用我們的 Zen 4 產品組合、改善客戶業務的需求趨勢以及我們用於 HPC 和 AI 的本
+能 MI300 加速器的早期增長的推動下，我們對下半年的增長能力充滿信心。從長遠來看
+，基於成功交付我們的路線圖並執行我們的戰略數據中心和嵌入式財產優先事項，以及加
+速採用我們的 AI 產品，我們將面臨巨大的增長機會。我們正處於人工智能計算時代的早
+期階段，採用率和增長速度比近代歷史上的任何其他技術都要快。正如最近對生成 AI 的
+興趣所強調的那樣，將大型語言模型和其他 AI 功能的優勢帶到雲、邊緣和端點需要顯著
+提高計算性能。
+
+AMD is very well-positioned to capitalize on this increased demand to compute
+based on our broad portfolio of high-performance and adaptive compute
+engines, the deep relationships we have established with customers across a
+diverse set of large markets, and our expanding software capabilities. We are
+very excited about our opportunity in AI. This is our No. 1 strategic
+priority, and we are engaging deeply across our customer set to bring joint
+solutions to the market, led by our upcoming instinct MI300 GPUs, Ryzen 7040
+Series CPUs with Ryzen AI, Zynq UltraScale+ MPSoCs, LVO V70 data center
+inference accelerators and Versal AI adaptive data center and edge SoCs.
+
+基於我們廣泛的高性能和自適應計算引擎產品組合、我們與各種大型市場的客戶建立的深
+厚關係以及我們不斷擴展的軟件功能，AMD 處於有利地位，可以利用這種不斷增長的計算
+需求。我們對我們在人工智能領域的機會感到非常興奮。這是我們的首要戰略重點，我們
+正在深入參與我們的客戶群，以將聯合解決方案推向市場，由我們即將推出的本能
+ MI300 GPU、配備 Ryzen AI 的 Ryzen 7040 系列 CPU、Zynq UltraScale+ MPSoC、LVO
+V70 數據中心引領推理加速器和 Versal AI 自適應數據中心和邊緣 SoC。
+
+I look forward to sharing more about our AI progress over the coming quarters
+as we broaden our portfolio and grow the strategic part of our business. Now
+I'd like to turn the call over to Jean to provide some additional color on
+our first-quarter results. Jean?
+
+隨著我們擴大我們的產品組合併發展我們業務的戰略部分，我期待在未來幾個季度分享更
+多關於我們人工智能進展的信息。現在我想把電話轉給 Jean，為我們的第一季度業績提
+供一些額外的色彩。Jean？
+
+[Jean Hu] 推 hirorei     : 島 05/03 23:40
+
+推 ab4daa      : 99AMD 05/03 23:41
+
+推 truelove356 : 有人攤平嗎或拉回加碼？ 05/03 23:42
+
+推 windchimeqq : 先回60-70再說 05/03 23:44
+
+推 Jerry469    : 彥州995 05/03 23:51
+
+推 apeople     : 美江概念股 05/03 23:51
+
+推 syuan0886   : 推 05/03 23:53
+
+推 thbygn98    : 來算提到幾次AI，沒有53次算不及格 05/03 23:54
+
+推 Jerry469    : 今晚會不會10%以上 05/03 23:55
+
+推 roseritter  : 先推 05/03 23:56
+
+推 gladopo     : 丸 05/03 23:57
+
+推 taruru      : 管理階層可不可信你就看去年喊要buyback.結果只執行 05/03 23:57
+
+→ taruru      : 240M, 還有6.3B沒有執行.去年崩爛不出來維穩 05/03 23:58
+
+→ taruru      : 你難道覺得接下來一路向下他會出來給股東信心? 05/03 23:59
+
+推 Jiummay     : 推個 05/04 00:02
+
+→ Severine    : 我是還記得蘇媽說要回饋股東啦..嗯..兩年前吧 05/04 00:04
+
+→ Severine    : 不過去年大環境逆風成那樣,企業喊回購也是不太信 05/04 00:05
+
+→ kissme030   : 還好買不多70再開始攤QQ 05/04 00:08
+
+推 tist        : 推 05/04 00:09
+
+推 iamsofa     : 好長 總之提到滿滿的AI 斷定有fu糗 05/04 00:11
+
+推 bnn         : 捏 05/04 00:15
+
+→ taruru      : 回饋股東喊很久了, 結果怎樣自己打開對帳單最清楚 05/04 00:16
+
+→ taruru      : 今天美國財金新聞都講AMD現在喊AI已經太晚上車了 05/04 00:16
+
+→ taruru      : MI300出貨最樂觀也是Q3以後,而且也不知道多少家會用 05/04 00:17
+
+→ taruru      : 長線你都可以喊AMD戰未來,遊戲機還在就至少倒不了 05/04 00:18
+
+→ taruru      : 但是AMD能不能搭上AIboom讓你賺比投資老黃多就問號 05/04 00:19
+
+推 aegis43210  : 嗯，蘇嬤該加大庫藏股了吧，股價那麼低了 05/04 00:22
+
+推 AMAKOTO     : 推 05/04 00:27
+
+推 TS28        : 60再讓我上車一次拜託 05/04 00:32
+
+噓 Kyameron    : 有AI 噴 05/04 00:42
+
+→ ginsengwolf : 超長 05/04 00:42
+
+推 tabletenis  : 謝謝分享 05/04 00:57
+
+推 yyyou       : amd cpu會燒毀 前途不明 05/04 01:08
+
+推 st0080524   : 好猛 05/04 01:29
+
+推 cmshow      : 推好長 05/04 01:34
+
+→ ck6m454     : 很顯然市場並不買單AMD說法 05/04 03:19
+
+噓 henry2003061: Trash stock 05/04 04:01
+
+→ Hecc        : xilinx從現在看下來確實買的不錯 05/04 05:05
+
+推 darlost     : 推一個 05/04 05:34
+
+推 jcto04      : 推 05/04 05:53
+
+→ mdkn35      : 這長度太扯 05/04 06:52
+
+推 disdark     : 謝謝分享 05/04 07:55
+
+推 jerrychuang : 請問這翻譯是自己翻？還是誰翻的？ 05/04 08:00
+
+→ Severine    : 翻譯引擎是google,我主要看原文,不懂的才看翻譯.看 05/04 08:19
+
+→ Severine    : 到怪怪的才改.所以翻譯不是全部都校正過.而且太長 05/04 08:19
+
+→ Severine    : 所以也無力去全部校正. 05/04 08:19
+
+→ fmp1234     : 原po好長，讚。 05/04 08:32
+
+推 lc85301     : 99AMD 05/04 09:37
+
+推 CORYCHAN    : 哥真有心 05/04 11:29
+
+→ CORYCHAN    : 市場的確不買單 05/04 11:33
+
+推 barryamon   : 推分享 05/04 11:49

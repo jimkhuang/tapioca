@@ -1,0 +1,121 @@
+作者Severine (賽非茵)看板Stock標題[新聞] Chipmaker Arm to make its own semicond時間Sun Apr 23 16:52:38 2023
+
+原文標題：
+
+Chipmaker Arm to make its own semiconductor - FT
+
+原文連結：https://ibit.ly/6CZ4
+
+發布時間：Apr 23, 2023 03:00AM ET
+
+記者署名：
+
+原文內容：
+
+(Reuters) - British chipmaker Arm Ltd is building its own semiconductor to
+showcase the capabilities of its products, as it seeks to attract new
+customers and fuel growth following its Initial Public Offering (IPO) later
+this year, the Financial Times reported on Sunday.
+
+（路透社） - 英國晶片製造商Arm Ltd正在建造自己的半導體，以展示其產品的功能，因
+為它尋求在今年晚些時候首次公開募股（IPO）後吸引新客戶並推動增長，英國《金融時
+報》周日報導。
+
+Arm will team up with manufacturing partners to develop the new
+semiconductor, FT said, citing people briefed on the move, adding that the
+company has built a new "solutions engineering" team that will lead the
+development of these prototype chips for mobile devices, laptops and other
+electronics.
+
+英國《金融時報》表示，Arm將與製造合作夥伴合作開發新的半導體，並援引知情人士的
+話說，該公司已經建立了一個新的“解決方案工程”團隊，將領導這些原型晶片的開發用
+於行動裝置，筆記型電腦和其他電子產品。
+
+The SoftBank Group Corp-backed company's newest chip, on which it started
+work in the past six months, is "more advanced" than ever before, FT said,
+citing industry executives.
+
+英國《金融時報》援引行業高管的話說，軟銀集團支援的最新晶片在過去六個月中開始工
+作，比以往任何時候都“更先進”。
+
+The chip designer has no plans to sell or license the product and is only
+working on a prototype, FT said.
+
+英國《金融時報》表示，晶片設計師沒有計劃銷售或許可該產品，只是在開發原型。
+
+Arm is a major supplier of intellectual property to many chip companies,
+especially in mobile phones and has partnerships with major chip contract
+manufacturers.
+
+Arm是許多晶片公司的主要知識產權供應商，特別是在手機領域，並與主要的晶片合約製
+造商建立了合作夥伴關係。
+
+Earlier this month, Intel Corp (NASDAQ:INTC) said it will work with Arm to
+ensure that mobile phone chips and other products that use Arm's technology
+can be made in Intel's factories.
+
+本月早些時候，英特爾公司（納斯達克股票代碼：INTC）表示將與Arm合作，確保使用Arm
+技術的手機晶片和其他產品可以在英特爾的工廠生產。
+
+Arm did not immediately respond to a Reuters request for comment.
+
+Arm沒有立即回應路透社的置評請求。
+
+心得/評論：
+
+現在大家都以ARM來設計自家晶片,而ARM也手癢想要下去一起玩.
+會打亂各家設計計畫嗎?畢竟有公版可以用的話,小眾的廠商誰還要自己設計?
+而且自己設計的晶片又有著無須授權費的優勢.
+
+
+推 rebel       : 那有那麼簡單 做好cpu 跟做好整顆soc是兩碼子事 04/23 17:04
+
+→ IBIZA       : 小眾廠商本來就沒在自己設計的 04/23 17:05
+
+推 m81020041   : 進入門檻那麼高…還用intel的製程 就算做出來價格 04/23 17:07
+
+→ m81020041   : 戰也被打趴 04/23 17:07
+
+→ idernest    : 未來iphone cpu 04/23 17:55
+
+噓 Rattlesnake : 廢文一篇  arm不是chipmaker好嗎 04/23 18:04
+
+→ Rattlesnake : 記者明顯不知道什麼叫chipmaker 04/23 18:04
+
+→ Severine    : 其實我對chipmaker也是挺納悶的,不過撇除這個用字 04/23 18:07
+
+→ Severine    : 其他的就還好吧. 04/23 18:07
+
+推 aegis43210  : 要學X86陣營的玩法難呀 04/23 19:00
+
+推 NEX4036     : 發哥 高通 可能一起受影響？ 04/23 19:02
+
+推 paracase    : 發哥被上下夾攻？ 04/23 19:14
+
+推 nangaluchen : ARM 搞這個真的是不智之舉 04/23 19:30
+
+推 roseritter  : 來嘍，元祖正宗跳下來玩，會比較強？ 04/23 19:49
+
+推 hegemon     : 他是要搶客製化的生意吧？ 04/23 19:49
+
+→ payneblue   : 看不懂  arm設計晶片?= = 04/23 19:56
+
+→ eecoolty    : 供應商跳下來搶客戶的生意 打什麼主意 04/23 20:22
+
+→ peter98     : Chipmaker =\= Chip manufacturer  把ARM說是chipma 04/23 20:27
+
+→ peter98     : ker不能說不對  但確實是非常少這樣用  通常還是要 04/23 20:27
+
+→ peter98     : 把ARM稱為Chip designer或者reaper  嘻嘻 04/23 20:29
+
+→ fakelie     : 雞雞 Q_Q 04/23 21:13
+
+推 abbei       : 傻，好好賺IP就好，跟人砸錢作晶片 04/24 00:49
+
+推 pponywong   : 做IP就好 你要搞晶片還要玩baseband 做測試 04/24 08:59
+
+→ pponywong   : 量產之後 還要拉客戶 還有搞庫存 04/24 08:59
+
+噓 Mtcat       : 台積電利多 04/24 09:15
+
+→ cityport    : 不對呀，ARM不是才剛裁員？ 04/24 09:20

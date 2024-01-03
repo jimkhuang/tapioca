@@ -1,0 +1,9 @@
+作者zeroxod (開心過好每一天)看板Stock標題Re: [心得] 演算法交易實用與否。時間Sun Jun 25 10:34:57 2023
+※ 引述《Archanfel (Archanfel)》之銘言：
+: 看過Physics of Wall Street 嗎？基本上所有的機器交易背後最重要的是人寫的model, 有牽涉到AI的話 使用哪一種AI algo 就是重點。但是不論哪一個都沒有穩賺的 所有的model 都有flaws. RT 在2008大賺 但是同樣策略在疫情時卻不行
+: https://markets.businessinsider.com/news/funds/renaissance-technologies-hedge-fund-performance-15-billion-outflows-jim-simons-2022-1
+: 當你在用程式在跑的時候 千萬要記得 做判斷的 寫程式的都是人 如果你自己沒法找到一個賺多賠少的策略 你開發出來的程式會有意義嗎？更不用說AI了 一般人都太神話AI了 有沒有聽過 AI is only as good as its training data. 如果資料量不夠或是太雜 或是不知如何tagging 或牽涉到主觀判斷的權重 那這AI 還不如沒有的好
+: 我自己做的是先找到一個可以獲利的策略 然後再寫成程式來自動化 提高liquidity
+: 推 airforce1101: GIGO啊 06/25 13:35
+
+推 twnndnpdnc  : 食品就穩穩，但是泰山不評論 06/25 19:31

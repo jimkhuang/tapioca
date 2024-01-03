@@ -1,224 +1,281 @@
-作者[彩券]看板Stock標題[公告] Stock 樂透開獎 時間Mon Dec 26 13:39:59 2022
+作者[彩券]看板Stock標題[公告] Stock 樂透開獎 時間Fri Jul 28 13:32:51 2023
 樂透說明
-標的：12/26 大盤（請預測當日收盤時的漲跌幅度）
-
-1.大大大漲 (漲＞五％)       4.大大大跌 (跌＞五％)   7.處變不驚 (無起落)
-2.漲 (一％＜漲≦五％)       5.跌 (一％＜跌≦五％)
-3.起 (漲≦一％)             6.滑 (跌≦一％)
+3231緯創 2023/07/28收盤價
+1.還沒上車：漲停        2.不給下車：跌停
+3.留在車上：漲幅 >=3%   4.想下車了：跌幅 >=3%
+5.臨時停車：漲跌幅 <3%  6.上上下下：成交量 >25萬張
+開獎順序 6>5=4=3=2=1
 
 下注情況
 
-1.大大大漲: 4      2.漲      : 304    3.起      : 445    4.大大大跌: 8      
-5.跌      : 358    6.滑      : 687    7.處變不驚: 23     
+1.還沒上車: 723    2.不給下車: 50     3.留在車上: 679    4.想下車了: 346    
+5.臨時停車: 289    6.上上下下: 1110   
 
-開獎時間: 12/26/2022 13:39:59
-開獎結果: 起
-下注總額: 182900
-中獎比例: 445張/1829張  (0.243302)
-每張中獎彩券可得 390 Ptt幣
+開獎時間: 07/28/2023 13:32:51
+開獎結果: 臨時停車
+下注總額: 319700
+中獎比例: 289張/3197張  (0.090397)
+每張中獎彩券可得 1050 Ptt幣
 
-12/26/2022 13:39:59 開出:起 總額:182900 彩金/張:390 機率:0.24
+07/28/2023 13:32:51 開出:臨時停車 總額:319700 彩金/張:1050 機率:0.09
 
-     kas1106      買了  10 張 滑
-     kas1106      買了  10 張 跌
-恭喜 jemc1905     買了   1 張 起, 獲得   390 Ptt幣
-     drraujn      買了   8 張 漲
-     LaPass       買了 107 張 漲
-     ryusenming   買了  10 張 漲
-     FF16         買了  10 張 跌
-     B1979O6l7    買了   1 張 跌
-     F23ko        買了   3 張 跌
-恭喜 linfuon      買了   2 張 起, 獲得   780 Ptt幣
-     NoNameL      買了  50 張 跌
-     OrO3         買了   7 張 跌
-恭喜 xga00mex     買了  10 張 起, 獲得  3900 Ptt幣
-     gc1319       買了   2 張 漲
-     ab4daa       買了  10 張 跌
-     xga00mex     買了  10 張 滑
-     lineage8027  買了   3 張 漲
-恭喜 HOMEWA       買了   1 張 起, 獲得   390 Ptt幣
-     HOMEWA       買了   1 張 漲
-     purplemagic  買了   5 張 漲
-     jceefailurer 買了  50 張 漲
-恭喜 matt7618     買了   3 張 起, 獲得  1170 Ptt幣
-     matt7618     買了   3 張 滑
-     zo4j4        買了 500 張 滑
-     g987669      買了  20 張 漲
-     illya65536   買了   1 張 滑
-     EHacker      買了   5 張 跌
-恭喜 Rr111        買了   1 張 起, 獲得   390 Ptt幣
-     NENEmywife   買了  10 張 滑
-恭喜 fenix220     買了   5 張 起, 獲得  1950 Ptt幣
-     amee         買了   2 張 跌
-     natyshow     買了  50 張 滑
-     kangsu       買了   1 張 滑
-     guardangle   買了 120 張 跌
-     tzj09        買了   1 張 漲
-     cocoaswifty  買了   1 張 滑
-     jack931018   買了   2 張 跌
-     devidevi     買了   1 張 處變不驚
-     devidevi     買了   1 張 滑
-     sai307       買了   5 張 跌
-     ookimoo      買了   6 張 跌
-     singjheng    買了   3 張 滑
-     loggerhead   買了   1 張 滑
-恭喜 fakelie      買了   1 張 起, 獲得   390 Ptt幣
-     yuenda       買了  10 張 漲
-     hubert2000   買了   5 張 滑
-恭喜 f204137      買了   1 張 起, 獲得   390 Ptt幣
-恭喜 namxp07      買了   1 張 起, 獲得   390 Ptt幣
-     namxp07      買了   1 張 漲
-     pigmouse     買了   1 張 跌
-     joresetan    買了   1 張 滑
-     hellover951  買了   5 張 跌
-恭喜 color926     買了   1 張 起, 獲得   390 Ptt幣
-     color926     買了   1 張 滑
-     color926     買了   1 張 漲
-恭喜 pkcqwe       買了   1 張 起, 獲得   390 Ptt幣
-     a068980980   買了   1 張 跌
-恭喜 horun        買了   2 張 起, 獲得   780 Ptt幣
-     DeapBlue     買了  10 張 漲
-     chinaeatshit 買了  15 張 滑
-     chinaeatshit 買了   2 張 處變不驚
-恭喜 jack60806    買了   1 張 起, 獲得   390 Ptt幣
-     FFFFFFFF     買了   3 張 處變不驚
-     FFFFFFFF     買了   3 張 跌
-     cmshow       買了   1 張 滑
-     x19005       買了   1 張 漲
-     winwaylin    買了   1 張 跌
-     optimistdog  買了   1 張 滑
-     DDDDRR       買了   2 張 跌
-     CavendishJr  買了   1 張 漲
-恭喜 CavendishJr  買了   1 張 起, 獲得   390 Ptt幣
-     CavendishJr  買了   1 張 大大大跌
-     CavendishJr  買了   1 張 跌
-     AAAB         買了   1 張 大大大跌
-恭喜 EXDes        買了   5 張 起, 獲得  1950 Ptt幣
-     QooIN        買了  10 張 漲
-     maresc       買了   1 張 漲
-恭喜 maresc       買了   1 張 起, 獲得   390 Ptt幣
-恭喜 XXXXGAX      買了   2 張 起, 獲得   780 Ptt幣
-     PeaceWu      買了   1 張 跌
-     cooljim0130  買了   3 張 滑
-恭喜 distantblc   買了   1 張 起, 獲得   390 Ptt幣
-     aa722166     買了  10 張 漲
-恭喜 jason731212  買了   5 張 起, 獲得  1950 Ptt幣
-     ceek         買了   1 張 跌
-     straw0327    買了   2 張 漲
-恭喜 holalalee    買了   1 張 起, 獲得   390 Ptt幣
-     holalalee    買了   1 張 處變不驚
-     holalalee    買了   1 張 大大大漲
-     holalalee    買了   1 張 大大大跌
-恭喜 cc9i         買了   1 張 起, 獲得   390 Ptt幣
-     Jacky18182   買了   1 張 漲
-     game0325     買了   1 張 跌
-     game0325     買了   1 張 滑
-恭喜 strong48     買了   1 張 起, 獲得   390 Ptt幣
-恭喜 seedpig      買了   1 張 起, 獲得   390 Ptt幣
-恭喜 singleflying 買了  10 張 起, 獲得  3900 Ptt幣
-恭喜 a330332003   買了   1 張 起, 獲得   390 Ptt幣
-     HP11125      買了   5 張 漲
-恭喜 lin0322      買了  30 張 起, 獲得 11700 Ptt幣
-     musi         買了   1 張 漲
-恭喜 wenasd012    買了  10 張 起, 獲得  3900 Ptt幣
-恭喜 danielele    買了   2 張 起, 獲得   780 Ptt幣
-     fjtc12       買了   1 張 漲
-     zz90183      買了   4 張 跌
-恭喜 littledan    買了 200 張 起, 獲得 78000 Ptt幣
-     croztt       買了   5 張 漲
-恭喜 croztt       買了   3 張 起, 獲得  1170 Ptt幣
-     croztt       買了   2 張 滑
-     purplemagic  買了   1 張 漲
-     scottc       買了   1 張 滑
-恭喜 scottc       買了   1 張 起, 獲得   390 Ptt幣
-     jimmy0316    買了   2 張 大大大跌
-     jimmy0316    買了   2 張 跌
-     jimmy0316    買了   2 張 滑
-     hunt543      買了  10 張 跌
-     whching      買了   1 張 滑
-     DrowningPool 買了  10 張 漲
-恭喜 Tsucomi69    買了  10 張 起, 獲得  3900 Ptt幣
-恭喜 aqdstr       買了   3 張 起, 獲得  1170 Ptt幣
-     ilovemus     買了   1 張 漲
-恭喜 ForeverFun   買了  20 張 起, 獲得  7800 Ptt幣
-     ryver        買了   5 張 漲
-恭喜 ryver        買了   5 張 起, 獲得  1950 Ptt幣
-     SDNS         買了  10 張 跌
-     qq3092       買了   1 張 漲
-     cklsn2       買了   1 張 漲
-     wuandyboy    買了   1 張 漲
-     maresc       買了   2 張 滑
-恭喜 DCC1609      買了   2 張 起, 獲得   780 Ptt幣
-     DCC1609      買了   3 張 滑
-恭喜 a1013707     買了   1 張 起, 獲得   390 Ptt幣
-     a1013707     買了   1 張 滑
-恭喜 sam2255      買了   3 張 起, 獲得  1170 Ptt幣
-     sam2255      買了   1 張 滑
-恭喜 d1234567763  買了   1 張 起, 獲得   390 Ptt幣
-     a90310609    買了  13 張 處變不驚
-     maskgin      買了  20 張 跌
-恭喜 iampeter     買了   5 張 起, 獲得  1950 Ptt幣
-     firstlast    買了   1 張 漲
-     DCC1609      買了   1 張 漲
-     rubyeye      買了   1 張 漲
-     samakon5566  買了  10 張 漲
-恭喜 samakon5566  買了  10 張 起, 獲得  3900 Ptt幣
-     ROADRASH     買了   2 張 跌
-     redost       買了   1 張 大大大漲
-     redost       買了   1 張 大大大跌
-     redost       買了   1 張 處變不驚
-     redost       買了   2 張 跌
-恭喜 misszyx      買了   1 張 起, 獲得   390 Ptt幣
-     Fly530       買了   1 張 跌
-     zoo4220123   買了   3 張 漲
-     phyres       買了   1 張 大大大漲
-     phyres       買了   1 張 大大大跌
-     phyres       買了   2 張 處變不驚
-恭喜 sniper777    買了   7 張 起, 獲得  2730 Ptt幣
-     sola01078272 買了   1 張 滑
-     LimboWings   買了   1 張 滑
-恭喜 MiniShy      買了   1 張 起, 獲得   390 Ptt幣
-     newknight913 買了   5 張 跌
-恭喜 star110tw    買了   1 張 起, 獲得   390 Ptt幣
-     harrybbs     買了   1 張 滑
-     loveenvy     買了  49 張 跌
-     harrybbs     買了   1 張 滑
-     ROADRASH     買了   1 張 大大大跌
-     ROADRASH     買了   1 張 大大大漲
-     ROADRASH     買了   1 張 跌
-恭喜 ROADRASH     買了   1 張 起, 獲得   390 Ptt幣
-恭喜 whlinton297  買了  50 張 起, 獲得 19500 Ptt幣
-     whlinton297  買了  50 張 滑
-     whlinton297  買了   1 張 跌
-     zasx159632   買了   2 張 跌
-恭喜 zasx159632   買了   1 張 起, 獲得   390 Ptt幣
-恭喜 idfsl3452    買了   5 張 起, 獲得  1950 Ptt幣
-恭喜 killandy     買了   1 張 起, 獲得   390 Ptt幣
-恭喜 gnech73579   買了  10 張 起, 獲得  3900 Ptt幣
-     vinca        買了   1 張 跌
-     azumi        買了   1 張 漲
-     vinca        買了   1 張 滑
+     chalon       買了   5 張 上上下下
+     konkonkonkon 買了   1 張 不給下車
+     konkonkonkon 買了   1 張 上上下下
+     almanch      買了   1 張 留在車上
+     zxcv75320    買了  80 張 還沒上車
+     MaMaLarLei   買了   1 張 上上下下
+     newsy        買了   1 張 還沒上車
+     angelicwing  買了  10 張 留在車上
+     newsy        買了   1 張 還沒上車
+     hicoka       買了   3 張 留在車上
+     SBIt         買了   3 張 上上下下
+     fishead1116  買了  10 張 上上下下
+     pan0919      買了   1 張 留在車上
+     marinechen   買了  11 張 上上下下
+     allfate      買了   1 張 還沒上車
+     EHacker      買了   5 張 上上下下
+     s8911124     買了   1 張 上上下下
+     e8151848     買了   5 張 想下車了
+     JOKIC        買了   5 張 上上下下
+     JOKIC        買了   5 張 想下車了
+     kadasaki     買了 249 張 留在車上
+恭喜 mawan168     買了   1 張 臨時停車, 獲得  1050 Ptt幣
+     abc0922001   買了   5 張 留在車上
+恭喜 abc0922001   買了   5 張 臨時停車, 獲得  5250 Ptt幣
+     hwChang      買了  10 張 想下車了
+恭喜 hwChang      買了   5 張 臨時停車, 獲得  5250 Ptt幣
+     a0913        買了   1 張 上上下下
+恭喜 TIouChen     買了   8 張 臨時停車, 獲得  8400 Ptt幣
+     devidevi     買了  10 張 上上下下
+     q8977452     買了   5 張 上上下下
+     cloudmax     買了   1 張 留在車上
+     CavendishJr  買了   1 張 留在車上
+     CavendishJr  買了   1 張 想下車了
+恭喜 CavendishJr  買了   1 張 臨時停車, 獲得  1050 Ptt幣
+     CavendishJr  買了   1 張 上上下下
+     luchiya123   買了   1 張 還沒上車
+     atmcola      買了   2 張 上上下下
+     luts         買了   1 張 上上下下
+     dkmj         買了   2 張 想下車了
+     chienlin     買了  10 張 還沒上車
+     chienlin     買了  10 張 留在車上
+     chienlin     買了  10 張 上上下下
+     nzxc         買了  10 張 上上下下
+     foredoom     買了   1 張 留在車上
+     whyskymar    買了   1 張 留在車上
+     z88046       買了  13 張 上上下下
+     Fujiwjx      買了   1 張 上上下下
+     iorijkl      買了   5 張 想下車了
+     vinca        買了   1 張 上上下下
+     sai307       買了   4 張 留在車上
+     chinaeatshit 買了 100 張 上上下下
+     jatin        買了 200 張 想下車了
+恭喜 chinaeatshit 買了  50 張 臨時停車, 獲得 52500 Ptt幣
+     KGSox        買了   1 張 留在車上
+     MinJun5566   買了   1 張 留在車上
+     zse24        買了   2 張 不給下車
+     zse24        買了   2 張 想下車了
+     smallc7023   買了   3 張 上上下下
+     thinksilver  買了  10 張 還沒上車
+     willson2000  買了   1 張 上上下下
+     starfish2903 買了  10 張 上上下下
+     huangjeff    買了   3 張 留在車上
+     chinaeatshit 買了  20 張 還沒上車
+     kkman1210    買了   1 張 想下車了
+     shiii        買了  10 張 想下車了
+     kcg123       買了   1 張 留在車上
+     mizuzu       買了  10 張 留在車上
+恭喜 kcg123       買了   1 張 臨時停車, 獲得  1050 Ptt幣
+     chaunen      買了   1 張 上上下下
+     brucesam     買了   1 張 還沒上車
+     brucesam     買了   1 張 還沒上車
+     onlypost     買了   3 張 上上下下
+     onlypost     買了   2 張 還沒上車
+     chaunen      買了   1 張 還沒上車
+     oneofakind94 買了   1 張 上上下下
+     victorrotciv 買了   5 張 上上下下
+     ricky7928    買了   5 張 上上下下
+恭喜 PresidentM   買了   7 張 臨時停車, 獲得  7350 Ptt幣
+     PresidentM   買了  10 張 留在車上
+恭喜 Alzert       買了   4 張 臨時停車, 獲得  4200 Ptt幣
+     sfrhl569     買了   1 張 留在車上
+     cp298588     買了   9 張 上上下下
+     cp298588     買了  10 張 上上下下
+     ax971837     買了   1 張 留在車上
+     cp298588     買了  10 張 上上下下
+恭喜 gjun         買了 100 張 臨時停車, 獲得 105000 Ptt幣
+     Lyrisbee     買了  10 張 上上下下
+     jerry125     買了   1 張 上上下下
+     ting383639   買了   1 張 留在車上
+     balanokia    買了   3 張 留在車上
+     rexyoung     買了   2 張 留在車上
+     iamrichman   買了   1 張 留在車上
+恭喜 lineage8027  買了  10 張 臨時停車, 獲得 10500 Ptt幣
+     lineage8027  買了  10 張 想下車了
+     lineage8027  買了  20 張 留在車上
+     starfirerex  買了   5 張 上上下下
+恭喜 SaxonLo      買了  11 張 臨時停車, 獲得 11550 Ptt幣
+     windblood    買了   2 張 上上下下
+     brucebooken  買了 100 張 留在車上
+     kyoe         買了  10 張 上上下下
+     holalalee    買了   1 張 不給下車
+     lazyboy571   買了   5 張 還沒上車
+     jand         買了   1 張 還沒上車
+     zz90183      買了   1 張 留在車上
+     swanc        買了   1 張 不給下車
+     swanc        買了   1 張 上上下下
+     hpfan        買了   1 張 留在車上
+     Huangyujia   買了   1 張 不給下車
+     chiastsai    買了   1 張 上上下下
+     RobertElvis  買了   1 張 還沒上車
+     ni78018nj    買了  10 張 留在車上
+恭喜 redcloud     買了  10 張 臨時停車, 獲得 10500 Ptt幣
+     zerro7       買了   1 張 想下車了
+     illya65536   買了   1 張 想下車了
+     jimmy2709    買了   5 張 上上下下
+     sky777       買了 100 張 留在車上
+     icexfox      買了   1 張 還沒上車
+     freedls      買了   1 張 還沒上車
+     tremblestar  買了   1 張 上上下下
+     qaz2266412   買了  12 張 還沒上車
+     zxc34        買了   2 張 留在車上
+     ax710755     買了   1 張 不給下車
+     ax710755     買了   1 張 上上下下
+     jason61105   買了   3 張 不給下車
+     jason61105   買了   2 張 留在車上
+     littledan    買了 499 張 還沒上車
+恭喜 coretronic   買了  10 張 臨時停車, 獲得 10500 Ptt幣
+     Mellrince    買了  10 張 想下車了
+恭喜 xne555       買了   1 張 臨時停車, 獲得  1050 Ptt幣
+     smallblack   買了   1 張 留在車上
+     color926     買了   2 張 還沒上車
+     color926     買了   1 張 上上下下
+     color926     買了   2 張 留在車上
+     ab4daa       買了   5 張 留在車上
+     pomelo168168 買了  10 張 還沒上車
+     MaMaLarLei   買了   3 張 上上下下
+     ludim        買了   5 張 留在車上
+     ludim        買了   2 張 上上下下
+     xasuev       買了   1 張 上上下下
+     laechan      買了 100 張 上上下下
+     laihaha      買了   5 張 上上下下
+     a281393      買了   1 張 還沒上車
+     chchfang     買了   1 張 留在車上
+恭喜 cwt1170980   買了   5 張 臨時停車, 獲得  5250 Ptt幣
+     hungyas      買了   1 張 上上下下
+     SamPotato    買了  20 張 想下車了
+     SamPotato    買了  20 張 想下車了
+     SamPotato    買了  40 張 留在車上
+     Rr111        買了   2 張 留在車上
+     KKOK         買了  50 張 留在車上
+     dadaway      買了   2 張 留在車上
+     KKOK         買了  50 張 還沒上車
+     kevinboss    買了   1 張 還沒上車
+     king405      買了   2 張 想下車了
+恭喜 llzz0101     買了   1 張 臨時停車, 獲得  1050 Ptt幣
+     RegOwl       買了   2 張 還沒上車
+     RegOwl       買了   2 張 留在車上
+恭喜 RegOwl       買了   2 張 臨時停車, 獲得  2100 Ptt幣
+     RegOwl       買了   2 張 上上下下
+     jim017       買了   8 張 想下車了
+     QQQPing175   買了   1 張 還沒上車
+     ms841288641  買了   1 張 還沒上車
+     chengho      買了   1 張 還沒上車
+     boycott      買了  20 張 不給下車
+恭喜 boycott      買了  20 張 臨時停車, 獲得 21000 Ptt幣
+     boycott      買了  10 張 想下車了
+     boycott      買了   6 張 上上下下
+     keroro82811  買了   3 張 還沒上車
+     halcyonsings 買了   5 張 上上下下
+     QooIN        買了   2 張 上上下下
+     gil82922     買了  50 張 上上下下
+     DK3001       買了   1 張 上上下下
+     ERP2         買了  10 張 上上下下
+     diefish      買了   1 張 不給下車
+     diefish      買了   1 張 想下車了
+     Nandesga     買了   5 張 上上下下
+     Nandesga     買了   3 張 上上下下
+     ptrpan       買了   1 張 還沒上車
+     goodjop      買了   1 張 留在車上
+     a1235792002  買了   1 張 還沒上車
+     DrowningPool 買了  10 張 留在車上
+     inhumanq     買了   1 張 想下車了
+恭喜 inhumanq     買了   1 張 臨時停車, 獲得  1050 Ptt幣
+     inhumanq     買了   1 張 上上下下
+     KID0924      買了 111 張 上上下下
+     Jasper0924   買了 200 張 上上下下
+     NelsonWong   買了   1 張 想下車了
+恭喜 NelsonWong   買了   1 張 臨時停車, 獲得  1050 Ptt幣
+     awspo135     買了   3 張 不給下車
+     rayccccc     買了  10 張 想下車了
+     ronkil       買了   3 張 想下車了
+     rayccccc     買了   1 張 上上下下
+     waterandfish 買了 300 張 上上下下
+恭喜 boycott      買了  20 張 臨時停車, 獲得 21000 Ptt幣
+     boycott      買了   5 張 想下車了
+     boycott      買了   5 張 上上下下
+     boycott      買了  16 張 不給下車
+恭喜 boycott      買了  10 張 臨時停車, 獲得 10500 Ptt幣
+     boycott      買了   2 張 想下車了
+     boycott      買了   2 張 上上下下
+     boycott      買了   1 張 上上下下
+恭喜 boycott      買了   5 張 臨時停車, 獲得  5250 Ptt幣
 
-→ laptic      : 只起了零點零九... 12/26 13:40
+推 joeboy      : 撒小 07/28 13:34
 
-推 croztt      : little大又賺爛了 12/26 13:45
+推 addy7533967 : 100猛爆惹 07/28 13:34
 
-推 jemc1905    : 這樣也能中獎 12/26 13:49
+推 EHacker     : 羨慕賺爛 07/28 13:35
 
-推 DDDDRR      : 我這也能猜錯 12/26 14:04
+推 MinJun5566  : 羨慕賺爛 07/28 13:35
 
-推 sola01078272: 乾 賺翻 12/26 14:05
+推 hold5566    : 這倍率很AI 07/28 13:35
 
-→ distantblc  : 中獎 但是持股跌== 12/26 14:05
+推 Sessyoin    : 好險沒買，嗚嗚嗚哇哇哇 07/28 13:35
 
-推 fakelie     : 賺錢辣 嘿嘿嘿https://i.imgur.com/LDWGyFw.jpg 12/26 14:06
+推 zxcv75320   : 乾，我的p幣獻祭了，好險救回小英 07/28 13:36
 
-推 musi        : 風吹雞蛋殼，財去人安樂~~ 12/26 14:11
+推 chinaeatshit: 賺p幣也賺台幣  爽爽的 07/28 13:36
 
-推 chinaeatshit: 賠P幣  賺台幣 12/26 14:44
+推 laechan     : 今天賺台幣賠P幣 07/28 13:38
 
-→ fenix220    :  https://i.imgur.com/4uucuK6.jpg 12/26 15:09
+→ chalon      : 當沖仔沒用啦 25萬張都沖不出來 07/28 13:38
 
-→ LimboWings  : 台幣P幣雙賠…QQ 12/26 17:01
+→ QooIN       : ：（ 07/28 13:39
 
-推 lc85301     : 海嘯QQ 12/26 17:32
+推 iamsofa     : 還好沒押 沒有半點大場面 07/28 13:40
+
+→ KAMTER      : 出乎意料... 07/28 13:40
+
+推 reyes2222   : 如果跌停，是不是要開2和4？ 07/28 13:41
+
+推 house911    : 開五 通殺 07/28 13:41
+
+推 cwt1170980  : 定存 07/28 13:44
+
+推 eric02      : 700多張賭漲停？ 07/28 13:45
+
+→ q8977452    : 如果平盤，不知道會怎開 07/28 13:46
+
+推 KID0924     : 100張太猛拉 07/28 13:46
+
+推 Tadnone     : 關禁閉前的量都不到 繼續噴噴 07/28 13:46
+
+→ q8977452    : 不對，平盤好像有在5選項裡的區間... 07/28 13:48
+
+推 ltflame     : 永遠玩不過主力的 07/28 13:56
+
+推 Severine    : 可惡 沒買到 = = 07/28 13:59
+
+推 kcg123      : 撿到1050 超爽der 07/28 14:05
+
+推 xne555      : 爽～多賺950，現實當沖又賺545元 07/28 14:19
+
+推 abc0922001  : 貪財貪財 07/28 14:28
+
+→ abc0922001  : 昨天晚上看到NVDA漲那麼多，嚇死 07/28 14:29
+
+推 allfate     : 150股一個禮拜小賺一張小朋友，謝謝大家 07/28 14:32
+
+推 TIouChen    : 舒服，又有錢可以賭了 07/28 17:57

@@ -1,0 +1,103 @@
+作者Severine (賽非茵)看板Stock標題[標的] SMCI.US 財報時間Wed May  3 22:21:33 2023
+1. 標的：SMCI.US
+
+2. 分類：討論
+
+3. 分析/正文：
+
+Super Micro Computer (SMCI) late Tuesday missed Wall Street's lowered targets
+for its fiscal third quarter but guided much higher than views for the
+current period. SMCI stock surged in extended trading.
+
+超級微型計算機（SMCI）週二晚些時候未能達到華爾街第三財季的下調目標，但指引遠高
+於當前時期的預期。SMCI股票在延長交易中飆升。
+
+The San Jose, Calif.-based company, better known as Supermicro, earned an
+adjusted $1.63 a share on sales of $1.28 billion in the quarter ended March
+31. Analysts polled by FactSet had expected earnings of $1.71 a share on
+sales of $1.39 billion. On a year-over-year basis, Supermicro earnings rose
+5% while sales fell 5%.
+
+這家總部位於加利福尼亞州聖約瑟的公司，更廣為人知的名字是 Supermicro，
+在截至 3 月 31 日的季度銷售額為 12.8 億美元，調整後的每股收益為 1.63 美元。
+FactSet調查的分析師預計每股收益為1.71美元，銷售額為13.9億美元。與去年同期相比，Supermicro
+的收益增長了5%，而銷售額下降了5%。
+
+On April 24, Supermicro warned that its fiscal third-quarter revenue would
+fall well short of expectations. Supermicro slashed its sales goal to about
+$1.28 billion from its earlier forecast of $1.47 billion. The company blamed
+the shortfall primarily on component shortages impacting its next-generation
+server products.
+
+4月24日，美超微警告稱，其第三財季營收將遠低於預期。美超微將其銷售目標從此前預
+測的14.7億美元下調至約12.8億美元。該公司將短缺主要歸咎於影響其下一代伺服器產品
+的元件短缺。
+
+However, for the current quarter, Supermicro predicted adjusted earnings of
+$2.46 a share on sales of $1.8 billion. That's based on the midpoint of its
+outlook. Wall Street had predicted earnings of $1.76 a share on sales of
+$1.64 billion in the fiscal fourth quarter ending June 30.
+
+然而，對於本季度，美超微預計調整後每股收益為2.46美元，銷售額為18億美元。這是基
+於其前景的中點。華爾街曾預測，截至6月30日的第四財季銷售額為16.4億美元，每股收
+益為1.76美元。
+
+推 rayccccc    : 美超微屌打超微 05/03 22:23
+
+推 dave070715  : 現階段就是會畫餅的反而漲，明明沒到財測。結果AMD 05/03 22:26
+
+→ dave070715  : 超越財測，對因為不會畫餅比較保守就跌    怎麼跟台 05/03 22:26
+
+→ dave070715  : 股越來越像 05/03 22:26
+
+噓 a000000000  : Smci 不是scmi 05/03 22:27
+
+→ Severine    : 抱歉XD 05/03 22:29
+
+推 jdn325      : 早晚回30 疫情這兩年膨風太多 05/03 22:43
+
+推 aegis43210  : 又一個吹AI，不過是真的有吃到甜頭 05/03 22:46
+
+推 taruru      : SMCI講AI 需求帶動它們DC業務反映在營收上,看好後市 05/03 22:47
+
+→ taruru      : AMD吹AI,實績在哪?沒變成營收直接被分析屍看沒 05/03 22:48
+
+→ Alwen       : AI晶片目前就老黃獨霸阿= =，做晶片的還真的不能吹 05/03 22:51
+
+推 puffycat    : 現在要玩AI就只能買NV，完整的生態系！買AMD跟其他 05/03 23:12
+
+→ puffycat    : 廠家，在GitHub沒幾個專案，全部要自己重練！聰明 05/03 23:12
+
+→ puffycat    : 的就知道要買NV！ 05/03 23:12
+
+推 MIT5566     : 沒看到緯穎做個代工賺成怎樣 要吹 有營收就可以 05/03 23:13
+
+→ k85564      : 重點是24財年管理層預估營收成長20%+ 算一算eps至 05/03 23:22
+
+→ k85564      : 少12元 05/03 23:22
+
+→ k85564      : 看pe要給多少囉 05/03 23:22
+
+推 windchimeqq : 教主氣炸了，說AMD盤後大跌是假的，結果開盤後崩更 05/03 23:25
+
+→ windchimeqq : 兇，可見教主對股票實在很不準XD 05/03 23:25
+
+→ taruru      : 財報出來就是看數字,SMCI不如預期EPS還是1.6.PE10.x 05/03 23:29
+
+→ taruru      : AMD EPS調整後還是負的,喊多久了整年EPS>4都沒有 05/03 23:30
+
+→ taruru      : 就算讓你調整前EPS都漂亮, 公司支出跟認列虧損多 05/03 23:31
+
+→ taruru      : 最後還是沒賺錢啊, 就是股東被一串操作瘋狂稀釋 05/03 23:31
+
+推 MIT5566     : Amd法說也很會吹啊 只是財報很難看而已 05/03 23:42
+
+→ Severine    : 比較誇張的是 美超微在這次的升息循環當中 完全不 05/03 23:46
+
+→ Severine    : 受影響 一直創高 05/03 23:46
+
+→ taruru      : 今天要一天漲30%了,反觀另一個超微 05/04 01:16
+
+推 jiajie      : 笑死，有人就是自己出嘴的比出錢的還行 05/04 01:32
+
+推 johnjohnlin : 這個超微比較強 05/04 11:15

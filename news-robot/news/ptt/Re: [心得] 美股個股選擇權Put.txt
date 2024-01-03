@@ -1,0 +1,167 @@
+作者chopinmozart (aha)看板Stock標題Re: [心得] 美股個股選擇權Put-Call Ratio整理網站時間Sun Oct  1 10:02:51 2023
+※ 引述《zmcx16 (zmcx16)》之銘言：
+: Blog完整文章:
+: https://blog.zmcx16.moe/2023/09/put-call-ratio-norn-stockscreener.html
+: 最近做了一個整理美股個股Put-Call Ratio (PCR)資料的網站, 來簡易評估市場是偏多還
+: 是偏空。 分別計算以下兩種PCR:
+: 1. Puts Open Interest / Calls Open Interest (未平倉量)
+: 2. Puts Volume / Calls Volume (成交量)
+: 至於這兩種PCR分別適用在什麼情境, 可以聽聽ChatGPT怎麼說XD
+: https://i.imgur.com/WZfTFgE.png
+: 個人覺得蠻有道理的, 未平倉合約量代表還沒行權, 所以還未行權的合約數作為到期前市
+: 場偏向看多/看空是蠻合理的; 而交易量只有當天有效, 所以只能反應短期的市場走向也
+: 合理。當然問歸問也不能全信(畢竟是生成式AI, 有時候會騙人XD), 還是要自行驗證才行
+: 。
+: 之後研究了下怎麼拿到PCR這個數據, 如果是大盤指數的話, 是有不少網站提供, 可是我
+: 基本上不買大盤只投資股票, 只看大盤指數PCR對我的幫助也不大, 之後想了想沒轍, 還
+: 是只能靠自己算了, 就決定寫個爬蟲上Yahoo財經抓所有個股的選擇權資料, 在自己計算
+: PCR, 做好的成果如下:
+: 做好的網頁如下:
+: https://norn-stockscreener.zmcx16.moe/options-pcr/
+: Github:
+: https://github.com/zmcx16/Norn-StockScreener
+: https://i.imgur.com/th0joQf.png
+: 資料範圍是抓未來一年的所有合約的選擇權未平倉&成交量, 除了上面提到的PCR (OI) &
+: PCR (Vol) 以及所有未平倉&成交量以外, 我特別想知道歷史的變化, 可是YAHOO財經能抓
+: 到的只有當下的資料, 所以我沒辦法去比較今天的PCR跟過去的PCR的變化程度, 為了解決
+: 這個問題, 就決定開始每天抓新的PCR資料前就把舊的備份下來, 靠著每天的data
+: snapshot, 我就有辦法漸漸累積自己的資料庫, 也就能計算過去PCR的變化了。
+: 目前表格上的PCR變化有week & month, 不過其實我資料目前只累積了一個多禮拜, 所以
+: 那個month還是不準的, 要再等三個禮拜才是真的month data XD
+: 這個變化主要是 (Latest PCR - N days ago PCR) / (N days ago PCR), 所以數值最高
+: 可能幾百幾千% (代表PCR爆增, 偏空指數大幅上升), 最低則是-100% (代表最新的PCR =
+: 0, 與其說偏多指數大幅增加, 不如說根本Put沒量了, 一般應該是成交量低的小型股比較
+: 有可能)。
+: 在來開始找幾檔個股看看資料吧, 首先如果我們想挑成交量大的公司的話, 可以挑Calls
+: OI排序, 這樣就會依Call未平倉量大小來排序, 可以看到Tslas是第一名(不愧是人氣公司
+: ), 而我想關注的只有PCR差異過大的個股, 目前網站是設定成小於0.7為綠色, 大於1.0為
+: 紅色, 0.7 - 1.0則為黑色, 用顏色簡單辨識多空, 因為PCR有OI也有Vol算法, 所以我只
+: 想看兩個都是小於0.7的個股, 先看前三個有INTC, BABA, PLTR。
+: https://i.imgur.com/OTMGDbu.png
+: https://i.imgur.com/1W95sFF.png
+: https://i.imgur.com/H3sVK3j.png
+: 看起來目前INTC & PLTR成多頭走勢, BABA則是看起來像在盤整。
+: 再來看看PCR OI & Vol都是大於1.0的, 有NVDA, VALE, PBR:
+: https://i.imgur.com/j4l9X19.png
+: https://i.imgur.com/oI0pJtu.png
+: https://i.imgur.com/VcaN95a.png
+: NVDA因為AI題材大漲後現在像盤整階段, VALE則是目前處在相對低檔盤整, PBR則是持續
+: 上漲中, 看起來押注大漲後回檔 & 持續看空下跌的都有, 可是這三檔PCR OI只介於
+: 1.0~1.2不是很顯著, 在看一檔PCR OI極高的AAL (2.7):
+: https://i.imgur.com/0xyKsK1.png
+: 看起來最近下跌得超厲害, 從PCR OI極高的比率看起來蠻合理的, 而且因為是未平倉量,
+: 代表即使是目前跌成這樣, 還是有不少人持續看空AAL。
+: 最後在分享圖表的功能, 因為我有針對每個交易日做snapshot備份資料, 所以也可以畫歷
+: 史線圖, 以AAPL為例:
+: https://i.imgur.com/sPUJ9Zh.png
+: 因為目前資料只有一個多禮拜, 所以參考價值不大, 等未來資料豐富以後應該能作為更進
+: 一步的投資分析用。
+: 這次分享就差不多到這邊, 其實我對PCR這指標還不是很有想法, 還沒有想到一個系統化
+: 使用這個指標的方式, 這部分就慢慢學習慢慢研究了, 共勉之!
+是這樣
+
+做出這個app相當優秀
+
+不少券商也有類似功能
+
+例如富途moomoo就可以根據option到期日和行權價來看put/call 以及交易量
+
+所謂股價反應的過去一段時間市場趨勢以及多空
+
+option 的交易也是反應已知的資訊以及多空
+
+加上孫子兵法云 實則虛之 虛則實之
+
+put的交易量增加可能是做市商抬價跟機構做避險
+
+call的交易量增加可能是現股的獲利賣出call
+
+就算內褲線的期權異動 也可能是故佈疑陣
+
+虛虛實實 實實虛虛
+
+
+
+退一步來看大盤的市場情緒指標 VIX
+
+其實VIX也未能實際作為預測市場的一個指標
+
+原PO 可以將VIX公式帶入個股做出每支個股的類VIX指數
+
+https://financestu.com/vix-formula/#1_Options_Used_in_the_Calculation
+
+
+
+
+總而言之
+
+option交易量也是代表已知和過去的市場情緒
+
+
+例如 5~6月份AI大浪潮來襲時
+
+很多AI概念股的call 交易量和價格都漲翻天
+
+但卻是也是泡沫
+
+
+例如UPST的call 價格權利金一度飆高到年化 20%
+
+但七月過後市場情緒衰退
+
+也在短時間內暴跌
+
+
+
+引用愛因斯坦曾經說過
+
+我從不思考未來 因為它來得夠快
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+以上非專業投資建議
+
+投資相關請諮詢專業投資老師
+
+
+推 chanel1259  : https://i.imgur.com/vKOz28t.jpeg 10/01 11:10
+
+推 herculus6502: 輪子 10/01 11:39
+
+推 ideo        : 選擇權本來就是玩短期的，手腳要快 10/01 11:46
+
+推 Severine    : 長期買leaps call很穩啊 前提是正常標的 10/01 12:24
+
+推 lee255215   : 推一下op代表的是情緒~ 10/01 17:14
+
+推 n1canhelpu  : PCR的效果一般般 可以看iv 比較有用 10/02 20:44
+
+→ n1canhelpu  : 買深度價內的Call 其實可以取代正股 但多數人都當賭 10/02 20:44
+
+→ n1canhelpu  : 博在玩 10/02 20:44
+
+推 Petrovsky   : 未來其實來的很慢 10/02 23:08

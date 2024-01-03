@@ -1,0 +1,30 @@
+作者JohnnyDell (強尼戴爾)看板Stock標題[請益] 康和全都賺軟體的公告頁面時間Mon May 29 17:40:48 2023
+請問有大大也是Win7的作業系統
+然後 康和全都賺 的公告無法顯示的嘛?
+在登入界面底下的公告訊息
+https://i.imgur.com/vYup98i.jpg
+
+我一台可以的電腦IE是v11.0.19
+不行的那台反而是更新的v11.0.20
+那個公告頁面的網址是
+https://stock.concords.com.tw/event/GPMBulletin/GPMBulletin.aspx
+用Chrome的話是可以開啟的
+用IE會連一陣子出現以下畫面(示例)
+https://www.savesafe.com.tw/images/HelpCenter/images/faq_4_01.jpg
+有到設定嘗試勾選SSL跟TLS全部
+或者不勾SSL類只勾TLS的 都不行
+有試過重設IE 但也沒有效果
+
+因為問題應該是出在OS的IE
+康和客服說要問精誠(開發商)
+精誠也只說要升級到Win10..
+
+謝謝
+
+→ b9513227    : 金融業ie現在87趴都不支援了 05/29 17:51
+
+→ ching0303   : IE, Win7都EOS啦 建議還是升級吧 05/29 18:42
+
+推 clusis      : 換一家 05/29 18:44
+
+→ m13579      : I現在還用ie是不怕漏洞啊... 05/29 19:18

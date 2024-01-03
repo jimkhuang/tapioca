@@ -1,0 +1,208 @@
+作者phylen (hoho)看板Stock標題[標的] AMD.US,微軟將提供財務支援AI領域擴張時間Fri May  5 02:22:00 2023
+1. 標的：AMD.US      (例 2330.TW 台積電)
+
+2. 分類：討論
+
+3. 分析/正文：
+
+消息來源：bloomberg
+https://www.bloomberg.com/news/articles/2023-05-04/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips#xj4y7vzkg
+
+短網址：
+https://bloom.bg/3LY1NnE
+
+Bloomberg標題是
+Microsoft Is Helping Finance AMD’s Expansion Into AI Chips ,
+
+副標題是
+Software maker will help boost AMD’s supply of in-demand parts
+Microsoft also working with AMD on homegrown AI processor
+
+twitter轉貼的內文來源:
+https://twitter.com/ResearchQf/status/1654175017892970526?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1654175017892970526%7Ctwgr%5Ea33866cd31136d378d8374e71ef9cf1faffedeab%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.redditmedia.com%2Fmediaembed%2F137ulzc%3Fresponsive%3Dtrueis_nightmode%3Dfalse
+
+短網址：
+https://bit.ly/3LwsEFP
+https://imgur.com/blUUAux
+https://imgur.com/17BfmNh
+https://imgur.com/PS0lY9y
+
+微軟將提供財務上的支援協助AMD拓展AI晶片領域
+
+Microsoft also working with AMD on homegrown AI processor
+指的是之前傳聞的Athena
+Rani Borkar的團隊(將近1000人)原本就有在弄server跟surface,
+有投入幾百人開發Athena, AMD也將會協助.
+
+4. 進退場機制：(非長期投資者，必須有停損機制。討論、心得類免填)
+
+
+推 kai931      : 謝謝微軟爸爸 05/05 02:23
+
+推 pmes9866    : 難怪中間又噴上去 05/05 02:23
+
+推 aegis43210  : 微軟根本在養整個RTG團隊了，這也太爽了 05/05 02:29
+
+→ a1237759    : AMD的財力有需要微軟支援？ 05/05 02:30
+
+→ Severine    : 華爾街真會玩 05/05 02:31
+
+→ phylen      : 樓上可以看一下微軟跟AMD市值 05/05 02:32
+
+推 yesheyman   : 應該說AMD真會藏吧 這合作案又不是今天才開始 05/05 02:33
+
+推 aegis43210  : 不過這應該只是備案，畢竟H100賣到40000美元實在誇 05/05 02:34
+
+→ aegis43210  : 張 05/05 02:34
+
+→ aegis43210  : RTG自己的CDNA架構和ROCm也要夠爭氣 05/05 02:37
+
+推 TeslaBot    : 5/19 88call買太少了 難過啊 05/05 02:38
+
+→ aegis43210  : 也不是說蘇嬤沒財力，而是蘇嬤重心是在CPU和FPGA，R 05/05 02:40
+
+→ aegis43210  : TG比較邊緣化 05/05 02:40
+
+→ a79111010   : 軟軟站隊蘇媽？ 05/05 02:42
+
+→ a000000000  : 估狗tpu找不囉康   M軟找蘇媽有啥好奇怪der 05/05 02:42
+
+→ a000000000  : 我4覺得很多人在講蘇媽ai落後的時候都把xilinx忘惹 05/05 02:43
+
+→ a000000000  : 軍用fpga ai基本上xilinx獨霸惹 05/05 02:44
+
+→ a000000000  : 而且是28nm fpga 05/05 02:44
+
+→ WYchuang    : 已經不是第一次合作了 合作愉快就越玩越大了 05/05 02:45
+
+→ WYchuang    : 軟體什麼的 微軟要真的想做自己弄一套也不是不可能 05/05 02:46
+
+→ uv5566      : 兩邊陣營 下好離手 05/05 02:48
+
+噓 a000000000  : 現在的時間點沒人會重頭手刻  頂多就多重策略並行 05/05 02:49
+
+推 aegis43210  : 微軟沒有站隊，老黃的運算卡比較好的話，一樣會優先 05/05 02:50
+
+→ aegis43210  : 買老黃，除非太貴 05/05 02:50
+
+噓 a000000000  : 老黃卡的margin >75%  同樣的東西蘇媽50%就半價惹 05/05 02:53
+
+推 waitrop     : AMD 擺明昨天故意不說在釣魚，誘空之後再來殺爆空 05/05 03:03
+
+→ waitrop     : 軍 05/05 03:03
+
+→ waitrop     : 也很可能AMD 早就知道市場禿鷹正在狙擊AMD,故意財 05/05 03:04
+
+→ waitrop     : 報不說誘空 05/05 03:04
+
+推 waitrop     : 不然光憑昨天財報好於預期，沒有理由大跌8-9%，明 05/05 03:07
+
+→ waitrop     : 顯是禿鷹狙擊 05/05 03:07
+
+噓 a000000000  : 這種東西本來就不是蘇媽能講的 05/05 03:08
+
+→ a000000000  : 要也是M軟同意才能公開  M軟公開不就跟老黃撕破臉 05/05 03:08
+
+→ a000000000  : 昨天單純就Q2預估比分析師平均預期低 05/05 03:09
+
+→ a000000000  : 蘇媽現況比較像2019跟2021  說下半年爆發很多人不信 05/05 03:10
+
+→ a000000000  : 2019下半年是GF14鬼轉GG7  2021是milan ramp 05/05 03:11
+
+→ a000000000  : 2023下半年就genoa跟bergamo ramp 05/05 03:11
+
+→ a000000000  : 現在把蘇媽跟AI掛起來  反正財報也不會講到底是x86 05/05 03:12
+
+→ a000000000  : 還是ai   看到營收噴  到時候就 05/05 03:12
+
+推 waitrop     : m早就同意了，不然差一天而已流程不可能一天跑完， 05/05 03:13
+
+→ waitrop     : 就是故意昨天不說 05/05 03:13
+
+→ a000000000  : M在東西粗乃玩之前不會講明 05/05 03:13
+
+→ a000000000  : 講明  我老黃還不弄死尼 05/05 03:14
+
+→ a000000000  : 堂堂老黃給尼M軟看沒有484 05/05 03:15
+
+推 yesheyman   : amd跟ms都不會說的啦 AMD現在優勢就是整套solution 05/05 03:20
+
+→ yesheyman   : CPU/GPU/APU/FPGA/DPU都有 除了FPGA其他都不是top 05/05 03:21
+
+→ yesheyman   : amd就是賣cp值高 也不會傻到去跟nv對幹因為沒那價值 05/05 03:21
+
+推 andylu1207  : 會不會哪天微軟轉頭跟NV合作 AMD就軟掉了 05/05 03:28
+
+→ SILee       : CDNA跟M$合作很久了。 05/05 03:35
+
+→ SILee       : mi系列基本上就是靠M$養起來的 05/05 03:36
+
+噓 a000000000  : 還有hpc的案子 05/05 03:37
+
+→ SILee       : 應該說是M$和national lab一起養起來的 05/05 03:38
+
+→ WYchuang    : 2023應該還有mi3 .. 05/05 03:50
+
+推 pmes9866    : 哭 昨天跌10%的時候停損了20%的部位 05/05 03:50
+
+推 fake        : 希望ai多拉一下伺服器動能 05/05 03:51
+
+→ SILee       : mi3x也delay好幾年了… 05/05 03:53
+
+推 ptta        : 老黃的晶片貴到天怒人怨 05/05 06:20
+
+噓 a000000000  : h100價錢可以買一台中階車惹 05/05 06:37
+
+推 wade00123   : 老黃賣太貴 05/05 06:54
+
+推 bagaalo     : AMD起伏大真要抱住不容易啊 05/05 06:54
+
+推 JackChung   : 幹好忙 05/05 07:07
+
+→ Ilou        : 懂玩 05/05 07:18
+
+推 gn00670191  : 蘇媽也轉職炒股好手啦 05/05 07:44
+
+推 a2935373    : 說CPU的XD 05/05 07:52
+
+→ kissme030   : 92求解套QQ 05/05 08:03
+
+推 s56565566123: 噴噴 05/05 08:14
+
+推 a1379       : 謝謝微軟把拔 05/05 08:23
+
+→ dslite      : 這要開始有營收也是好幾年以後 05/05 08:33
+
+推 puffycat    : H100價錢只能在台灣買Yaris 05/05 08:45
+
+推 moike22     : 真的要叫微軟把拔了 05/05 09:01
+
+推 fr06075246  : Xilinx也有在弄車用吧？ 05/05 09:54
+
+推 strlen      : 這不就軟軟要跟NVDA談判籌碼 05/05 10:23
+
+推 Chilloutt   : 合作的內容是noc 還是 fpga ? 有人知道嗎？ 05/05 10:51
+
+推 sonnyc      : 微軟也懂喊AMD yes逼NV降價? 05/05 10:55
+
+→ strlen      : https://news.cnyes.com/news/id/5164432 05/05 12:56
+
+→ strlen      : 話說木頭姐是不是有內褲線？這不用查嗎？美國檢調是 05/05 12:56
+
+→ strlen      : 幹什麼吃的？ 05/05 12:56
+
+→ dslite      : 華爾街就是這樣玩的 大驚小怪 05/05 13:00
+
+推 thbygn98    : 木頭還能有個屁內線，她如果真有會虧成這樣喔 05/05 14:07
+
+→ thbygn98    : 全市場有幾個比arkk慘的，tqqq都沒她慘 05/05 14:09
+
+噓 jerrychuang : 25000股?搞屁，教主都是她的好幾倍了 05/05 16:04
+
+→ jerrychuang : 噓木頭姊 05/05 16:04
+
+推 MAVERICKHSU : 懶趴捏緊 找買點 05/05 16:39
+
+→ ymlin0331   : 微軟說沒有欸，該怎麼辦？ 05/08 14:38
+
+→ bagaalo     : 95啦 這股性真的謎 05/09 07:10

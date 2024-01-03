@@ -1,0 +1,67 @@
+作者daze (一期一會)看板Stock標題Re: [請益] ETF為什麼會超越基金變成顯學時間Sun Sep 24 11:27:04 2023
+對美國人來說
+ETF比起傳統基金還有一個很大的好處。「節稅」。
+
+傳統基金，當有人贖回時，就要賣股支應
+或者調整持股時也會發生交易
+交易產生的 Capital Gain 依法必須每年分配給投資人
+而美國人收到當年度的 Captial Gain 就會被課稅
+也就是說，即使你自己沒有做贖回，也要因為別人贖回而被課稅
+
+ETF 透過 In kind creation/redemption
+可以把 Cost Basis 低的股票置換給 Authorized Participant
+營運過程幾乎不會產生 Capital Gain
+只有當投資人自己想賣掉的時候，才會產生 Capital Gain
+
+相較於傳統基金
+ETF 投資人可以遞延課稅到幾十年後
+如果持有到發生繼承為止
+還可以 Step-up in Cost Basis
+完全逃過這幾十年間的資本利得稅
+
+===
+話說2021年時
+參議員Ron Wyden曾提議要廢掉 Section. 852(b)(6)
+也就是 In kind redemption 豁免課稅的部分
+但 SEC 跟 IRS 都表示反對，其議遂寢
+
+SEC 的主要反對理由是這會廢掉 ETF 的 arbitrage 機制
+讓 ETF 的價格偏離 NAV
+
+推 boombastick : 但是ETF在做個股汰換時，基金公司就要繳資本利得稅 09/24 11:33
+
+→ boombastick : 了不是嗎？這個會從淨值中扣除，投資人還是承擔了 09/24 11:33
+
+→ boombastick : 這個成本只是不是沒有直接從投資人口袋中掏錢而已 09/24 11:33
+
+→ vincent1700 : 樓上，汰換的感覺常常都是虧錢的股票 09/24 11:43
+
+→ vincent1700 : 其他部分原Po講的沒錯，ETF這方面的優勢一般人不會 09/24 11:45
+
+→ vincent1700 : 注意到 09/24 11:45
+
+推 stlinman    : 台灣也有阿! 不過是當沖證交稅減半。 09/24 11:49
+
+→ abccbaandy  : 這就跟正2股利不用繳稅一樣吧？ 台灣股利剝太多皮了 09/24 11:50
+
+→ cityport    : Roth買基金不會產生資本利得稅 09/24 11:50
+
+→ abccbaandy  : 之前有人提議8.5%要提高也被否決XD 09/24 11:50
+
+→ cityport    : ETF有short term tax 09/24 11:51
+
+→ peter98     : 一堆美國議員真的太閒  它們怎麼不捐薪水去幫助那些 09/24 12:02
+
+→ peter98     : 它們支持的移民  顆顆  老是愛砍中產的tax benefit 09/24 12:02
+
+→ peter98     : 三天兩頭就想動retirement accounts 09/24 12:03
+
+→ cityport    : 拜登帶的頭，嫌中產階級401k不公不義，窮人不存401k 09/24 12:05
+
+→ cityport    : 都是中產階級的錯 09/24 12:05
+
+→ cityport    : 拜登一上任就想提案砍掉401k跟IRA 09/24 12:06
+
+→ a9564208    : 中產階級忙著上班，沒空出來抗議 09/24 12:23
+
+推 strlen      : http://i.imgur.com/L25CKmU.jpg 09/24 13:49

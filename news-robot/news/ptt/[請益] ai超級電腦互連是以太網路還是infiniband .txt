@@ -1,0 +1,72 @@
+作者ttucse ((((>(￣▽￣)<))))看板Stock標題[請益] ai超級電腦互連是以太網路還是infiniband時間Mon May 29 23:51:41 2023
+
+想請教一下大家
+用來訓練的ai超級電腦的互連是以太網ethernet
+還是低延遲的infiniband
+台灣有廠商在做infiniband的產品嗎？
+
+推 nfsong      : 老黃  自己做了  網通也不放過05/29 23:52
+
+→ nfsong      : 800g 光纖05/29 23:52
+
+→ gito180     : 起碼都光纖cable了05/29 23:53
+
+噓 a000000000  : 老黃有講infiniband比較好 05/29 23:55
+
+→ easyman     : 哪裡有高速光纖概念股?05/30 00:01
+
+推 asiguo      : 收購Mellanox當然是用Infiniband啊 05/30 00:02
+
+→ asiguo      : 但博通不服！05/30 00:03
+
+→ asiguo      : 畢竟是侵門踏戶來著 連serdes 都被Inphi 搶生意 05/30 00:04
+
+噓 a000000000  : ethernet scaling比較單純八05/30 00:06
+
+推 clubee      : 這幾天是不是股版最像學術論壇的時候 討論的話題有05/30 00:08
+
+→ clubee      : 夠健康 05/30 00:08
+
+噓 deepdish    : 老黃有影片你是不是沒看 05/30 00:16
+
+→ deepdish    : https://youtu.be/nKqfi3q4S5I 05/30 00:16
+
+→ deepdish    : NVIDIA Spectrum-X Platform | World’s first Ethe 05/30 00:16
+
+→ CGDGAD      : 你想哪個最主流就是那個了 05/30 00:18
+
+推 joygo       : 光纖吧，博通參考一下cpo未來翻倍股 05/30 00:25
+
+推 brabra      : 都沒股票代號，讓我著實震驚了一下！ 05/30 00:37
+
+推 xm3u4vmp6   : 你想的到的都噴上去了 4977 05/30 01:23
+
+→ xm3u4vmp6   : 要買就去美股買最強的 博通 05/30 01:25
+
+→ xm3u4vmp6   : 我是很喜歡nanoPu低延遲 05/30 01:25
+
+推 xm3u4vmp6   : Juniper是還沒噴出去 想知道大家想法 05/30 01:28
+
+推 darkangel119: 現在沒有Inphi囉 已經被Marvell併了 05/30 02:01
+
+推 aegis43210  : 都可以用，以太也有900G的規格，沒有比較差 05/30 06:47
+
+推 zaxer       : Infiniband辣，快那麼多 05/30 06:56
+
+推 aegis43210  : 看網路拓撲怎麼做呀，各個系統商都有自己的解決方法 05/30 07:01
+
+→ louis2323   : 49xx 05/30 08:16
+
+推 bagoh       : mellanox 是8147的客戶 05/30 08:22
+
+推 DB2         : 沒有一定 05/30 08:42
+
+推 chaulove    : 都可以 但在top 100裡面用infiniband 的比例是比較 05/30 11:32
+
+→ chaulove    : 高的 05/30 11:32
+
+→ heinzblack  : skynet 05/30 12:08
+
+推 luche       : 大腦互聯 05/30 14:41
+
+推 louis2323   : 華星光已賺爛預告了 07/31 00:06
