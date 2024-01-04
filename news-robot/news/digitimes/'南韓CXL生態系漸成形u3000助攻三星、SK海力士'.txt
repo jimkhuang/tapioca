@@ -1,0 +1,10 @@
+南韓CXL生態系漸成形u3000助攻三星、SK海力士
+2024-01-04
+隨著CXL（Compute Express Link）在人工智慧（AI）半導體興起下受到關注，不僅記憶體大廠SK海力士（SK Hynix）、三星電子（Samsung Electronics）競爭激烈，南韓半導體IP、零組件、設備業者等，也開始進軍CXL領域。
+根據韓媒Chosun Biz報導，南韓新一代PCIe、CXL接口控制器IP業者，及CXL模組、DRAM測試設備等零件、設備研發業者，皆瞄準CXL市場積極展開研發。
+Qualitas Semiconductor於8奈米鰭式場效應電晶體（FinFET）製程中提供PCIe 4.0 PHY IP，正投入研發新一代接口規格PCIe 6.0 PHY IP技術，較當前主流使用的PCIe 4.0效能高1倍，近期其表示PCIe 6.0已確保與CXL的兼容性。證券業界指出，預計Qualitas Semiconductor將於2024年完成導入CXL技術的5奈米PCIe 6.0 PHY研發，並於2024年末量產。
+Openedges Technology具備研發CXL控制器所須的IP，有望在CXL記憶體研發中扮演重要角色，伴隨CXL市場發展而受益；新創業者Panmnesia則領先業界研發CXL 3.0 IP，較CXL 2.0速度快1倍，受到市場關注。
+記憶體模組印刷電路板（PCB）業者TLB正參與三星、SK海力士的CXL研發，隨著2024年記憶體大廠開始量產CXL，預期TLB相關CXL模組事業營收也將快速成長。證券業界預估，2024年TLB營業利益將年增239%，達117億韓元（約903萬美元），2025年達178億韓元。
+Neosem則成功研發業界首台CXL DRAM測試設備，繼2022年研發CXL 1.0 DRAM設備後，2023年近一步研發CXL 2.0 DRAM設備，當前Neosem營收中有86%來自固態硬碟（SSD）測試設備銷售。
+市調業者Yole Development預測，全球CXL市場規模到2028年將達150億美元，其中80%（120億美元）將來自CXL DRAM。南韓半導體顯示器技術學會（KSDET）表示，CXL生態系正逐漸形成，成功研發CXL相關設備和零組件的業者將有望受益。
+責任編輯：毛履兆
